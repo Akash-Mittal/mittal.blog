@@ -22,12 +22,13 @@ jobs:
         server: ${{ secrets.MITTAL_BLOG_FTP_SERVER }}
         username: ${{ secrets.MITTAL_FTP_USERNAME}}
         password: ${{ secrets.MITTAL_FTP_PASSWORD }}
-        dry-run: true
+        dry-run: false
         server-dir: /public_html/
         exclude: |
           **/.git*
           **/.git*/**
-          **/akash.mittal.blog*
-          **/akash.mittal.blog*/**
+          **/akash-mittal-blog/etc*
+          **/akash-mittal-blog/badfiles*
+          **/akash-mittal-blog/etc*
           **/.github*
           **/.github*/**
