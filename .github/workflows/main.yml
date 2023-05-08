@@ -26,7 +26,7 @@ jobs:
     - name: Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.1.0
       with:
-        server:  ${{ SECRETS_AKASH_MITTAL_FTP_SERVER }}
-        username: ${{ USER }}
-        password: ${{ SECRETS_AKASH_MITTAL_FTP_PASSWORD }}
-        server-dir: ${{ SECRETS_AKASH_MITTAL_FTP_DIR }}
+        server: ${{ secrets.MITTAL_BLOG_FTP_SERVER }}
+        username: ${{ secrets.MITTAL_FTP_USERNAME }}
+        password: ${{ secrets.MITTAL_FTP_PASSWORD }}
+        server-dir: ${{ secrets.MITTAL_FTP_DIR }}
