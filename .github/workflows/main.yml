@@ -11,29 +11,23 @@ on:
 jobs: 
   # This workflow contains a single job called "build"
   web-deploy:
-    name: Deploy akash.mittal.blog
-
-    # The type of runner that the job will run on
+    name: Deploy to mittal.blog
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     - name: Get latest code
-
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       uses: actions/checkout@v2
-
     - name: Sync Articles
-      uses: SamKirkland/FTP-Deploy-Action@4.1.0
+      uses: SamKirkland/FTP-Deploy-Action@4.3.4
       with:
         server: ${{ secrets.MITTAL_BLOG_FTP_SERVER }}
         username: ${{ secrets.MITTAL_FTP_USERNAME}}
         password: ${{ secrets.MITTAL_FTP_PASSWORD }}
+        dry-run: true
         server-dir: /public_html/
         exclude: |
-          ../.git*
-          ../.git*/**
-          ../akash.mittal.blog*
-          ../akash.mittal.blog*/**
-          ../.github*
-          ../.github*/**          
+          **/.git*
+          **/.git*/**
+          **/akash.mittal.blog*
+          **/akash.mittal.blog*/**
+          **/.github*
+          **/.github*/**
