@@ -17,7 +17,7 @@ jobs:
     - name: Get latest code
       uses: actions/checkout@v2
     - name: Sync Articles
-      uses: SamKirkland/FTP-Deploy-Action@4.3.4
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
         server: ${{ secrets.MITTAL_BLOG_FTP_SERVER }}
         username: ${{ secrets.MITTAL_FTP_USERNAME}}
