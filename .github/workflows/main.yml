@@ -28,7 +28,8 @@ jobs:
           **/.git*
           **/.git*/**
           **/akash-mittal-blog/etc*
+          **/akash-mittal-blog/etc*/**
           **/akash-mittal-blog/badfiles*
-          **/akash-mittal-blog/etc*
+          **/akash-mittal-blog/badfiles*/**
           **/.github*
           **/.github*/**
