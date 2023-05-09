@@ -22,7 +22,7 @@ jobs:
         server: ${{ secrets.MITTAL_BLOG_FTP_SERVER }}
         username: ${{ secrets.MITTAL_FTP_USERNAME}}
         password: ${{ secrets.MITTAL_FTP_PASSWORD }}
-        dry-run: false
+        dry-run: true
         server-dir: /public_html/
         exclude: |
           **/.git*
