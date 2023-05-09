@@ -16,3 +16,4 @@ git add *.*
 git commit -m "Added new HTML files"
 git push https://%GITHUB_USERNAME%:%GITHUB_TOKEN%@github.com/%GITHUB_USERNAME%/%GITHUB_REPO%.git
 endlocal
+
