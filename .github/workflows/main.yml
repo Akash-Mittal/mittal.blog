@@ -17,19 +17,9 @@ jobs:
     - name: Get latest code
       uses: actions/checkout@v2
     - name: Sync Articles
-      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      uses: SamKirkland/FTP-Deploy-Action@3.1.1
       with:
-        server: ${{ secrets.MITTAL_BLOG_FTP_SERVER }}
-        username: ${{ secrets.MITTAL_FTP_USERNAME}}
-        password: ${{ secrets.MITTAL_FTP_PASSWORD }}
-        dry-run: true
+        ftp-server: ${{ secrets.MITTAL_BLOG_FTP_SERVER }}
+        ftp-username: ${{ secrets.MITTAL_FTP_USERNAME}}
+        ftp-password: ${{ secrets.MITTAL_FTP_PASSWORD }}
         server-dir: /public_html/
-        exclude: |
-          **/.git*
-          **/.git*/**
-          **/akash-mittal-blog/etc*
-          **/akash-mittal-blog/etc*/**
-          **/akash-mittal-blog/badfiles*
-          **/akash-mittal-blog/badfiles*/**
-          **/.github*
-          **/.github*/**
