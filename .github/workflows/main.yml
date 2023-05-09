@@ -19,7 +19,7 @@ jobs:
     - name: Sync Articles
       uses: SamKirkland/FTP-Deploy-Action@3.1.1
       with:
-        server: ${{ secrets.MITTAL_BLOG_FTP_SERVER }}
-        username: ${{ secrets.MITTAL_FTP_USERNAME}}
-        password: ${{ secrets.MITTAL_FTP_PASSWORD }}
+        ftp-server: ${{ secrets.MITTAL_BLOG_FTP_SERVER }}
+        ftp-username: ${{ secrets.MITTAL_FTP_USERNAME}}
+        ftp-password: ${{ secrets.MITTAL_FTP_PASSWORD }}
         server-dir: /public_html/
