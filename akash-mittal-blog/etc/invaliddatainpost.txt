@@ -10,8 +10,10 @@ An Eye-Catching Tittle,
 An Eye-Catching Tittle:,
 Personal Anecdotes,
 Quantifiable Examples of,
-An Eye-Catching Title,
+Eye-Catching Title,
 © Your Company, 2022. All rights reserved.,
 © Your Company, 2021. All rights reserved.,
 Copyright © 2021,
-By: Jane Doe
+By: Jane Doe,
+© Your Name Here 2021,
+©2022, ChatGPT all rights reserved.
