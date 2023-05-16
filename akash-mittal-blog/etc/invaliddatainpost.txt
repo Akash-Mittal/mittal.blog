@@ -16,5 +16,8 @@ Eye-Catching Title,
 Copyright © 2021,
 By: Jane Doe,
 © Your Name Here 2021,
-©2022, ChatGPT all rights reserved.
-© 2021 All Rights Reserved
+©2022, ChatGPT all rights reserved.,
+© 2021 All Rights Reserved,
+**Title: ,
+By [Name], [Date]
+
