@@ -19,5 +19,7 @@ By: Jane Doe,
 ©2022, ChatGPT all rights reserved.,
 © 2021 All Rights Reserved,
 **Title: ,
-By [Name], [Date]
+By [Name], 
+[Date],
+<p>© 2022 Example Author. All rights reserved.</p>,
 
