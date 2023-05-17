@@ -1,4 +1,8 @@
 <p>By [Your Name]</p>,
+<h2>Quantifiable Examples</h2>,
+<h2>An Interesting Story</h2>,
+<p>© 2021 All Rights Reserved</p>,
+<h2>Personal Anecdotes</h2>,
 Conclusion in 3 Points,
 By: Your Name,
 Real-World Examples,
