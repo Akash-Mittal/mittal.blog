@@ -22,4 +22,6 @@ By: Jane Doe,
 By [Name], 
 [Date],
 <p>© 2022 Example Author. All rights reserved.</p>,
-
+Title: ,
+Title-- ,
+Title- ,
