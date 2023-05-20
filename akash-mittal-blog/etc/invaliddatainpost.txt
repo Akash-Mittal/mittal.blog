@@ -1,3 +1,4 @@
+<p>By Jane Doe</p>,
 <p>© 2021 ChatGPT. All rights reserved.</p>,
 <p>By: [Your Name]\, [Your Position]</p>,
 <p>By [Your Name]</p>,
