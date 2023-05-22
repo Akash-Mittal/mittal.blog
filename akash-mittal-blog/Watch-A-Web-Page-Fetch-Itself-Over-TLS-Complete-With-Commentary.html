@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+ <head>
+  <title>Watch A Web Page Fetch Itself Over TLS Complete With Commentary</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="styles.css">
+ </head>
+ <body>
+  <header>
+   <h1>How to Watch A Web Page Fetch Itself Over TLS</h1> <img src="images/Watch-A-Web-Page-Fetch-Itself-Over-TLS-Complete-With-Commentary.jpeg" alt="+Watch-A-Web-Page-Fetch-Itself-Over-TLS-Complete-With-Commentary+">
+  </header>
+  <section>
+   <h2>An interesting story</h2>
+   <p>Have you ever wondered what happens behind the scenes when you visit a website over TLS? TLS (Transport Layer Security) is a protocol that encrypts the communication between your browser and the web server, ensuring that no one can eavesdrop on your data. But how does it work exactly? And how can you see it in action?</p>
+   <p>Well, the good news is that it's easier than you might think. In this article, we'll show you how to use a simple tool called Wireshark to capture and analyze the traffic between your browser and a web server. We'll use a live example and provide commentary along the way, so you can see exactly what's happening step by step.</p>
+  </section>
+  <section>
+   <h2>Quantifiable examples</h2>
+   <p>Before we dive into the details, let's start with a simple example. Open your browser and go to https://www.google.com. This is a web page served over TLS, so your browser and the web server will perform a series of complex handshakes to establish a secure channel for communication. But what does that look like in practice?</p>
+   <p>To find out, we'll use Wireshark to capture the traffic between your browser and google.com. Wireshark is a free and open-source network protocol analyzer that lets you capture and analyze packets in real-time. You can download it from the official website and install it on your computer.</p>
+   <p>Once you've installed Wireshark, launch it and select the interface that corresponds to your internet connection (e.g., Ethernet, Wi-Fi). Then, start a new capture by clicking on the "Capture" menu and choosing "Start". You should see a list of packets scrolling by in real-time.</p>
+   <p>Now, go back to your browser and navigate to https://www.google.com. As you're loading the page, you'll see a lot of packets being captured by Wireshark. Most of them are irrelevant for our purposes, but some of them contain important information about the TLS handshake. We'll focus on those.</p>
+   <p>Once the page is fully loaded, stop the capture by clicking on the "Capture" menu and choosing "Stop". You should see a list of all the packets that were captured during the capture session. Find the one that corresponds to the TLS handshake by looking for a packet with the protocol "TLS" and the info "Handshake Protocol: Client Hello".</p>
+   <p>Click on that packet to see its details in the lower pane. You should see a lot of information, but the most important one is the "Handshake Protocol" section, which shows the four steps of the TLS handshake:</p>
+   <ol>
+    <li>The client sends a "Client Hello" message to the server, containing its TLS version, a random number, and a list of cipher suites and compression methods it supports.</li>
+    <li>The server responds with a "Server Hello" message, containing its chosen TLS version, a random number, and the cipher suite and compression method it will use for this session.</li>
+    <li>The server sends its certificate (or a chain of certificates, if needed) to the client, proving its identity.</li>
+    <li>The client verifies the certificate (using a process called "certificate chaining"), and sends a "Finished" message to the server, indicating that it has completed the handshake and is ready to exchange encrypted data.</li>
+   </ol>
+   <p>By analyzing these four steps, we can see the details of the TLS handshake and how it establishes a secure channel between the client and the server.</p>
+  </section>
+  <section>
+   <h2>Personal anecdotes and practical tips</h2>
+   <p>While the above example is interesting, it might not be practical for everyone. After all, not everyone wants to go through the trouble of capturing packets and analyzing them in Wireshark. So, here are some practical tips and personal anecdotes to help you get started:</p>
+   <ul>
+    <li>If you're not familiar with Wireshark, start with the official documentation and tutorials. There are plenty of resources available online to help you learn the basics and advanced features of the tool.</li>
+    <li>If you're using a browser that supports dev tools (such as Google Chrome or Firefox), you can use the "Network" tab to see the traffic between your browser and a web server, including the TLS handshake. The advantage of using dev tools is that you don't have to install any additional software, and you can see the traffic in a more user-friendly way.</li>
+    <li>If you're interested in learning more about TLS and web security in general, there are plenty of online courses and tutorials available. Some of the most popular ones include the "Applied Crypto" course by Dan Boneh on Coursera, and the "Web Security Basics" course by Troy Hunt on Pluralsight.</li>
+    <li>If you're a developer, it's important to understand the details of TLS and how it affects your code. For example, you need to make sure that your web server supports the latest TLS versions and cipher suites, and that your code doesn't introduce any security vulnerabilities (such as mixed content or weak cipher suites).</li>
+    <li>If you're using a CDN or a third-party service (such as Cloudflare or Akamai), you need to make sure that they also support TLS and that they don't introduce any security vulnerabilities or performance issues (such as certificate revocation or latency).</li>
+    <li>If you're a website owner or an administrator, it's important to use TLS to protect your users' data and privacy. You should also make sure that your TLS configuration is up-to-date and secure, and that you don't use any deprecated or vulnerable protocols or cipher suites.</li>
+   </ul>
+  </section>
+  <section>
+   <h2>Conclusion in 3 points</h2>
+   <ul>
+    <li>TLS is a protocol that encrypts the communication between a client and a server, ensuring that no one can eavesdrop on their data.</li>
+    <li>The TLS handshake is a series of four steps that establish a secure channel between the client and the server.</li>
+    <li>You can use tools like Wireshark or the dev tools in your browser to capture and analyze the traffic between your browser and a web server, and see the details of the TLS handshake.</li>
+   </ul>
+  </section>
+  <footer>
+   <h4>References and hashtags</h4>
+   <ul>
+    <li><a href="https://www.wireshark.org/" target="_blank">Wireshark</a></li>
+    <li><a href="https://www.coursera.org/learn/crypto" target="_blank">Applied Crypto by Dan Boneh</a></li>
+    <li><a href="https://www.pluralsight.com/courses/web-security-basics" target="_blank">Web Security Basics by Troy Hunt</a></li>
+    <li>Keywords: TLS, encryption, security, web, network</li>
+    <li>Hashtags: #TLS #encryption #security #web #network</li>
+    <li>Category: Technology</li>
+   </ul>
+  </footer>
+ <section id=social>
+<h2>Curated by Team Akash.Mittal.Blog  </h2>
+<p>
+  <a href="https://twitter.com/intent/tweet?url=https://akash.mittal.blog/Watch-A-Web-Page-Fetch-Itself-Over-TLS-Complete-With-Commentary.html" target="_blank">
+  <i class="fa fa-twitter"></i> Share on Twitter
+</a>
+</br>
+<a href="https://www.linkedin.com/shareArticle?url=https://akash.mittal.blog/Watch-A-Web-Page-Fetch-Itself-Over-TLS-Complete-With-Commentary.html" target="_blank">
+  <i class="fa fa-linkedin"></i> Share on LinkedIn
+</a>
+</p>
+</section>
+</body>
+</html>
