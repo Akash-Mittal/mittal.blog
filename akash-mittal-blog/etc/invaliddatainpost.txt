@@ -1,3 +1,5 @@
+<p>By <span class="author">John Doe</span> | <span class="date">July 31, 2021</span></p>,
+<p>Published on (insert date), by (insert author name)</p>,
 <p>By John Doe</p>,
 By ____________,
 <p>By Maria Rodriguez</p>,
