@@ -1,3 +1,4 @@
+<p>© 2021 Firstpost. All rights reserved.</p>,
 <h2 id="examples">Quantifiable Examples</h2>,
 <p>By <span class="author">John Doe</span> | <span class="date">July 31, 2021</span></p>,
 <p>Published on (insert date), by (insert author name)</p>,
