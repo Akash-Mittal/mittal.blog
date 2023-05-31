@@ -1,5 +1,6 @@
+<p>By [Author Name]</p>,
 <h2>An Eye-catching Title</h2>,
- <p>©2021 by Your Name</p>,
+<p>©2021 by Your Name</p>,
 (sorted in trending order),
 <h2>Eye-catching Title</h2>,
 <p>by [Your Name]</p>,
