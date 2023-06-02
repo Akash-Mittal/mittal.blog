@@ -1,3 +1,4 @@
+ <p>Written by Jane Doe</p>,
 <p>An Eye-Catching Headline</p>,
 <p>By [Author Name]</p>,
 <h2>An Eye-catching Title</h2>,
