@@ -1,0 +1,12 @@
+From the following 
+INPUTSOURCE
+write a 2000 Words article in html5 format 
+The article should start with an interesting story
+The article must have some examples
+The article should have conclusion in 3 points
+Also Consider including personal anecdotes or case studies to illustrate your points, 
+and be sure to provide practical tips when possible
+In the end of the article please provide 
+Hashtags sorted in trending order and
+with SEO Keywords and 
+with article Category
