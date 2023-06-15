@@ -1,5 +1,5 @@
 From the following 
-INPUTSOURCE
+INPUTSOURCE0
 write a 2000 Words article in html5 format 
 The article should start with an interesting story
 The article must have some quantifiable examples

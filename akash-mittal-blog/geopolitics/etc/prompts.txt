@@ -1,5 +1,5 @@
 From the following 
-INPUTSOURCE
+INPUTSOURCE0
 write a 3000 Words article in html5 format 
 starting with an interesting story
 with some examples
