@@ -16,8 +16,8 @@ git add ./*.css
 git add ./*/*.jpeg
 git add ./*/*/*.*
 git add ./*/*/*/*.*
-git add ./*/2023/*/*/*.*
-git add ./*/2023/*/*/*/*.*
+git add ./*/*/2023/*/*/*.*
+git add ./*/*/2023/*/*/*/*.*
 
 git commit -m "Added new HTML files"
 git push https://%GITHUB_USERNAME%:%GITHUB_TOKEN%@github.com/%GITHUB_USERNAME%/%GITHUB_REPO%.git
