@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-39520349-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-39520349-3');
+</script>
+<title>Latest Goa English News | oHeraldo English News Daily | Goa News Online</title><meta name="keywords" content="Goa News, Goa English News"><meta name="description" content="Goa News : Latest Goa News Updates from oHeraldo,  Goa's Largest Circulated English News daily. Get all your Daily News Updates. Fearless Reporting. Subscribe to get the latest news in Goa"><meta property="fb:pages" content="478538238946505" /><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:type" content="Website" /><meta property="og:title" content="Latest Goa English News | oHeraldo English News Daily | Goa News Online" /><meta property="og:url" content="https://www.heraldgoa.in/" /><meta property="og:description" content="Goa News : Latest Goa News Updates from oHeraldo,  Goa's Largest Circulated English News daily. Get all your Daily News Updates. Fearless Reporting. Subscribe to get the latest news in Goa" /><meta property="og:image" content="https://www.heraldgoa.in/img/logo.jpg" /><meta name="twitter:card" content="summary" /><meta name="twitter:site" content="@oheraldogoa" /><meta name="twitter:title" content="Latest Goa English News | oHeraldo English News Daily | Goa News Online" /><meta name="twitter:description" content="Goa News : Latest Goa News Updates from oHeraldo,  Goa's Largest Circulated English News daily. Get all your Daily News Updates. Fearless Reporting. Subscribe to get the latest news in Goa" /><meta name="twitter:image" content="https://www.heraldgoa.in/img/logo.jpg" /><meta name="twitter:url" content="https://www.heraldgoa.in/" />
+<link rel="canonical" href="https://www.heraldgoa.in/" />
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,700|IBM+Plex+Serif:400,500,500i&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://www.heraldgoa.in/css/main-style.css">
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org",
+	"@type": "NewsMediaOrganization",
+	"name": "Herald Goa",
+	"alternateName": "oHeraldo Goa",
+	"url": "https://www.heraldgoa.in/",
+	"logo": "https://www.heraldgoa.in/img/logo.jpg",
+	"address": {
+	"@type": "PostalAddress",
+	"streetAddress": "HERALD PUBLICATIONS PVT LIMITED, AF1-AF5 - Campal Trade Center, Opp Taj Vivanta,, Behind Military Hospital,",
+	"addressLocality": "St Inez, Panjim",
+	"addressRegion": "Goa",
+	"postalCode": "403001",
+	"Telephone": "+91-832-2224202"
+	},
+	"sameAs": [
+		"https://www.facebook.com/oheraldogoa",
+		"https://twitter.com/oheraldogoa",
+		"https://www.youtube.com/channel/UC7J_xpeCOZ7OMFC__2VF1pw"
+	]
+}
+</script>
+<script type="text/javascript">
+//OLD
+/*if(typeof colombia == 'undefined')
+{
+	var colombia = colombia || {};
+	colombia.fns = colombia.fns || [];
+	(function() {
+		  var cads = document.createElement("script");
+		  cads.async = true;
+		  cads.type = "text/javascript";
+		  cads.src = "http://static.clmbtech.com/ctn/commons/js/colombia_v2.js";
+		  var node = document.getElementsByTagName("script")[0];
+		  node.parentNode.insertBefore(cads, node);
+	})();
+}*/
+
+	
+//NEW - ADDED ON 07-07-2020
+		if(typeof colombia == 'undefined')
+		{
+			var colombia = colombia || {};
+			colombia.fns = colombia.fns || [];
+			(function() {
+				  var cads = document.createElement("script");
+				  cads.async = true;
+				  cads.type = "text/javascript";
+				  cads.src = "//static.clmbtech.com/ctn/commons/js/colombia_v2.js";
+				  var node = document.getElementsByTagName("script")[0];
+				  node.parentNode.insertBefore(cads, node);
+			})();
+		}
+	
+function adwidget(data,container)
+{
+	if (data != null)
+	{	
+	var conObj = document.getElementById(container);
+	var conText= "";
+	var callToAction = "";
+	 if(data.hasOwnProperty('paidAds')){
+		for(var i=0; i<data.paidAds.length; i++) 
+		 {
+		  if(data.paidAds[i].itemType==2 && data.paidAds[i].ctaText!="") {
+			   callToAction = "<input class='callactbutton' type='button' value='"+data.paidAds[i].ctaText+"'onclick=window.open('"+data.paidAds[i].clk[0]+"')>";
+			  }
+		   conText+='<div class="colombiaAds" onmouseover = "javascript:document.getElementById(\'colombialogo'+i+'\').src=\'http://static.clmbtech.com/ctn/commons/images/colombia_red_small.png \'" onmouseout = "javascript:document.getElementById(\'colombialogo'+i+'\').src=\''+data.paidAds[i].colombiaLogo+'\'"><a target="_blank" href="' + data.paidAds[i].clk[0] + '" title="' + data.paidAds[i].title + '"><img class="lazy" src="' + data.paidAds[i].mainimage + '" alt="' + data.paidAds[i].title + '"></a><a target="_blank" href="' + data.paidAds[i].clk[0] + '">' + data.paidAds[i].title+"-"+data.paidAds[i].text + '</a><p class="sponsored">Sponsored by ' + data.paidAds[i].brandtext + '<img class="flr" id="colombialogo'+i+'" src="' + data.paidAds[i].colombiaLogo + '" width="14" height="14"></p></div>';
+		   conText+=callToAction;	
+		}
+	}
+	if(data.hasOwnProperty('organicAds')){
+	  conText += "<br><br><div>Organic Ads</div>";
+		for(var j=0; j<data.organicAds.length; j++) 
+		 {
+		   conText+='<div class="colombiaAds" onmouseover = "javascript:document.getElementById(\'colombialogo'+j+'\').src=\'http://static.clmbtech.com/ctn/commons/images/colombia_red_small.png \'" onmouseout = "javascript:document.getElementById(\'colombialogo'+j+'\').src=\''+data.organicAds[j].colombiaLogo+'\'"><a target="_blank" href="' + data.organicAds[j].clk[0] + '" title="' + data.organicAds[j].title + '"><img class="lazy" src="' + data.organicAds[j].mainimage + '" alt="' + data.organicAds[j].title + '"></a><a target="_blank" href="' + data.organicAds[j].clk[0] + '">' + data.organicAds[j].titletitle+"-"+data.organicAds[j].text + '</a><p class="sponsored">Sponsored by ' + data.organicAds[j].brandtext + '<img class="flr" id="colombialogo'+j+'" src="' + data.organicAds[j].colombiaLogo + '" width="14" height="14"></p></div>';
+		}
+	}
+	
+	  conObj.innerHTML = conText;
+	  conObj.style.display = '';
+	}
+}
+</script>
+</head>
+<body>
+<header>
+<div class>
+<div class="search-box">
+<form action="https://www.heraldgoa.in/search.php" method="get">
+<input id="dd_user_input" class="txtsearch" name="q" placeholder="Search" required value type="search">
+<button type="submit" class="sub-btn"> <img src="https://www.heraldgoa.in/img/search-icon.png" alt /></button>
+</form>
+</div>
+</div>
+<div class="navigations">
+<div class="container">
+<div class="brand-info">
+<div class="date"> <a href="https://www.heraldgoa.in/"><img src="https://www.heraldgoa.in/img/logo.jpg" class="logo" /></a>
+<h4>TUESDAY, JUNE 27, 2023</h4>
+</div>
+<div class="adv-block">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8657336033133527" data-ad-slot="5106150000"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="head-links-bx">
+<a href="https://www.heraldgoa.in/Citizen-Jornalist"><img class="img-citizens" src="https://www.heraldgoa.in/img/header-citizen.png" /></a>
+<ul>
+<li><a href="https://www.facebook.com/oheraldogoa"><img src="https://www.heraldgoa.in/img/fb.jpg" /></a></li>
+<li><a href="https://twitter.com/oheraldogoa"><img src="https://www.heraldgoa.in/img/tw.jpg" /></a></li>
+<li><a href="https://www.youtube.com/channel/UC7J_xpeCOZ7OMFC__2VF1pw"><img src="https://www.heraldgoa.in/img/yt.jpg" /></a></li>
+
+<li id="search"><a style="cursor:pointer"><img src="https://www.heraldgoa.in/img/search.jpg" /></a></li>
+</ul>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<div class="mob-menu">
+<div class="container">
+<div class="menu-bx"> <a class="search-btn"><img src="https://www.heraldgoa.in/img/icons/8.jpg" class="search" /></a>
+<div class="m-logo"> <a href="https://www.heraldgoa.in/"><img src="https://www.heraldgoa.in/img/logo.jpg" class="m-logo"></a> </div>
+<a class="menu-btn"><img src="https://www.heraldgoa.in/img/icons/9.jpg" class="bars" /></a> </div>
+</div>
+</div>
+<div class="mob-menu-list">
+<ul class="m-list">
+<a href="https://www.heraldgoa.in/">
+<li>Home</li>
+</a>
+<li class="has-sub-list"><a href="https://www.heraldgoa.in/Goa">Goa<div class="tog-bx plus"></div></a><ul class="sub-list"><li><a href="https://www.heraldgoa.in/Citizen-Herald">Citizen Herald</a></li><li><a href="https://www.heraldgoa.in/Monsoon-Session">Monsoon Session</a></li><li><a href="https://www.heraldgoa.in/Assembly-Session">Assembly Session</a></li><li><a href="https://www.heraldgoa.in/Goas-watergate">Goa's watergate</a></li><li><a href="https://www.heraldgoa.in/budget-20212020">budget 2021-2020</a></li><li><a href="https://www.heraldgoa.in/fighting-covid">fighting covid</a></li><li><a href="https://www.heraldgoa.in/voice-of-southgoa">voice of southgoa</a></li><li><a href="https://www.heraldgoa.in/Goa-Assembly-Polls">Goa Assembly Polls</a></li><li><a href="https://www.heraldgoa.in/FROM-WARDS-VADDOS">FROM WARDS & VADDOS</a></li></ul></li><li class="has-sub-list"><a href="#">Edit<div class="tog-bx plus"></div></a><ul class="sub-list"><li><a href="https://www.heraldgoa.in/Editorial">Editorial</a></li><li><a href="https://www.heraldgoa.in/Opinions">Opinions</a></li><li><a href="https://www.heraldgoa.in/People-Edit">People Edit</a></li><li><a href="https://www.heraldgoa.in/Letters">Letters</a></li><li><a href="https://www.heraldgoa.in/Fly-on-the-wall-">Fly on the wall </a></li><li><a href="https://www.heraldgoa.in/GOA-ALLEGRETTO">GOA ALLEGRETTO</a></li><li><a href="https://www.heraldgoa.in/UPFRONT">UPFRONT</a></li><li><a href="https://www.heraldgoa.in/By-invitation">By invitation</a></li></ul></li><li><a href="https://www.heraldgoa.in/herald-tv.php">HeraldTV Live</a></li><li class="has-sub-list"><a href="https://www.heraldgoa.in/Cafe">Cafe<div class="tog-bx plus"></div></a><ul class="sub-list"><li><a href="https://www.heraldgoa.in/Business-With-Pleasure">Business With Pleasure</a></li><li><a href="https://www.heraldgoa.in/Ideas-For-Goa">Ideas For Goa</a></li></ul></li><li><a href="https://www.heraldgoa.in/Sports">Sports</a></li><li><a href="https://www.heraldgoa.in/Review">Review</a></li><li><a href="https://www.heraldgoa.in/Videos">Videos</a></li><li><a href="https://www.heraldgoa.in/Insight">Insight</a></li> <a href="https://www.heraldgoa.in/Obituaries">
+<li>Obituaries</li>
+</a> <a href="https://www.heraldgoa.in/Archives">
+<li>ARCHIVES</li>
+</a> <a href="https://www.heraldgoa.in/Advertisement">
+<li>ADVERTISE</li>
+</a> <a href="https://www.heraldgoa.in/Contact">
+<li>CONTACT US</li>
+</a> <a href="http://epaper.heraldgoa.in/">
+<li>E-paper</li>
+</a>
+</ul>
+</div>
+<div class="menu">
+<div class="sticky">
+<div class="container">
+<ul id="nav-list" class="navigation">
+<li><a href="https://www.heraldgoa.in/"><img src="https://www.heraldgoa.in/img/home.png" alt /></a></li>
+<li class="has-list"><a href="https://www.heraldgoa.in/Goa">Goa<i class="fa fa-chevron-down" aria-hidden="true"></i></a><ul class="list"><li><a href="https://www.heraldgoa.in/Citizen-Herald">Citizen Herald</a></li><li><a href="https://www.heraldgoa.in/Monsoon-Session">Monsoon Session</a></li><li><a href="https://www.heraldgoa.in/Assembly-Session">Assembly Session</a></li><li><a href="https://www.heraldgoa.in/Goas-watergate">Goa's watergate</a></li><li><a href="https://www.heraldgoa.in/budget-20212020">budget 2021-2020</a></li><li><a href="https://www.heraldgoa.in/fighting-covid">fighting covid</a></li><li><a href="https://www.heraldgoa.in/voice-of-southgoa">voice of southgoa</a></li><li><a href="https://www.heraldgoa.in/Goa-Assembly-Polls">Goa Assembly Polls</a></li><li><a href="https://www.heraldgoa.in/FROM-WARDS-VADDOS">FROM WARDS & VADDOS</a></li></ul></li><li class="has-list"><a href="#">Edit<i class="fa fa-chevron-down" aria-hidden="true"></i></a><ul class="list"><li><a href="https://www.heraldgoa.in/Editorial">Editorial</a></li><li><a href="https://www.heraldgoa.in/Opinions">Opinions</a></li><li><a href="https://www.heraldgoa.in/People-Edit">People Edit</a></li><li><a href="https://www.heraldgoa.in/Letters">Letters</a></li><li><a href="https://www.heraldgoa.in/Fly-on-the-wall-">Fly on the wall </a></li><li><a href="https://www.heraldgoa.in/GOA-ALLEGRETTO">GOA ALLEGRETTO</a></li><li><a href="https://www.heraldgoa.in/UPFRONT">UPFRONT</a></li><li><a href="https://www.heraldgoa.in/By-invitation">By invitation</a></li></ul></li><li><a href="https://www.heraldgoa.in/herald-tv.php">HeraldTV Live</a></li><li class="has-list"><a href="https://www.heraldgoa.in/Cafe">Cafe<i class="fa fa-chevron-down" aria-hidden="true"></i></a><ul class="list"><li><a href="https://www.heraldgoa.in/Business-With-Pleasure">Business With Pleasure</a></li><li><a href="https://www.heraldgoa.in/Ideas-For-Goa">Ideas For Goa</a></li></ul></li><li><a href="https://www.heraldgoa.in/Sports">Sports</a></li><li><a href="https://www.heraldgoa.in/Review">Review</a></li><li><a href="https://www.heraldgoa.in/Videos">Videos</a></li><li><a href="https://www.heraldgoa.in/Insight">Insight</a></li> <li><a href="https://www.heraldgoa.in/Obituaries">Obituaries</a></li>
+<li><a href="https://www.heraldgoa.in/Archives">ARCHIVES</a></li>
+<li><a href="https://www.heraldgoa.in/Advertisement">ADVERTISE</a></li>
+<li><a href="https://www.heraldgoa.in/Contact">CONTACT US</a></li>
+<li><a href="http://epaper.heraldgoa.in/">E-paper</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</header>
+
+<div class="wrapper" id="news-main-block">
+<div class="container">
+<div class="news-inner-block"> <div class="news-left-bx"><div class="news-bx"><a style="cursor:pointer;" href="https://www.heraldgoa.in/Goa/Geetanjali-signs-off-with-silver-in-400m-Level-C-athletics-in-all-Goa’s-‘special-children’-claim-19-medals-9-gold-5-silver-5-bronze/206679"><div class="img-container"><img src="https://www.heraldgoa.in/uploads/news/206679_Geetanjali-Nagvekar-2.jpg" class="main-news-img" alt="Geetanjali signs off with silver in 400m Level C athletics; in all,  Goa’s ‘special children’ claim 19 medals - 9 gold, 5 silver, 5 bronze" /></div><img src="https://www.heraldgoa.in/img/overlay-img.png" class="b-overlay" alt="overlay" /><h2>Geetanjali signs off with silver in 400m Level C athletics; in all, Goa’s ‘special children’ claim 19 medals - 9 gold, 5 silver, 5 bronze</h2></a></div><div class="news-list-bx"><div class="head-img-bx"><h3>News Today</h3><a href="https://www.heraldgoa.in/News-Today/Tuem-Residents-Struggle-with-Water-Shortage-as-Taps-Run-Dry/206711"> <div class="img-container"><img src="https://www.heraldgoa.in/uploads/news/206711_Screenshot-2023-06-26-164152.png" class="main-news-img" alt="Tuem Residents Struggle with Water Shortage as Taps Run Dry" /></div></a></div><ul><li><a href="https://www.heraldgoa.in/News-Today/Tuem-Residents-Struggle-with-Water-Shortage-as-Taps-Run-Dry/206711">Tuem Residents Struggle with Water Shortage as Taps Run Dry</a></li><li><a href="https://www.heraldgoa.in/News-Today/Tragic-accident-claims-the-life-of-police-constable-at-Sada/206710">Tragic accident claims the life of police constable at Sada</a></li><li><a href="https://www.heraldgoa.in/News-Today/Police-intensify-patrolling-at-Port-town-to-maintain-peace/206541">Police intensify patrolling at Port town to maintain peace</a></li><li><a href="https://www.heraldgoa.in/News-Today/One-arrested-at-Sangolda-with-drugs-worth-Rs-280-lakh/206486">One arrested at Sangolda with drugs worth Rs 2.80 lakh</a></li></ul><div class="view-bx"><a href="https://www.heraldgoa.in/News-Today"><p>view all</p></a> </div></div><div class="news-bx"><a style="cursor:pointer;" href="https://www.heraldgoa.in/Goa/DAMAGE-CONTROL-DGP-assures-to-modify-standing-order-blocking-info-to-media-/206680"><div class="img-container"><img src="https://www.heraldgoa.in/uploads/news/206680_bHYMllZK_400x400.jpg" class="main-news-img" alt="DAMAGE CONTROL: DGP  assures to modify standing  order blocking info to media " /></div><img src="https://www.heraldgoa.in/img/overlay-img.png" class="b-overlay" alt="overlay" /><h4>DAMAGE CONTROL: DGP assures to modify standing order blocking info to media </h4></a></div><div class="news-bx"><a style="cursor:pointer;" href="https://www.heraldgoa.in/Goa/IMD-predicts-heavy-showers-till-June-29/206681"><div class="img-container"><img src="https://www.heraldgoa.in/uploads/news/206681_download.jpg" class="main-news-img" alt="IMD predicts heavy showers till June 29" /></div><img src="https://www.heraldgoa.in/img/overlay-img.png" class="b-overlay" alt="overlay" /><h4>IMD predicts heavy showers till June 29</h4></a></div><div class="news-bx"><a style="cursor:pointer;" href="https://www.heraldgoa.in/Goa/Private-bus-owners-in-a-‘quandary’-whether-to-opt-for-‘Mhaji-Bus’-scheme/206682"><div class="img-container"><img src="https://www.heraldgoa.in/uploads/news/206682_big_160250_bus.jpg" class="main-news-img" alt="Private bus owners in a ‘quandary’ whether to opt for ‘Mhaji Bus’ scheme" /></div><img src="https://www.heraldgoa.in/img/overlay-img.png" class="b-overlay" alt="overlay" /><h4>Private bus owners in a ‘quandary’ whether to opt for ‘Mhaji Bus’ scheme</h4></a></div><div class="news-bx mob-tw"><div class="tw-head-bx"><h3><a href="https://twitter.com/oheraldogoa" target="_blank">@oheraldogoa</a></h3></div><iframe src="https://www.heraldgoa.in/twitter.php" width="100%" height="290" style="border:0px;padding:0px;margin:0px;" frameborder="0" scrolling="yes"></iframe></div></div> <div class="news-right-bx">
+<div class="adv-bx"><a href="https://www.heraldgoa.in/herald-tv.php"><img src="https://www.heraldgoa.in/images/herald-tv.jpg"></a></div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-8657336033133527" data-ad-slot="3513430809"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<div class="news-video-bx"><h3>Videos<span class="video-view">VIEW ALL</span></h3><a href="https://www.heraldgoa.in/Videos/Porvorim-teenager-feared-dro-wned-at-Velguem-Body-found/206718"><div class="video-box" style="position:relative;"><img src="//img.youtube.com/vi/EoMf3dfLq7s/hqdefault.jpg" width="100%" alt /> <img style="position:absolute;width: 25%;top: 25%;right: 0;left: 38%;bottom: 0;" src="https://www.heraldgoa.in/img/play-i.png" width="100%" alt /> </div></a><div class="video-heading"><a href="https://www.heraldgoa.in/Videos/Porvorim-teenager-feared-dro-wned-at-Velguem-Body-found/206718"><h2>Porvorim teenager feared dro. wned at Velguem, B.od.y found</h2></a></div><div class="clear"></div></div> </div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<div class="wrapper" id="news-list-block">
+<div class="container">
+<div class="news-inner-block">
+<div class="set-heights news-left-bx"> <div class="news-list-bx"><div class="head-img-bx"><h3>Edit</h3></div><ul><li><a href="https://www.heraldgoa.in/Edit/Worshipping-Portugueseera-trees/206046">Worshipping Portuguese-era trees</a></li><li><a href="https://www.heraldgoa.in/Edit/The-Population-Problem/206047">The Population Problem</a></li><li><a href="https://www.heraldgoa.in/Edit/Letters-to-the-editor-13-June-2023/206048">Letters to the editor (13 June 2023)</a></li><li><a href="https://www.heraldgoa.in/Edit/Making-Goa-a-‘safe-tourism-destination’/206618">Making Goa a ‘safe tourism destination’</a></li></ul><div class="view-bx"><a href="https://www.heraldgoa.in/Edit"><p>view all</p></a> </div></div><div class="news-list-bx"><div class="head-img-bx"><h3>Goa</h3><a href="https://www.heraldgoa.in/Goa/Shoddy-road-work-failure-to-repair-drains-leave-Morjim-roads-flooded/206666"> <div class="img-container"><img src="https://www.heraldgoa.in/uploads/news/206666_Screenshot-2023-06-26-115019.png" class="main-news-img" alt="Shoddy road work, failure to repair drains leave Morjim roads flooded" /></div></a></div><ul><li><a href="https://www.heraldgoa.in/Goa/Shoddy-road-work-failure-to-repair-drains-leave-Morjim-roads-flooded/206666">Shoddy road work, failure to repair drains leave Morjim roads flooded</a></li><li><a href="https://www.heraldgoa.in/Goa/Porvorim-teenager-feared-drowned-at-Velguem/206673">Porvorim teenager feared drowned at Velguem</a></li><li><a href="https://www.heraldgoa.in/Goa/Sunanda-Parsekar’s-‘vocal-for-local’-ethos-has-made-her-Mapusa’s-favourite-banana-merchant/206329">Sunanda Parsekar’s ‘vocal for local’ ethos has made her Mapusa’s favourite banana merchant</a></li><li><a href="https://www.heraldgoa.in/Goa/Employ-more-staff-at-Divar-bank-branch/206662">Employ more staff at Divar bank branch</a></li></ul><div class="view-bx"><a href="https://www.heraldgoa.in/Goa"><p>view all</p></a> </div></div><div class="news-list-bx desk-tw"><div class="news-bx desk-tw"><div class="tw-head-bx"><h3><a href="https://twitter.com/oheraldogoa" target="_blank">@oheraldogoa</a></h3></div><iframe src="https://www.heraldgoa.in/twitter.php" width="100%" height="290" style="border:0px;padding:0px;margin:0px;" frameborder="0" scrolling="yes"></iframe></div></div><div class="news-list-bx"><div class="head-img-bx"><h3>Business</h3><a href="https://www.heraldgoa.in/Business/Massive-Layoffs-in-Indian-Tech-Sector/200173"> <div class="img-container"><img src="https://www.heraldgoa.in/uploads/news/200173_Massive-Layoffs-in-Indian-Tech-Sector.jpg" class="main-news-img" alt="Massive Layoffs in Indian Tech Sector" /></div></a></div><ul><li><a href="https://www.heraldgoa.in/Business/Massive-Layoffs-in-Indian-Tech-Sector/200173">Massive Layoffs in Indian Tech Sector</a></li><li><a href="https://www.heraldgoa.in/Business/Aakash-BYJU’s-launches-Education-for-All-initiative/193360">Aakash BYJU’s launches Education for All initiative</a></li><li><a href="https://www.heraldgoa.in/Business/Pushing-through/189317">Pushing through</a></li><li><a href="https://www.heraldgoa.in/Business/Tourism-Dept-seals-Mandovi-Riviera-/193359">Tourism Dept seals Mandovi Riviera </a></li></ul><div class="view-bx"><a href="https://www.heraldgoa.in/Business"><p>view all</p></a> </div></div><div class="news-list-bx"><div class="head-img-bx"><h3>Insight</h3><a href="https://www.heraldgoa.in/Insight/As-Goa-is-getting-destroyed-we-are-hearing-the-silence-of-the-paid-lambs/205726"> <div class="img-container"><img src="https://www.heraldgoa.in/uploads/news/205726_cock---INSIGHT.jpg" class="main-news-img" alt="As Goa is getting destroyed, we are hearing the silence  of the paid lambs" /></div></a></div><ul><li><a href="https://www.heraldgoa.in/Insight/As-Goa-is-getting-destroyed-we-are-hearing-the-silence-of-the-paid-lambs/205726">As Goa is getting destroyed, we are hearing the silence of the paid lambs</a></li><li><a href="https://www.heraldgoa.in/Insight/The-countdown-to-the-sangtam-catfish-food-festival-of-Panjim-starts/204934">The countdown to the sangtam (catfish) food festival of Panjim starts</a></li><li><a href="https://www.heraldgoa.in/Insight/Do-not-take-your-religion-to-the-ballot-box/204424">Do not take your religion to the ballot box</a></li><li><a href="https://www.heraldgoa.in/Insight/Democracy-shines-in-Goa-because-we-have-nonelected-living-and-martyred-heroes-who-defend-our-constitution/203288">Democracy shines in Goa because we have non-elected living and martyred heroes who defend our constitution</a></li></ul><div class="view-bx"><a href="https://www.heraldgoa.in/Insight"><p>view all</p></a> </div></div><div class="news-list-bx"><div class="head-img-bx"><h3>Sports</h3><a href="https://www.heraldgoa.in/Sports/Goans-continue-to-shine-at-Special-Olympics/206626"> <div class="img-container"><img src="https://www.heraldgoa.in/uploads/news/206626_The-4-Goan-footballers.jpg" class="main-news-img" alt="Goans continue to shine at Special Olympics" /></div></a></div><ul><li><a href="https://www.heraldgoa.in/Sports/Goans-continue-to-shine-at-Special-Olympics/206626">Goans continue to shine at Special Olympics</a></li><li><a href="https://www.heraldgoa.in/Sports/Bids-for-direct-entry-into-GPL/206678">Bids for direct entry into GPL</a></li><li><a href="https://www.heraldgoa.in/Sports/Anushri-Pratigya-Gargi-Danishta-Urvi-Samaira-move-into-TT-finals/206625">Anushri, Pratigya, Gargi, Danishta, Urvi, Samaira move into TT finals</a></li><li><a href="https://www.heraldgoa.in/Sports/A-J-de-Almeida-HS-emerge-champions/206624">A J de Almeida HS emerge champions</a></li></ul><div class="view-bx"><a href="https://www.heraldgoa.in/Sports"><p>view all</p></a> </div></div><div class="news-list-bx"><div class="head-img-bx"><h3>Cafe</h3><a href="https://www.heraldgoa.in/Cafe/The-life-of-seafarers-on-water/206617"> <div class="img-container"><img src="https://www.heraldgoa.in/uploads/news/206617_cafepg1-lead.jpg" class="main-news-img" alt="The life of seafarers on water" /></div></a></div><ul><li><a href="https://www.heraldgoa.in/Cafe/The-life-of-seafarers-on-water/206617">The life of seafarers on water</a></li><li><a href="https://www.heraldgoa.in/Cafe/Paying-homage-to-the-MiracleWorker-ST-ANTHONY/206041">Paying homage to the Miracle-Worker - ST ANTHONY</a></li><li><a href="https://www.heraldgoa.in/Cafe/Cherishing-a-beautiful-bond-from-Goa-to-Portugal/205970">Cherishing a beautiful bond from Goa to Portugal</a></li><li><a href="https://www.heraldgoa.in/Cafe/-Online-admissions-makes-the-process-smooth-and-easy-for-students/205914"> Online admissions makes the process smooth and easy for students</a></li></ul><div class="view-bx"><a href="https://www.heraldgoa.in/Cafe"><p>view all</p></a> </div></div><div class="news-list-bx"><div class="head-img-bx"><h3>Review</h3><a href="https://www.heraldgoa.in/Review/Rough-Ride-for-bus-commuters/206628"> <div class="img-container"><img src="https://www.heraldgoa.in/uploads/news/206628_Neelai-Naik-1---Overcrowded-bus-from-P.jpg" class="main-news-img" alt="Rough Ride for bus commuters" /></div></a></div><ul><li><a href="https://www.heraldgoa.in/Review/Rough-Ride-for-bus-commuters/206628">Rough Ride for bus commuters</a></li><li><a href="https://www.heraldgoa.in/Review/Proposed-Amendments-to-Forest-Conservation-Act-Is-it-for-protecting-our-diverse-forest-resources/206627">Proposed Amendments to Forest Conservation Act: Is it for protecting our diverse forest resources?</a></li><li><a href="https://www.heraldgoa.in/Review/Turning-a-deaf-ear-to-noise-Pollution/206293">Turning a deaf ear to noise Pollution</a></li><li><a href="https://www.heraldgoa.in/Review/It-is-really-not-a-waste-to-resolve-the-garbage-woes-of-Goa-State/206292">It is really not a waste to resolve the garbage woes of Goa State</a></li></ul><div class="view-bx"><a href="https://www.heraldgoa.in/Review"><p>view all</p></a> </div></div> <div class="clear"></div>
+<div class="adv-bx desktop">  </div>
+<div class="adv-bx mobile"> </div>
+<div class="adv-bx">
+
+
+<div id="div-clmb-ctn-209112-1" style="float:left;min-height:2px;width:100%;" data-slot="209112" data-position="1" data-section="0" data-ua="D" class="colombia"></div>
+<div id="div-clmb-ctn-209107-1" style="padding-top:30px;min-height:2px;width:100%;" data-slot="209107" data-position="1" data-section="0" data-ua="M" class="colombia"></div>
+</div>
+</div>
+<div class="news-right-bx"><div class="news-cnews-bx"><h3>IDhar UDHAR</h3><img src="https://www.heraldgoa.in/uploads/idhar_udhar/2_Muthalik-in-Goa.gif" alt="Idhar Udhar" /><div class="clear"></div></div></div> <div class="news-right-bx">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-8657336033133527" data-ad-slot="8199217203"></ins>
+<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-menu">
+<div class="container">
+<ul>
+<li><a href="https://www.heraldgoa.in/Advertisement">Advertise</a></li>
+<li><a href="https://www.heraldgoa.in/Contact">Contact Us</a></li>
+<li><a href="https://www.heraldgoa.in/About-Us">About Us</a></li>
+<li><a href="https://www.heraldgoa.in/Terms-Of-Use">Terms of Use</a></li>
+<li><a href="https://www.heraldgoa.in/Privacy-Policy">Privacy Policy</a></li>
+<li><a href="https://www.heraldgoa.in/Disclaimer">Disclaimer</a></li>
+</ul>
+</div>
+</div>
+<div class="container">
+<ul class="footer-links">
+
+
+<li><a href="http://epaper.heraldgoa.in/"><img src="https://www.heraldgoa.in/img/o-herald.png" /></a></li>
+<li><a href="https://www.heraldgoa.in/herald-tv.php"><img src="https://www.heraldgoa.in/img/herald-tv.png" /></a></li>
+<li><a href="http://dainikherald.com/"><img src="https://www.heraldgoa.in/img/dainik.png" /></a></li>
+<li><a href="https://www.facebook.com/oheraldogoa"><img src="https://www.heraldgoa.in/img/facebook.png" /></a></li>
+<li><a href="https://twitter.com/oheraldogoa"><img src="https://www.heraldgoa.in/img/twitter.png" /></a></li>
+<li><a href="https://www.youtube.com/channel/UC7J_xpeCOZ7OMFC__2VF1pw">
+<img src="https://www.heraldgoa.in/img/youtube.png" /></a>
+</li>
+<li><a href="https://www.instagram.com/heraldo_goa/"><img src="https://www.heraldgoa.in/img/instagram.png" /></a>
+</li>
+</ul>
+
+<p>
+<b>© M/s Herald Publications Pvt Ltd</b>&nbsp; &nbsp; Rua Sao Tome,&nbsp;
+behind main post office, Panjim -Goa 403001.<br>
+
+Telephone: +91-832-6718520 &nbsp; Advertisement: 0832 6750839 &nbsp; Mob: +91 9736718546 &nbsp;
+Email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5738393b3e3932173f3225363b337a3038367934383a">[email&#160;protected]</a>
+</p>
+<ul class="socials">
+<li> <a href="http://www.facebook.com/oheraldogoa"><i class="fa fa-facebook" aria-hidden="true"></i></a> <a href="https://twitter.com/oheraldogoa"><i class="fa fa-twitter" aria-hidden="true"></i></a> <a href="https://www.youtube.com/channel/UC7J_xpeCOZ7OMFC__2VF1pw"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+
+<a href="http://www.heraldgoa.in/deals" class="deals">DEALS</a> <a href="#"><img src="https://www.heraldgoa.in/img/icons/6.jpg" class="paper" /></a> <a href="#"><img src="https://www.heraldgoa.in/img/icons/7.jpg" class="pen" /></a> </li>
+</ul>
+</div>
+<div class="copyright">
+<p>Copyrights 2019. M/s herald Publications. Designed & Developed by<a href="https://www.teaminertia.com/"> Team Inertia Technologies </a></p>
+</div>
+<div class="scrolltop">
+<div class="scroll icon"><i class="fa fa-4x fa-angle-up"></i></div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://www.heraldgoa.in/js/jquery-3.4.1.min.js"></script>
+<script>
+		$(".navigation li").hover(function() {
+		  var isHovered = $(this).is(":hover");
+		  if (isHovered) {
+			$(this).children("ul").stop().slideDown(300);
+		  } else {
+			$(this).children("ul").stop().slideUp(300);
+		  }
+		});
+		
+		$(document).ready(function(){
+			$(".search-btn").click(function(){
+				$(".search-box").slideToggle(200);
+				//$(this).find('i').toggleClass('fa-plus fa-minus');
+			});
+			
+			/**/$("#search").click(function(){
+				$(".search-box").slideToggle(200);
+				//$(this).find('i').toggleClass('fa-plus fa-minus');
+			});
+			
+			$(".menu-btn").click(function(){
+				$(".mob-menu-list").slideToggle(300);
+			});
+
+				
+			$(".has-sub-list").click(function(){
+				$(this).find(".sub-list").slideToggle(300);
+				$(this).find(".tog-bx").toggleClass("plus minus");
+			});
+		});
+	</script>
+<script type="text/javascript" src="https://ads.rwadx.com/Unify/heraldgoa/voice-widget-heraldgoa.js"> </script>
+<script data-ad-client="ca-pub-3076479851646180" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</body>
+</html>
