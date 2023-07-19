@@ -3,7 +3,7 @@ git fetch
 @echo off
 setlocal
 
-set GITHUB_USERNAME=Akash-Mittal
+set GITHUB_USERNAME=%GITHUB_USER%
 set GITHUB_TOKEN=%GITHUB_TOKEN%
 set GITHUB_REPO=mittal.blog
 
