@@ -5,31 +5,49 @@
     <link>https://www.TheAsiaHawk.com</link>
     <description>http://www.TheAsiaHawk.com</description>
     <item>
-      <title>Bug bounty examples</title>
-      <link>https://kzjzxdx.hornbeam.pl/</link>
-      <content:encoded>Trust me your report will look ugly and unprofessional when it merges raw ... if you report a critical security vulnerability in a Google service.</content:encoded>
-      <pubDate>Mon, 21 Aug 2023 07:03:48 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:18229176340442775777</guid>
+      <title>How EU lawmakers can make mandatory vulnerability disclosure responsible</title>
+      <link>https://www.helpnetsecurity.com/2023/08/21/vulnerability-disclosure/</link>
+      <content:encoded>Requiring mandatory vulnerability disclosure from companies before they're patched, could make organizations and EU citizens less secure.</content:encoded>
+      <pubDate>Mon, 21 Aug 2023 11:01:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3368803059804760464</guid>
       <dc:creator />
-      <dc:date>2023-08-21T07:03:48Z</dc:date>
+      <dc:date>2023-08-21T11:01:11Z</dc:date>
     </item>
     <item>
       <title>Afghanistan: Security forces kill four kidnappers in an operation in Kabul - First India</title>
       <link>https://firstindia.co.in/news/india/afghanistan-security-forces-kill-four-kidnappers-in-an-operation-in-kabul</link>
       <content:encoded>Rajasthan: Police nabs man carrying a reward of Rs 1 lakh on his head   DRI seizes cocaine worth Rs 15 cr at Mumbai airport, 2 including Ugandan ...</content:encoded>
-      <pubDate>Mon, 21 Aug 2023 07:03:48 GMT</pubDate>
+      <pubDate>Mon, 21 Aug 2023 11:01:11 GMT</pubDate>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:716836581255461593</guid>
       <dc:creator />
-      <dc:date>2023-08-21T07:03:48Z</dc:date>
+      <dc:date>2023-08-21T11:01:11Z</dc:date>
+    </item>
+    <item>
+      <title>Bug bounty examples</title>
+      <link>https://kzjzxdx.hornbeam.pl/</link>
+      <content:encoded>Trust me your report will look ugly and unprofessional when it merges raw ... if you report a critical security vulnerability in a Google service.</content:encoded>
+      <pubDate>Mon, 21 Aug 2023 11:01:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:18229176340442775777</guid>
+      <dc:creator />
+      <dc:date>2023-08-21T11:01:11Z</dc:date>
     </item>
     <item>
       <title>App developer reveals that macOS Ventura has a security vulnerability that was reported 10 ...</title>
       <link>https://www.ghacks.net/2023/08/21/app-developer-reveals-that-macos-ventura-has-a-security-vulnerability-that-was-reported-10-months-ago/</link>
       <content:encoded>... Apple has failed to patch a security vulnerability in macOS Ventura, ... That depends on various factors such as the quality of the report, ...</content:encoded>
-      <pubDate>Mon, 21 Aug 2023 07:03:48 GMT</pubDate>
+      <pubDate>Mon, 21 Aug 2023 11:01:11 GMT</pubDate>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4010856273447342453</guid>
       <dc:creator />
-      <dc:date>2023-08-21T07:03:48Z</dc:date>
+      <dc:date>2023-08-21T11:01:11Z</dc:date>
+    </item>
+    <item>
+      <title>GitLab Exploited To Launch Novel Proxyjacking Attack  amp  Sell Excess Bandwidth For Cash</title>
+      <link>https://www.techbusinessnews.com.au/news/gitlab-exploited-to-launch-novel-proxyjacking-attack-sell-excess-bandwidth-for-cash/</link>
+      <content:encoded>... has exploited an already addressed GitLab security vulnerability. ... According to a Sysdig report the critical GitLab remote code execution ...</content:encoded>
+      <pubDate>Mon, 21 Aug 2023 11:01:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12354399159302265758</guid>
+      <dc:creator />
+      <dc:date>2023-08-21T11:01:11Z</dc:date>
     </item>
     <item>
       <title>Ruckus at University after security officer shares photo of girl - First India</title>
