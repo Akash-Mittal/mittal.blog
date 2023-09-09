@@ -5,65 +5,551 @@
     <link>https://www.TheAsiaHawk.com</link>
     <description>http://www.TheAsiaHawk.com</description>
     <item>
-      <title>China Unleashes AI-Powered Image Generation For Influence Operations</title>
-      <link>https://www.infosecurity-magazine.com/news/china-ai-image-generation/</link>
-      <content:encoded>China has unveiled a new cyber capability powered by artificial intelligence, enabling the automatic generation of images for influence operations ...</content:encoded>
+      <title>AI for cars: An excerpt from Walter Isaacson's new biography of Elon Musk - CNBC</title>
+      <link>https://www.cnbc.com/2023/09/09/ai-for-cars-walter-isaacson-biography-of-elon-musk-excerpt.html</link>
+      <content:encoded>Tesla  39 s latest version of FSD had taught itself how to drive by processing billions of frames of video of how humans do it, Isaacson writes.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17128016229676834770</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>Santiago Announces Support for Investigations into Kei-Ai L.A. at Kansha Obon 4</title>
+      <link>https://rafu.com/2023/09/santiago-announces-support-for-investigations-into-kei-ai-l-a-at-kansha-obon-4/</link>
+      <content:encoded>These numbers represent residents who died at Kei L.A. and Kei-Ai South Bay, and Sakura ICF residents who died after being evicted.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15186864667106248072</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>NVIDIA Partners With India Giants to Advance AI in World's Most Populous Nation</title>
+      <link>https://blogs.nvidia.com/blog/2023/09/08/nvidia-india-giants-ai/</link>
+      <content:encoded>The companies will work together to create an AI computing infrastructure and platforms for developing AI solutions. It will be based on NVIDIA ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3860726121164021084</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>Podcast: Getting to know generative AI with Gary Marcus - GZERO Media</title>
+      <link>https://www.gzeromedia.com/gzero-world-podcast/getting-to-know-generative-ai-with-gary-marcus</link>
+      <content:encoded>Listen: Is ChatGPT all it's cracked up to be? Will truth survive the evolution of artificial intelligence? On the GZERO World with Ian Bremmer ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4883309082328184111</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>Is Drake-Weeknd AI Song Eligible for Grammy? Academy Says No - Vulture</title>
+      <link>https://www.vulture.com/2023/09/is-drake-weeknd-heart-on-my-sleeve-grammys-eligible.html</link>
+      <content:encoded>A song using AI vocals of Drake and the Weeknd, 'Heart on My Sleeve,' will not be eligible for Grammys, the Recording Academy clarified.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:199275879499960749</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>Amit Bendov on LinkedIn: SPOTLIGHT IS FINALLY OUT AI is at Gong's core. We've been ...</title>
+      <link>https://www.linkedin.com/posts/amitbendov_spotlight-is-finally-out-ai-is-at-gongs-activity-7102989731021434880-cY2K?trk=public_profile_like_view</link>
+      <content:encoded>SPOTLIGHT IS FINALLY OUT AI is at Gong's core. We've been building an AI platform since day one. Today, I am excited to announce our latest ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14430858692880561243</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>Pentagon looking to develop 'fleet' of AI drones, systems to combat China: report   Fox News</title>
+      <link>https://www.foxnews.com/world/pentagon-looking-develop-fleet-ai-drones-systems-combat-china-report</link>
+      <content:encoded>China has invested heavily in researching artificial intelligence and working to integrate it with military systems, allowing its armed forces ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9500620769698899691</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>Senators Want ChatGPT-Level AI to Require a Government License - WIRED</title>
+      <link>https://www.wired.com/story/senators-want-chatgpt-ai-to-require-government-license/</link>
+      <content:encoded>A new US government body would force companies to seek a license before working on powerful AI models like OpenAI's GPT-4, under a bipartisan ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8711456171060956561</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>How AI is helping detect wildfires in Washington   KNKX Public Radio</title>
+      <link>https://www.knkx.org/environment/2023-09-09/how-ai-is-helping-detect-wildfires-in-washington</link>
+      <content:encoded>A Pano AI camera station on Signal Peak in Washington. High-tech fire lookouts are now helping spot wildfires in Washington. This fire season, the ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6240239101429472841</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>How will AI influence the 2024 election? - The Economist</title>
+      <link>https://www.economist.com/podcasts/2023/09/08/how-will-ai-influence-the-2024-election</link>
+      <content:encoded>Our weekly podcast on democracy in America. This week, we assess the validity of concerns about artificial intelligence and democracy   Podcasts.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3926493075458533751</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>The AI-generated fake Drake and The Weeknd track is 'not eligible' for a Grammy - Engadget</title>
+      <link>https://www.yahoo.com/lifestyle/the-ai-generated-fake-drake-and-the-weeknd-track-is-not-eligible-for-a-grammy-200924948.html</link>
+      <content:encoded>It was previously reported that an AI-generated track featuring the voices of Drake and The Weeknd would be considered for a Grammy.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12593131932154339336</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>Opinion: High schoolers can do what AI can't - NPR</title>
+      <link>https://www.npr.org/2023/09/09/1198582885/opinion-high-schoolers-can-do-what-ai-cant</link>
+      <content:encoded>NPR's Scott Simon has an idea for newspapers experimenting with AI: hire high school journalists to cover high school games rather than settle for ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2409837485187559657</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>eBay's new 'magical' AI tool writes product descriptions for you from a single photo   ZDNET</title>
+      <link>https://www.zdnet.com/article/ebays-new-magical-ai-tool-writes-product-descriptions-for-you-from-a-single-photo/</link>
+      <content:encoded>All you need to do is upload a photo and eBay's AI will take care of the rest.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14362688812106151944</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>McKinsey partners with Salesforce to offer speedy AI adoption plans for enterprises</title>
+      <link>https://venturebeat.com/business/mckinsey-partners-with-salesforce-to-offer-speedy-ai-adoption-plans-for-enterprises/</link>
+      <content:encoded>With 40 percent of enterprises planning to invest in this kind of AI, the collaboration between Salesforce and McKinsey could be a game...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17234750971463951768</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>AI This Week: Elon Musk's AI-Dominated Future - Gizmodo</title>
+      <link>https://gizmodo.com/elon-musk-x-artificial-intelligence-tesla-neuralink-opt-1850810835</link>
+      <content:encoded>Musk biographer Walter Isaacson says Elon is on a mission to create AGI. Plus: potential storm clouds on the robotaxi horizon.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9612648960976299701</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>2 Stock-Split Artificial Intelligence  AI  Stocks to Buy Hand Over First in September</title>
+      <link>https://www.fool.com/investing/2023/09/09/2-stock-split-artificial-intelligence-ai-stocks-to/</link>
+      <content:encoded>Nvidia and Amazon are no strangers to stock splits or fantastic long-term growth.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14965470578240439946</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>Adobe is the company that made the best use of AI, says Jim Cramer - YouTube</title>
+      <link>https://www.youtube.com/watch?v=dJEnN8tLRac</link>
+      <content:encoded>Adobe is the company that made the best use of AI, says Jim Cramer. 8.2K views   16 hours ago ...more. CNBC Television. 2.5M. Subscribe.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16759604583559722558</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>A.I. usage fuels spike in Microsoft's water consumption - Fortune</title>
+      <link>https://fortune.com/2023/09/09/ai-chatgpt-usage-fuels-spike-in-microsoft-water-consumption/</link>
+      <content:encoded>A.I. tools fueled a 34  spike in Microsoft's water consumption, and one city with its data centers is concerned about the effect on residential supply.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11561955070851888148</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>News Corp CEO Robert Thomson says AI 'rubbish in, rubbish out' - New York Post</title>
+      <link>https://nypost.com/2023/09/08/news-corp-ceo-robert-thomson-says-ai-rubbish-in-rubbish-out/</link>
+      <content:encoded>News Corp CEO Robert Thomson demanded compensation from companies  training  generative AI engines using  archived material  from publishers.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15807365133750703351</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>Senators unveil bipartisan blueprint for comprehensive AI regulation - Cointelegraph</title>
+      <link>https://cointelegraph.com/news/senators-unveil-bipartisan-blueprint-for-comprehensive-ai-regulation</link>
+      <content:encoded>Senators Blumenthal and Hawley introduced a bipartisan AI legislative blueprint, advocating for licensing and clarifying tech liability shields.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16321491246491064541</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>What the Tech? Internet speeds   News - KTBS</title>
+      <link>https://www.ktbs.com/news/what-the-tech-internet-speeds/article_4bdb2ea0-4e53-11ee-8e57-8f99c778b0c3.html</link>
+      <content:encoded>Background   Checking email 1Mbps, social media, Web browsing, 3 Mbps   Streaming SD video, 3-5 Mbps   Streaming HD video, 5-10 Mbps   Streaming 4K video, ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:532532651716547244</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>Haiti   August 2023 Gang violence, Port-au-Prince Report  3 - Most recent data - ReliefWeb</title>
+      <link>https://reliefweb.int/report/haiti/haiti-august-2023-gang-violence-port-au-prince-report-3-most-recent-data-04-september-2023-published-08-september-2023</link>
+      <content:encoded>Situation Report in English on Haiti about Protection and Human Rights  published on 8 Sep 2023 by Flowminder Foundation.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16582815595458201309</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>Buena Vista  39 s annual Fall Colors Festival set for Sept. 16-17 - Bemidji Pioneer</title>
+      <link>https://www.bemidjipioneer.com/news/local/buena-vistas-annual-fall-colors-festival-set-for-sept-16-17</link>
+      <content:encoded>FALLFESTIVAL4 WEB.jpg ... Starting on both days at 11 a.m. and running until 3 p.m., the staff at Buena Vista invite the public to come out over ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12481747053676380225</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>Web 3.0 Blockchain Market size to increase by USD 27.42 billion between 2022 - 2027</title>
+      <link>https://finance.yahoo.com/news/3-0-blockchain-market-size-234500631.html</link>
+      <content:encoded>The  Web 3.0 Blockchain Market by End-user  BFSI, Government, Healthcare, and Others  and Geography  North America, Europe, APAC, South America, ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15388901590923586969</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>Jack Ma  39 s Ant Group Launches Blockchain Service called ZAN - The Crypto Times</title>
+      <link>https://www.cryptotimes.io/jack-mas-ant-group-launches-blockchain-service-called-zan/</link>
+      <content:encoded>... a new blockchain service platform to serve its web 3 community clients ... ZAN is dedicated to investing in research and development of Web3 ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17033651542832946452</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>Web 3.0 Blockchain Market size to increase by USD 27.42 billion between 2022 - 2027</title>
+      <link>https://www.kilgorenewsherald.com/web-3-0-blockchain-market-size-to-increase-by-usd-27-42-billion-between-2022/article_7d66f7ac-bfd7-5ec1-8df0-8859239e3202.html</link>
+      <content:encoded>8, 2023  PRNewswire  -- The  Web 3.0 Blockchain Market by End-user ... -by-growing-investment-in-web-3-0-blockchain--technavio-301921630.html.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2644436785608122475</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>Ant Group launches ZAN to help Web3 developers issue and manage real-world assets</title>
+      <link>https://www.kitco.com/news/2023-09-08/Ant-Group-launches-ZAN-to-help-Web3-developers-issue-and-manage-real-world-assets.html</link>
+      <content:encoded>HaskKey DID, a Web3 decentralized identity data aggregator, has since adopted ZAN eKYC to provide users with access to its compliant Web3 service ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4339916265021517153</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>ChatGPT web traffic drops for third consecutive month in August - Investing.com</title>
+      <link>https://www.investing.com/news/cryptocurrency-news/chatgpt-web-traffic-drops-for-third-consecutive-month-in-august-3170765</link>
+      <content:encoded>ChatGPT web traffic drops for third consecutive month in August. The popular artificial intelligence  AI  chatbot ChatGPT has seen a decrease in ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5944443386654166041</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>3  Weddington    16  Butler: HSOT Live</title>
+      <link>https://www.highschoolot.com/video/3-weddington-16-butler-hsot-live/21038715/</link>
+      <content:encoded>16 Butler Bulldogs host the No. 3 Weddington Warriors as two of the 704's very best square off on HighSchoolOT Live. Web Editor : Kyle Morton.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10110830517846894757</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>Top 11 Web 3.0 Trends for 2023-2024 - AMBCrypto</title>
+      <link>https://ambcrypto.com/blog/top-11-web-3-0-trends-for-2023-2024/</link>
+      <content:encoded>1. The rise of interoperability   2. Embracing virtual identities   3. Utility non-fungible tokens  NFTs  taking center stage   4. Decentralized ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9419007429332489710</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>Space Alpaca RPG GameFi is launching, heralding the next generation of Web3.0 traffic platforms</title>
+      <link>https://www.thetechoutlook.com/press-release/space-alpaca-rpg-gamefi-is-launching-heralding-the-next-generation-of-web3-0-traffic-platforms/</link>
+      <content:encoded>Embracing the ethos of Web3.0, Players can plan and formulate the best strategies and card lineup to earn maximum profits.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5408917293233534817</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>Space Alpaca RPG GameFi is launching, heralding the next generation of Web3.0 traffic platforms</title>
+      <link>https://www.investorsobserver.com/news/qm-pr/8783278018719846</link>
+      <content:encoded>... Play-to-Earn RPG game that combines yield farming and battle gameplay, announced its official launch. Embracing the ethos of Web3.0, Players .</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15940858741660426</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>Ripple Pushes for Regulatory Compliance with Fortress Trust Acquisition</title>
+      <link>https://www.financemagnates.com/cryptocurrency/ripple-pushes-for-regulatory-compliance-with-fortress-trust-acquisition/</link>
+      <content:encoded>Fortress Trust is a licensed Web 3 financial institution specializing in regulatory compliance and technology infrastructure for blockchain ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14026573865387702805</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>WHAT THE TECH? Understanding internet speeds, bandwidth, and costs   Must See Videos</title>
+      <link>https://www.local3news.com/video/must-see-videos/what-the-tech-understanding-internet-speeds-bandwidth-and-costs/video_c8d036dd-1a5f-58cc-bff1-5a6b9530e531.html</link>
+      <content:encoded>Understanding internet speeds, bandwidth, and costs ... Around the Web. Sponsored ... Copy article link  Save. WATCH NOW: Local 3 News ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17069809596874198288</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>Google CEO Sundar Pichai Says AI Could Be  Bigger Than the Internet  - The Motley Fool</title>
+      <link>https://www.fool.com/investing/2023/09/09/google-ceo-sundar-pichai-ai-internet-stocks/</link>
+      <content:encoded>Google CEO Sundar Pichai Says AI Could Be  Bigger Than the Internet : 3 Stocks to Buy and Hold If He's Right. By Keith Speights   Sep 9, ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11419617769893704838</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>General Assembly: 3rd plenary meeting, 78th session   UN Web TV</title>
+      <link>https://media.un.org/en/asset/k1n/k1nlwvf8vn</link>
+      <content:encoded>General Assembly: 3rd plenary meeting, 78th session    Use of the veto - Item 63   Debate on the item.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10348951632238614545</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>What the Tech? How to get the most out of your internet speed</title>
+      <link>https://www.wilx.com/2023/09/08/what-tech-how-get-most-out-your-internet-speed/</link>
+      <content:encoded>8, 2023 at 3:07 PM PDT  ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17619372325786435992</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:11Z</dc:date>
+    </item>
+    <item>
+      <title>Ripple adds Nevada to its regulatory licenses, acquires web3 infrastructure provider Fortress Trust</title>
+      <link>https://www.fxstreet.com/cryptocurrencies/news/ripple-adds-nevada-to-its-regulatory-licenses-acquires-web3-infrastructure-provider-fortress-trust-202309090022</link>
+      <content:encoded>Ripple on Friday announced that it was moving forward with the decision to acquire Fortress Trust, a licensed Web3 financial, regulatory and ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16164663554794520310</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>Ripple and Fortress Trust Join Forces to Strengthen Web3 Infrastructure - CryptoGlobe</title>
+      <link>https://www.cryptoglobe.com/latest/2023/09/ripple-acquires-fortress-trust-to-bolster-web3-infrastructure-and-expand-regulatory-licenses/</link>
+      <content:encoded>Ripple announces its acquisition of Fortress Trust, aiming to enhance Web3 infrastructure and extend its portfolio of regulatory licenses.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9695240249357446890</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>Wombat Web 3 Gaming Platform  WOMBAT  What Does the Chart Say Saturday?</title>
+      <link>https://www.investorsobserver.com/news/crypto-update/wombat-web-3-gaming-platform-wombat-what-does-the-chart-say-saturday</link>
+      <content:encoded>Wombat Web 3 Gaming Platform receives a strong short-term technical ranking of 94 from InvestorsObserver data analysis. The p.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1154661583762864251</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>OpenAI: AI Detectors And ChatGPT Itself Are Unable To Distinguish Neural Network Text ...</title>
+      <link>https://technewsspace.com/openai-ai-detectors-and-chatgpt-itself-are-unable-to-distinguish-neural-network-text-from-human-text/</link>
+      <content:encoded>The company also debunks another myth that ChatGPT can detect whether text is machine generated or not:  Furthermore, ChatGPT has no  understanding  ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5726072578111999189</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>Will ChatGPT Ever Actually Be the  Google Killer  Everyone Thought It Would Be?  Answer -- not yet</title>
+      <link>https://www.fool.com/investing/2023/09/09/will-chatgpt-ever-actually-be-the-google-killer-ev/</link>
+      <content:encoded>The ChatGPT threat ... The release of the Microsoft  MSFT 1.32  -backed generative chatbot ChatGPT changed a lot, especially in the investing world.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12592485771047271069</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>6 awesome ChatGPT plugins to improve your productivity - Geeky Gadgets</title>
+      <link>https://www.geeky-gadgets.com/6-awesome-chatgpt-plugins-to-improve-your-productivity/</link>
+      <content:encoded>There are so many different ChatGPT plugins to choose from, in this guide, we look at six of the most useful plugins that can help you improve ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10602769928820850451</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>ChatGPT proxy scam warning as fraudsters steal personal details to blackmail victims</title>
+      <link>https://www.express.co.uk/finance/personalfinance/1810798/chatGPT-proxy-scam-fake-website-fraud</link>
+      <content:encoded>He said:  The proxy, which now acts as a  man-in-the-middle  between the victim and ChatGPT, allows the scammer to see everything the victims send to ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8133092594605855270</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water - Yahoo News</title>
+      <link>https://news.yahoo.com/artificial-intelligence-technology-behind-chatgpt-131421382.html</link>
+      <content:encoded>The cost of building an artificial intelligence product like ChatGPT can be hard to measure. As they race to capitalize on a craze for generative ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14897096258790986983</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>Google Cloud And ChatGPT Dominate Emerging Skills Demand In India - BW people</title>
+      <link>https://bwpeople.businessworld.in/article/Google-Cloud-And-ChatGPT-Dominate-Emerging-Skills-Demand-In-India/09-09-2023-490620</link>
+      <content:encoded>... Development-The report highlights 515  increase in course consumption of Google Cloud skills, 504  in ChatGPT and 145  in design thinking skills.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3897876141178277015</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>ChatGPT breaks down 9 factors that can end Bitcoin as we know it - Finbold</title>
+      <link>https://finbold.com/chatgpt-breaks-down-9-factors-that-can-end-bitcoin-as-we-know-it/</link>
+      <content:encoded>ChatGPT states that if quantum computers become powerful enough, they could break Bitcoin's cryptographic security measures. It is worth noting that ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6604544610006627549</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>Do More With AI: The 10 Best ChatGPT Plugins and How to Install Them   PCMag</title>
+      <link>https://www.pcmag.com/how-to/best-chatgpt-plugins-and-how-to-install-them</link>
+      <content:encoded>A paid subscription to OpenAI's ChatGPT Plus offers access to hundreds of plugins designed to expand the capabilities of the AI chatbot. You can use ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3100753865300203289</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>ChatGPT 'loses accuracy' as traffic falls for the third straight month - Windows Central</title>
+      <link>https://www.windowscentral.com/software-apps/chatgpt-loses-accuracy-as-traffic-falls-for-the-third-straight-month</link>
+      <content:encoded>ChatGPT seems to be on a downward spiral, experienced a decline in website visits three months in a row. Similarweb, a research firm, ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12511124880079060667</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>AI is boring   How to jailbreak ChatGPT - Laptop Mag</title>
+      <link>https://www.laptopmag.com/how-to/ai-is-boring-how-to-jailbreak-chatgpt</link>
+      <content:encoded>The Grandma Exploit  Hypothetical Sleight of Hand  Custom Instructions. ChatGPT is a fascinating tool, but you're probably using it ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14236713985011056535</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>California Governor's Team Asked ChatGPT to Write a Speech - Bloomberg</title>
+      <link>https://www.bloomberg.com/news/newsletters/2023-09-09/california-governor-s-team-asked-chatgpt-to-write-a-speech</link>
+      <content:encoded>Covering Silicon Valley over the last year has required talking to lots of people about generative AI, including popular chatbots like ChatGPT, ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3929662205244812943</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>M.B.A. Students vs. ChatGPT: Who Comes Up With More Innovative Ideas? - WSJ</title>
+      <link>https://www.wsj.com/tech/ai/mba-students-vs-chatgpt-innovation-679edf3b</link>
+      <content:encoded>Researchers pitted Wharton students against ChatGPT and a version of ChatGPT trained with examples to see which came up with better product ideas.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12137411319869012168</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>Scientists Devised a Way to Tell if ChatGPT Becomes Aware of Itself - ScienceAlert</title>
+      <link>https://www.sciencealert.com/scientists-devised-a-way-to-tell-if-chatgpt-becomes-aware-of-itself</link>
+      <content:encoded>Our lives were already infused with artificial intelligence  AI  when ChatGPT reverberated around the online world late last year.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8655641419076551453</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>Claude Pro might convince me to drop my ChatGPT Plus subscription - BGR</title>
+      <link>https://bgr.com/tech/claude-pro-might-convince-me-to-drop-my-chatgpt-plus-subscription/</link>
+      <content:encoded>With the release of Claude Pro, Anthropics generative AI could get me to drop my subscription for ChatGPT Plus. Here's why.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11717974944716639289</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water</title>
+      <link>https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4</link>
+      <content:encoded>DES MOINES, Iowa  AP    The cost of building an artificial intelligence product like ChatGPT can be hard to measure.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11698915496705581956</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>ChatGPT has limitations in providing advice on urologic conditions</title>
+      <link>https://www.urologytimes.com/view/chatgpt-has-limitations-in-providing-advice-on-urologic-conditions</link>
+      <content:encoded>Questions spanned urologic conditions such as benign prostatic hyperplasia, overactive bladder, erectile dysfunction, kidney stones, nbsp ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8009958495212739013</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>Top 5 Things to Know about ChatGPT in 2023 - YouTube</title>
+      <link>https://www.youtube.com/watch?v=xHh0mj-lLLc</link>
+      <content:encoded>In this video, we provide an in-depth look at ChatGPT, the powerful open-source AI platform that enables you to create natural and automated ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:950998657555230186</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>Did You Know You Can Speak to ChatGPT? - MakeUseOf</title>
+      <link>https://www.makeuseof.com/how-to-speak-to-chatgpt/</link>
+      <content:encoded>Why waste time typing your ChatGPT prompts when you can use your voice instead? We'll show you how to do it.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2892477150538680362</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>Anduril Founder Palmer Luckey Says ChatGPT Buzz Is Good for Business - Business Insider</title>
+      <link>https://www.businessinsider.com/anduril-founder-palmer-luckey-chatgpt-buzz-good-business-weapons-ai-2023-9</link>
+      <content:encoded>Palmer Luckey told Breaking Defense the ChatGPT hype is making politicians interested in AI weapons. Luckey said people on Capitol Hill and the ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 18:41:10 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8021148680251906688</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T18:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>ChatGPT's usage hits 3 month decline, is it coming to an end? - OnMSFT.com</title>
+      <link>https://www.onmsft.com/news/chatgpts-usage-hits-3-month-decline-is-it-coming-to-an-end/</link>
+      <content:encoded>A report from SimilarWeb has shown a decline in ChatGPT's usage for three consecutive months. It could be due to various factors, including the ...</content:encoded>
       <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7107281214511867025</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15197141943103417144</guid>
       <dc:creator />
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
     <item>
-      <title>Litigation Document Review Software   Lexis</title>
-      <link>https://www.lexisnexis.com/en-us/products/lexis-plus/document-analysis/brief-analysis.page</link>
-      <content:encoded>Brief Analysis on Lexis  is your go-to litigation document review software. Power your legal strategy with AI content analysis   targeted ...</content:encoded>
+      <title>Undeclared Use of ChatGPT Raises Concerns in Scientific Publishing - Cryptopolitan</title>
+      <link>https://www.cryptopolitan.com/chatgpt-raise-concerns-scientific-publishing/</link>
+      <content:encoded>The proliferation of generative AI tools like ChatGPT may lead to the rise of fake manuscripts and challenges in peer review.</content:encoded>
       <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11209395151559048508</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Generative AI - Learning and Teaching - University of Bath</title>
-      <link>https://teachinghub.bath.ac.uk/guide/generative-ai-bath-case-studies/</link>
-      <content:encoded>Generative AI. How is AI being used at Bath? The most recent CLT EduTalk was a session on the current 'hot topic' in education ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6683635459265072244</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Tata Partners With NVIDIA to Build Large-Scale AI Infrastructure</title>
-      <link>https://nvidianews.nvidia.com/news/tata-partners-with-nvidia-to-build-large-scale-ai-infrastructure</link>
-      <content:encoded>NVIDIA today announced an extensive collaboration with Tata Group to deliver AI computing infrastructure and platforms for developing AI solutions ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17160139803028026758</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Challenges of Regulating AI - YouTube</title>
-      <link>https://www.youtube.com/watch?v=zhHVgaD4VQM</link>
-      <content:encoded>Niall Ferguson, Hoover Institution Senior Fellow discusses the multiple uses of artificial intelligence. He speaks with David Westin on  Wall ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10779704938279493343</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Nvidia debuts new software to boost AI model performance on its high-end chips</title>
-      <link>https://siliconangle.com/2023/09/08/nvidia-unveils-tensorrt-llm-boost-ai-inference-performance-h100-gpus/</link>
-      <content:encoded>Generative artificial intelligence large language models have become popular thanks to their impressive capabilities and expanded the envelope for ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8043444177798734008</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Artificial Intelligence for Business Online Training Courses   LinkedIn Learning, formerly Lynda.com</title>
-      <link>https://www.linkedin.com/learning/topics/artificial-intelligence-for-business</link>
-      <content:encoded>The future of marketing: Understanding the role of AI. From: Nano Tips for Using Generative AI Tools for Better Marketing Outcomes with Joanna ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12951288336661756561</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11678218203687192799</guid>
       <dc:creator />
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
@@ -77,29 +563,20 @@
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
     <item>
-      <title>AI adding color to U.S. open matches - YouTube</title>
-      <link>https://www.youtube.com/watch?v=ZWmbJVe5lts</link>
-      <content:encoded>CNBC's Julia Boorstin joins 'The Exchange' to report on AI being used to give commentary on U.S. open matches. For access to live and exclusive ...</content:encoded>
+      <title>ChatGPT vs. Humans: Even Linguistic Experts Can't Tell Who Wrote What - SciTechDaily</title>
+      <link>https://scitechdaily.com/chatgpt-vs-humans-even-linguistic-experts-cant-tell-who-wrote-what/</link>
+      <content:encoded>Reference:  Can linguists distinguish between ChatGPT AI and human writing?: A study of research ethics and academic publishing  by J. Elliott Casal, ...</content:encoded>
       <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2776374778144784368</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7853743879786585711</guid>
       <dc:creator />
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
     <item>
-      <title>Roblox Adds Avatar Calling on Phones, More Generative AI, and Is Coming to PlayStation</title>
-      <link>https://www.cnet.com/tech/computing/roblox-adds-more-generative-ai-avatar-calling-on-phones-and-is-coming-to-playstation/</link>
-      <content:encoded>There hasn't been a lot of talk about the metaverse lately, even though VR and AR devices are on the rise and generative AI tools are now ...</content:encoded>
+      <title>Anthropic Launches Claude Pro, a Subscription AI That May Rival ChatGPT Plus - Slashdot</title>
+      <link>https://slashdot.org/story/23/09/08/2054212/anthropic-launches-claude-pro-a-subscription-ai-that-may-rival-chatgpt-plus</link>
+      <content:encoded>In February, OpenAI chose a subscription route for ChatGPT Plus, which for  20 a month also gives early access to new features, but it also unlocks ...</content:encoded>
       <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13058834946693279447</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Art Made With A.I. Won a State Fair Last Year. Now, the Rules Are Changing   Smart News</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-state-fair-changed-its-rules-after-a-piece-made-with-ai-won-last-year-180982867/</link>
-      <content:encoded>Artists who submit to the competition will need to disclose whether they used A.I. tools like Midjourney.</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16885326079854452605</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13651648278820445818</guid>
       <dc:creator />
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
@@ -122,78 +599,6 @@
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
     <item>
-      <title>Senators Want ChatGPT-Level AI to Require a Government License - WIRED</title>
-      <link>https://www.wired.com/story/senators-want-chatgpt-ai-to-require-government-license/</link>
-      <content:encoded>A new US government body would force companies to seek a license before working on powerful AI models like OpenAI's GPT-4, under a bipartisan ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8711456171060956561</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Machine Learning Engineer, LLM Infrastructure   Careers - Scale AI</title>
-      <link>https://scale.com/careers/4314834005</link>
-      <content:encoded>Join Scale AI  The transition from traditional software to AI is one of the most important shifts of our time. Scale AI is growing, grow with us</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:724657861816798844</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Pentagon looking to develop 'fleet' of AI drones, systems to combat China: report   Fox News</title>
-      <link>https://www.foxnews.com/world/pentagon-looking-develop-fleet-ai-drones-systems-combat-china-report</link>
-      <content:encoded>China has invested heavily in researching artificial intelligence and working to integrate it with military systems, allowing its armed forces ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9500620769698899691</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Amit Bendov on LinkedIn: SPOTLIGHT IS FINALLY OUT AI is at Gong's core. We've been ...</title>
-      <link>https://www.linkedin.com/posts/amitbendov_spotlight-is-finally-out-ai-is-at-gongs-activity-7102989731021434880-cY2K?trk=public_profile_like_view</link>
-      <content:encoded>SPOTLIGHT IS FINALLY OUT AI is at Gong's core. We've been building an AI platform since day one. Today, I am excited to announce our latest ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14430858692880561243</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Opinion: High schoolers can do what AI can't - NPR</title>
-      <link>https://www.npr.org/2023/09/09/1198582885/opinion-high-schoolers-can-do-what-ai-cant</link>
-      <content:encoded>NPR's Scott Simon has an idea for newspapers experimenting with AI: hire high school journalists to cover high school games rather than settle for ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2409837485187559657</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>How will AI influence the 2024 election? - The Economist</title>
-      <link>https://www.economist.com/podcasts/2023/09/08/how-will-ai-influence-the-2024-election</link>
-      <content:encoded>Our weekly podcast on democracy in America. This week, we assess the validity of concerns about artificial intelligence and democracy   Podcasts.</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3926493075458533751</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Saudi Arabia looks to blockchain gaming and Web3 to diversify economy - Cointelegraph</title>
-      <link>https://cointelegraph.com/news/saudi-arabia-looks-to-blockchain-gaming-and-web3-to-diversify-economy</link>
-      <content:encoded>While Saudia Arabia is clearly interested in Web3 it still doesn't have a clear framework for crypto and other virtual assets.</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9803565051185352920</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>eBay's new 'magical' AI tool writes product descriptions for you from a single photo   ZDNET</title>
-      <link>https://www.zdnet.com/article/ebays-new-magical-ai-tool-writes-product-descriptions-for-you-from-a-single-photo/</link>
-      <content:encoded>All you need to do is upload a photo and eBay's AI will take care of the rest.</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14362688812106151944</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
       <title>Ant Group launches new blockchain brand for Web3 developers - Cointelegraph</title>
       <link>https://cointelegraph.com/news/ant-group-launches-new-blockchain-brand-web3-developers</link>
       <content:encoded>The brand will focus on blockchain development and services for both institutional and individual Web3 developers.</content:encoded>
@@ -203,38 +608,11 @@
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
     <item>
-      <title>McCaig's Movie Mayhem: My Big Fat Greek Wedding 3 - WBBJ TV</title>
-      <link>https://www.wbbjtv.com/2023/09/08/mccaigs-movie-mayhem-my-big-fat-greek-wedding-3/</link>
-      <content:encoded>McCaig's Movie Mayhem: My Big Fat Greek Wedding 3. 7 minutes ago ... Categories: Entertainment, U.S. News, Video, Web Extras. Share this.</content:encoded>
+      <title>Tata Partners With NVIDIA to Build Large-Scale AI Infrastructure</title>
+      <link>https://nvidianews.nvidia.com/news/tata-partners-with-nvidia-to-build-large-scale-ai-infrastructure</link>
+      <content:encoded>NVIDIA today announced an extensive collaboration with Tata Group to deliver AI computing infrastructure and platforms for developing AI solutions ...</content:encoded>
       <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12043276049477777242</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Product Management: Steering Innovation In AI And Web3 Startups - Forbes</title>
-      <link>https://www.forbes.com/sites/forbestechcouncil/2023/09/08/product-management-steering-innovation-in-ai-and-web3-startups/</link>
-      <content:encoded>Likewise, with Web3, decentralization is more than a technological trend  it's an innovation strategy. Product managers must align decentralized ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11845801984241634172</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>ChatGPT web traffic drops for third straight month - Axios</title>
-      <link>https://www.axios.com/2023/09/08/chatgpt-web-traffic-decline-third-month</link>
-      <content:encoded>ChatGPT web traffic drops for third straight month   Driving the news: Worldwide desktop and mobile website visits to the ChatGPT website decreased by ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:18371021531654144984</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>What the Tech? Internet speeds   News - KTBS</title>
-      <link>https://www.ktbs.com/news/what-the-tech-internet-speeds/article_4bdb2ea0-4e53-11ee-8e57-8f99c778b0c3.html</link>
-      <content:encoded>Background   Checking email 1Mbps, social media, Web browsing, 3 Mbps   Streaming SD video, 3-5 Mbps   Streaming HD video, 5-10 Mbps   Streaming 4K video, ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:532532651716547244</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17160139803028026758</guid>
       <dc:creator />
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
@@ -248,146 +626,56 @@
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
     <item>
-      <title>Connecting the Dots   Bridging Web3 Perspectives, Token2049 Official Side Event by DTC Group</title>
-      <link>https://www.digitaljournal.com/pr/news/getnews/connecting-the-dots-bridging-web3-perspectives-token2049-official-side-event-by-dtc-group</link>
-      <content:encoded>In an era defined by rapid digital transformation, the future is being reshaped by the transformative potential of Web3 technologies.</content:encoded>
+      <title>China Unleashes AI-Powered Image Generation For Influence Operations</title>
+      <link>https://www.infosecurity-magazine.com/news/china-ai-image-generation/</link>
+      <content:encoded>China has unveiled a new cyber capability powered by artificial intelligence, enabling the automatic generation of images for influence operations ...</content:encoded>
       <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1120455273059007884</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7107281214511867025</guid>
       <dc:creator />
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
     <item>
-      <title>Buena Vista  39 s annual Fall Colors Festival set for Sept. 16-17 - Bemidji Pioneer</title>
-      <link>https://www.bemidjipioneer.com/news/local/buena-vistas-annual-fall-colors-festival-set-for-sept-16-17</link>
-      <content:encoded>FALLFESTIVAL4 WEB.jpg ... Starting on both days at 11 a.m. and running until 3 p.m., the staff at Buena Vista invite the public to come out over ...</content:encoded>
+      <title>AI adding color to U.S. open matches - YouTube</title>
+      <link>https://www.youtube.com/watch?v=ZWmbJVe5lts</link>
+      <content:encoded>CNBC's Julia Boorstin joins 'The Exchange' to report on AI being used to give commentary on U.S. open matches. For access to live and exclusive ...</content:encoded>
       <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12481747053676380225</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2776374778144784368</guid>
       <dc:creator />
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
     <item>
-      <title>Web 3.0 Blockchain Market size to increase by USD 27.42 billion between 2022 - 2027</title>
-      <link>https://finance.yahoo.com/news/3-0-blockchain-market-size-234500631.html</link>
-      <content:encoded>The  Web 3.0 Blockchain Market by End-user  BFSI, Government, Healthcare, and Others  and Geography  North America, Europe, APAC, South America, ...</content:encoded>
+      <title>ChatGPT web traffic drops for third straight month - Axios</title>
+      <link>https://www.axios.com/2023/09/08/chatgpt-web-traffic-decline-third-month</link>
+      <content:encoded>ChatGPT web traffic drops for third straight month   Driving the news: Worldwide desktop and mobile website visits to the ChatGPT website decreased by ...</content:encoded>
       <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15388901590923586969</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:18371021531654144984</guid>
       <dc:creator />
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
     <item>
-      <title>Haiti   August 2023 Gang violence, Port-au-Prince Report  3 - Most recent data - ReliefWeb</title>
-      <link>https://reliefweb.int/report/haiti/haiti-august-2023-gang-violence-port-au-prince-report-3-most-recent-data-04-september-2023-published-08-september-2023</link>
-      <content:encoded>Situation Report in English on Haiti about Protection and Human Rights  published on 8 Sep 2023 by Flowminder Foundation.</content:encoded>
+      <title>Challenges of Regulating AI - YouTube</title>
+      <link>https://www.youtube.com/watch?v=zhHVgaD4VQM</link>
+      <content:encoded>Niall Ferguson, Hoover Institution Senior Fellow discusses the multiple uses of artificial intelligence. He speaks with David Westin on  Wall ...</content:encoded>
       <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16582815595458201309</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10779704938279493343</guid>
       <dc:creator />
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
     <item>
-      <title>Web 3.0 Blockchain Market size to increase by USD 27.42 billion between 2022 - 2027</title>
-      <link>https://www.kilgorenewsherald.com/web-3-0-blockchain-market-size-to-increase-by-usd-27-42-billion-between-2022/article_7d66f7ac-bfd7-5ec1-8df0-8859239e3202.html</link>
-      <content:encoded>8, 2023  PRNewswire  -- The  Web 3.0 Blockchain Market by End-user ... -by-growing-investment-in-web-3-0-blockchain--technavio-301921630.html.</content:encoded>
+      <title>Litigation Document Review Software   Lexis</title>
+      <link>https://www.lexisnexis.com/en-us/products/lexis-plus/document-analysis/brief-analysis.page</link>
+      <content:encoded>Brief Analysis on Lexis  is your go-to litigation document review software. Power your legal strategy with AI content analysis   targeted ...</content:encoded>
       <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2644436785608122475</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11209395151559048508</guid>
       <dc:creator />
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
     <item>
-      <title>Jack Ma  39 s Ant Group Launches Blockchain Service called ZAN - The Crypto Times</title>
-      <link>https://www.cryptotimes.io/jack-mas-ant-group-launches-blockchain-service-called-zan/</link>
-      <content:encoded>... a new blockchain service platform to serve its web 3 community clients ... ZAN is dedicated to investing in research and development of Web3 ...</content:encoded>
+      <title>Machine Learning Engineer, LLM Infrastructure   Careers - Scale AI</title>
+      <link>https://scale.com/careers/4314834005</link>
+      <content:encoded>Join Scale AI  The transition from traditional software to AI is one of the most important shifts of our time. Scale AI is growing, grow with us</content:encoded>
       <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17033651542832946452</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Ant Group launches ZAN to help Web3 developers issue and manage real-world assets</title>
-      <link>https://www.kitco.com/news/2023-09-08/Ant-Group-launches-ZAN-to-help-Web3-developers-issue-and-manage-real-world-assets.html</link>
-      <content:encoded>HaskKey DID, a Web3 decentralized identity data aggregator, has since adopted ZAN eKYC to provide users with access to its compliant Web3 service ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4339916265021517153</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>ChatGPT web traffic drops for third consecutive month in August - Investing.com</title>
-      <link>https://www.investing.com/news/cryptocurrency-news/chatgpt-web-traffic-drops-for-third-consecutive-month-in-august-3170765</link>
-      <content:encoded>ChatGPT web traffic drops for third consecutive month in August. The popular artificial intelligence  AI  chatbot ChatGPT has seen a decrease in ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5944443386654166041</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Top 11 Web 3.0 Trends for 2023-2024 - AMBCrypto</title>
-      <link>https://ambcrypto.com/blog/top-11-web-3-0-trends-for-2023-2024/</link>
-      <content:encoded>1. The rise of interoperability   2. Embracing virtual identities   3. Utility non-fungible tokens  NFTs  taking center stage   4. Decentralized ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9419007429332489710</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>3  Weddington    16  Butler: HSOT Live</title>
-      <link>https://www.highschoolot.com/video/3-weddington-16-butler-hsot-live/21038715/</link>
-      <content:encoded>16 Butler Bulldogs host the No. 3 Weddington Warriors as two of the 704's very best square off on HighSchoolOT Live. Web Editor : Kyle Morton.</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10110830517846894757</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Ripple Pushes for Regulatory Compliance with Fortress Trust Acquisition</title>
-      <link>https://www.financemagnates.com/cryptocurrency/ripple-pushes-for-regulatory-compliance-with-fortress-trust-acquisition/</link>
-      <content:encoded>Fortress Trust is a licensed Web 3 financial institution specializing in regulatory compliance and technology infrastructure for blockchain ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14026573865387702805</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Google CEO Sundar Pichai Says AI Could Be  Bigger Than the Internet  - The Motley Fool</title>
-      <link>https://www.fool.com/investing/2023/09/09/google-ceo-sundar-pichai-ai-internet-stocks/</link>
-      <content:encoded>Google CEO Sundar Pichai Says AI Could Be  Bigger Than the Internet : 3 Stocks to Buy and Hold If He's Right. By Keith Speights   Sep 9, ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11419617769893704838</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Space Alpaca RPG GameFi is launching, heralding the next generation of Web3.0 traffic platforms</title>
-      <link>https://www.investorsobserver.com/news/qm-pr/8783278018719846</link>
-      <content:encoded>... Play-to-Earn RPG game that combines yield farming and battle gameplay, announced its official launch. Embracing the ethos of Web3.0, Players .</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15940858741660426</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>These doctors aren  39 t sweating AI   yet - Harvard Gazette</title>
-      <link>https://news.harvard.edu/gazette/story/2023/09/these-doctors-arent-sweating-ai-yet/</link>
-      <content:encoded>Board exam for pediatric specialty stumps ChatGPT, at least in some areas.</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16564245314688269299</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Anthropic Launches Claude Pro, a Subscription AI That May Rival ChatGPT Plus - Slashdot</title>
-      <link>https://slashdot.org/story/23/09/08/2054212/anthropic-launches-claude-pro-a-subscription-ai-that-may-rival-chatgpt-plus</link>
-      <content:encoded>In February, OpenAI chose a subscription route for ChatGPT Plus, which for  20 a month also gives early access to new features, but it also unlocks ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13651648278820445818</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>ChatGPT is Notoriously Bad at Legal Research. So Let's Use it to Teach Legal Research</title>
-      <link>https://verdict.justia.com/2023/09/09/chatgpt-is-notoriously-bad-at-legal-research-so-lets-use-it-to-teach-legal-research</link>
-      <content:encoded>While many law students view ChatGPT and other generative AI tools as a time-saving shortcut for their drafting, summarizing, and analyzing needs, ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5208511232854344367</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:724657861816798844</guid>
       <dc:creator />
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
@@ -401,38 +689,56 @@
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
     <item>
-      <title>ChatGPT's usage hits 3 month decline, is it coming to an end? - OnMSFT.com</title>
-      <link>https://www.onmsft.com/news/chatgpts-usage-hits-3-month-decline-is-it-coming-to-an-end/</link>
-      <content:encoded>A report from SimilarWeb has shown a decline in ChatGPT's usage for three consecutive months. It could be due to various factors, including the ...</content:encoded>
+      <title>McCaig's Movie Mayhem: My Big Fat Greek Wedding 3 - WBBJ TV</title>
+      <link>https://www.wbbjtv.com/2023/09/08/mccaigs-movie-mayhem-my-big-fat-greek-wedding-3/</link>
+      <content:encoded>McCaig's Movie Mayhem: My Big Fat Greek Wedding 3. 7 minutes ago ... Categories: Entertainment, U.S. News, Video, Web Extras. Share this.</content:encoded>
       <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15197141943103417144</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12043276049477777242</guid>
       <dc:creator />
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
     <item>
-      <title>ChatGPT vs. Humans: Even Linguistic Experts Can't Tell Who Wrote What - SciTechDaily</title>
-      <link>https://scitechdaily.com/chatgpt-vs-humans-even-linguistic-experts-cant-tell-who-wrote-what/</link>
-      <content:encoded>Reference:  Can linguists distinguish between ChatGPT AI and human writing?: A study of research ethics and academic publishing  by J. Elliott Casal, ...</content:encoded>
+      <title>Roblox Adds Avatar Calling on Phones, More Generative AI, and Is Coming to PlayStation</title>
+      <link>https://www.cnet.com/tech/computing/roblox-adds-more-generative-ai-avatar-calling-on-phones-and-is-coming-to-playstation/</link>
+      <content:encoded>There hasn't been a lot of talk about the metaverse lately, even though VR and AR devices are on the rise and generative AI tools are now ...</content:encoded>
       <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7853743879786585711</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13058834946693279447</guid>
       <dc:creator />
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
     <item>
-      <title>Sick of ChatGPT and Bard? Here Are New AI Tools That Will Blow Your Mind - Medium</title>
-      <link>https://medium.com/swlh/sick-of-chatgpt-and-bard-here-are-new-ai-tools-that-will-blow-your-mind-873789c3f698</link>
-      <content:encoded>However, with the release of AI tools like ChatGPT, many well-known companies, including Canva and Google, have integrated various AI features ...</content:encoded>
+      <title>Art Made With A.I. Won a State Fair Last Year. Now, the Rules Are Changing   Smart News</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-state-fair-changed-its-rules-after-a-piece-made-with-ai-won-last-year-180982867/</link>
+      <content:encoded>Artists who submit to the competition will need to disclose whether they used A.I. tools like Midjourney.</content:encoded>
       <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11287340537309575310</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16885326079854452605</guid>
       <dc:creator />
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
     <item>
-      <title>Undeclared Use of ChatGPT Raises Concerns in Scientific Publishing - Cryptopolitan</title>
-      <link>https://www.cryptopolitan.com/chatgpt-raise-concerns-scientific-publishing/</link>
-      <content:encoded>The proliferation of generative AI tools like ChatGPT may lead to the rise of fake manuscripts and challenges in peer review.</content:encoded>
+      <title>Connecting the Dots   Bridging Web3 Perspectives, Token2049 Official Side Event by DTC Group</title>
+      <link>https://www.digitaljournal.com/pr/news/getnews/connecting-the-dots-bridging-web3-perspectives-token2049-official-side-event-by-dtc-group</link>
+      <content:encoded>In an era defined by rapid digital transformation, the future is being reshaped by the transformative potential of Web3 technologies.</content:encoded>
       <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11678218203687192799</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1120455273059007884</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T15:37:46Z</dc:date>
+    </item>
+    <item>
+      <title>These doctors aren  39 t sweating AI   yet - Harvard Gazette</title>
+      <link>https://news.harvard.edu/gazette/story/2023/09/these-doctors-arent-sweating-ai-yet/</link>
+      <content:encoded>Board exam for pediatric specialty stumps ChatGPT, at least in some areas.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16564245314688269299</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T15:37:46Z</dc:date>
+    </item>
+    <item>
+      <title>Generative AI - Learning and Teaching - University of Bath</title>
+      <link>https://teachinghub.bath.ac.uk/guide/generative-ai-bath-case-studies/</link>
+      <content:encoded>Generative AI. How is AI being used at Bath? The most recent CLT EduTalk was a session on the current 'hot topic' in education ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6683635459265072244</guid>
       <dc:creator />
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
@@ -446,92 +752,65 @@
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
     <item>
+      <title>Product Management: Steering Innovation In AI And Web3 Startups - Forbes</title>
+      <link>https://www.forbes.com/sites/forbestechcouncil/2023/09/08/product-management-steering-innovation-in-ai-and-web3-startups/</link>
+      <content:encoded>Likewise, with Web3, decentralization is more than a technological trend  it's an innovation strategy. Product managers must align decentralized ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11845801984241634172</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T15:37:46Z</dc:date>
+    </item>
+    <item>
+      <title>Sick of ChatGPT and Bard? Here Are New AI Tools That Will Blow Your Mind - Medium</title>
+      <link>https://medium.com/swlh/sick-of-chatgpt-and-bard-here-are-new-ai-tools-that-will-blow-your-mind-873789c3f698</link>
+      <content:encoded>However, with the release of AI tools like ChatGPT, many well-known companies, including Canva and Google, have integrated various AI features ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11287340537309575310</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T15:37:46Z</dc:date>
+    </item>
+    <item>
+      <title>Nvidia debuts new software to boost AI model performance on its high-end chips</title>
+      <link>https://siliconangle.com/2023/09/08/nvidia-unveils-tensorrt-llm-boost-ai-inference-performance-h100-gpus/</link>
+      <content:encoded>Generative artificial intelligence large language models have become popular thanks to their impressive capabilities and expanded the envelope for ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8043444177798734008</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T15:37:46Z</dc:date>
+    </item>
+    <item>
+      <title>Saudi Arabia looks to blockchain gaming and Web3 to diversify economy - Cointelegraph</title>
+      <link>https://cointelegraph.com/news/saudi-arabia-looks-to-blockchain-gaming-and-web3-to-diversify-economy</link>
+      <content:encoded>While Saudia Arabia is clearly interested in Web3 it still doesn't have a clear framework for crypto and other virtual assets.</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9803565051185352920</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T15:37:46Z</dc:date>
+    </item>
+    <item>
+      <title>Artificial Intelligence for Business Online Training Courses   LinkedIn Learning, formerly Lynda.com</title>
+      <link>https://www.linkedin.com/learning/topics/artificial-intelligence-for-business</link>
+      <content:encoded>The future of marketing: Understanding the role of AI. From: Nano Tips for Using Generative AI Tools for Better Marketing Outcomes with Joanna ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12951288336661756561</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T15:37:46Z</dc:date>
+    </item>
+    <item>
+      <title>ChatGPT is Notoriously Bad at Legal Research. So Let's Use it to Teach Legal Research</title>
+      <link>https://verdict.justia.com/2023/09/09/chatgpt-is-notoriously-bad-at-legal-research-so-lets-use-it-to-teach-legal-research</link>
+      <content:encoded>While many law students view ChatGPT and other generative AI tools as a time-saving shortcut for their drafting, summarizing, and analyzing needs, ...</content:encoded>
+      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5208511232854344367</guid>
+      <dc:creator />
+      <dc:date>2023-09-09T15:37:46Z</dc:date>
+    </item>
+    <item>
       <title>How to Secure Your Data with ChatGPT and Generative AI? - Analytics Insight</title>
       <link>https://www.analyticsinsight.net/how-to-secure-your-data-with-chatgpt-and-generative-ai/</link>
       <content:encoded>This essay explores securing data with ChatGPT and GenerativeAI. The digital age has ushered in an era where artificial intelligence  AI  is becoming ...</content:encoded>
       <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8677222832324550002</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Will ChatGPT Ever Actually Be the  Google Killer  Everyone Thought It Would Be?  Answer -- not yet</title>
-      <link>https://www.fool.com/investing/2023/09/09/will-chatgpt-ever-actually-be-the-google-killer-ev/</link>
-      <content:encoded>The ChatGPT threat ... The release of the Microsoft  MSFT 1.32  -backed generative chatbot ChatGPT changed a lot, especially in the investing world.</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12592485771047271069</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water - Yahoo News</title>
-      <link>https://news.yahoo.com/artificial-intelligence-technology-behind-chatgpt-131421382.html</link>
-      <content:encoded>The cost of building an artificial intelligence product like ChatGPT can be hard to measure. As they race to capitalize on a craze for generative ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14897096258790986983</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>M.B.A. Students vs. ChatGPT: Who Comes Up With More Innovative Ideas? - WSJ</title>
-      <link>https://www.wsj.com/tech/ai/mba-students-vs-chatgpt-innovation-679edf3b</link>
-      <content:encoded>Researchers pitted Wharton students against ChatGPT and a version of ChatGPT trained with examples to see which came up with better product ideas.</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12137411319869012168</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>AI is boring   How to jailbreak ChatGPT - Laptop Mag</title>
-      <link>https://www.laptopmag.com/how-to/ai-is-boring-how-to-jailbreak-chatgpt</link>
-      <content:encoded>The Grandma Exploit  Hypothetical Sleight of Hand  Custom Instructions. ChatGPT is a fascinating tool, but you're probably using it ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14236713985011056535</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>California Governor's Team Asked ChatGPT to Write a Speech - Bloomberg</title>
-      <link>https://www.bloomberg.com/news/newsletters/2023-09-09/california-governor-s-team-asked-chatgpt-to-write-a-speech</link>
-      <content:encoded>Covering Silicon Valley over the last year has required talking to lots of people about generative AI, including popular chatbots like ChatGPT, ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3929662205244812943</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Scientists Devised a Way to Tell if ChatGPT Becomes Aware of Itself - ScienceAlert</title>
-      <link>https://www.sciencealert.com/scientists-devised-a-way-to-tell-if-chatgpt-becomes-aware-of-itself</link>
-      <content:encoded>Our lives were already infused with artificial intelligence  AI  when ChatGPT reverberated around the online world late last year.</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8655641419076551453</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Claude Pro might convince me to drop my ChatGPT Plus subscription - BGR</title>
-      <link>https://bgr.com/tech/claude-pro-might-convince-me-to-drop-my-chatgpt-plus-subscription/</link>
-      <content:encoded>With the release of Claude Pro, Anthropics generative AI could get me to drop my subscription for ChatGPT Plus. Here's why.</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11717974944716639289</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>ChatGPT has limitations in providing advice on urologic conditions</title>
-      <link>https://www.urologytimes.com/view/chatgpt-has-limitations-in-providing-advice-on-urologic-conditions</link>
-      <content:encoded>Questions spanned urologic conditions such as benign prostatic hyperplasia, overactive bladder, erectile dysfunction, kidney stones, nbsp ...</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8009958495212739013</guid>
-      <dc:creator />
-      <dc:date>2023-09-09T15:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water</title>
-      <link>https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4</link>
-      <content:encoded>DES MOINES, Iowa  AP    The cost of building an artificial intelligence product like ChatGPT can be hard to measure.</content:encoded>
-      <pubDate>Sat, 09 Sep 2023 15:37:46 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11698915496705581956</guid>
       <dc:creator />
       <dc:date>2023-09-09T15:37:46Z</dc:date>
     </item>
