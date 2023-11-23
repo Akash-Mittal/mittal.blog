@@ -5,83 +5,254 @@
     <link>https://www.TheAsiaHawk.com</link>
     <description>http://www.TheAsiaHawk.com</description>
     <item>
-      <title>Microsoft Launches Defender Bug Bounty Program - Infosecurity Magazine</title>
-      <link>https://www.infosecurity-magazine.com/news/microsoft-defender-bug-bounty/</link>
-      <content:encoded>Microsoft has launched another bug bounty program, this time with the goal of making its Microsoft Defender-branded products and services more nbsp ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16720330377679974296</guid>
+      <title>White Hat Hackers Trick Windows Hello - FindBiometrics</title>
+      <link>https://findbiometrics.com/white-hat-hackers-trick-windows-hello/</link>
+      <content:encoded>Reverse Engineering: The researchers first reverse-engineered the software and hardware of the fingerprint sensors.   Exploiting Cryptographic and ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:490427499983974344</guid>
       <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>Bug Bounty Platforms Market Size, Share, Trend   Growth Talks about Current ... - Digital Journal</title>
-      <link>https://www.digitaljournal.com/pr/news/prwirecenter/bug-bounty-platforms-market-size-share-trend-growth-talks-about-current-market-type-application-and-regional-forecast-research-report-with-segmentations-by-2031</link>
-      <content:encoded>Bug Bounty Platforms Market Size, Share, Trend   Growth Talks about Current Market Type, Application and Regional Forecast Research Report with nbsp ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12170919815088435294</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>10 Years On, Microsoft  39 s Bug Bounty Program Has Paid Out  60 Million - Security Boulevard</title>
-      <link>https://securityboulevard.com/2023/11/10-years-on-microsofts-bug-bounty-program-has-paid-out-60-million/</link>
-      <content:encoded>Microsoft celebrate the 10th anniversary of its bug bounty program, which has awarded  60 million. A day later, another program is rolled out.</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4116341766202488761</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>Organizations rethink cybersecurity investments to meet NIS Directive requirements</title>
-      <link>https://www.helpnetsecurity.com/2023/11/22/nis-directive-requirements-investments/</link>
-      <content:encoded>... responsible key actors on coordinated vulnerability disclosure for newly ... vulnerability disclosure ecosystem within the EU. Importantly, these ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4828811578873579238</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>Microsoft announces Defender bug bounty program - Help Net Security</title>
-      <link>https://www.helpnetsecurity.com/2023/11/22/microsoft-defender-bug-bounty/</link>
-      <content:encoded>Microsoft has announced a bug bounty program aimed at finding vulnerabilities in Defender-related products and services.</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15505708203906955944</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>Accelerating responsible investment ambition in China - UN PRI</title>
-      <link>https://www.unpri.org/pri-blog/accelerating-responsible-investment-ambition-in-china/11949.article</link>
-      <content:encoded>There is clearly growing understanding from regulators, associations and listed companies about the value and benefits of ESG disclosure. Further ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8445499239673487148</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>GFANZ set to announce work on incorporating nature in transition plans</title>
-      <link>https://www.responsible-investor.com/gfanz-set-to-announce-work-on-incorporating-nature-in-transition-plans/</link>
-      <content:encoded>Data   Disclosure   Biodiversity   Emerging markets   Human Rights   ESG backlash ... Responsible Investor Europe 2023   Responsible Investor Asia 2023 ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7173250001438522051</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>Microsoft is launching a new bug bounty program - spot flaws in Windows Defender and win ...</title>
-      <link>https://www.techradar.com/pro/security/microsoft-is-launching-a-new-bug-bounty-program-spot-flaws-in-windows-defender-and-win-big-rewards</link>
-      <content:encoded>Microsoft  39 s bug bounty program will now cover Microsoft Defender, with top awards relating to the antivirus software reaching  20,000.</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8983109411586429572</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
     </item>
     <item>
       <title>Approach Cybersecurity Awareness Training by Engaging People at All Levels</title>
       <link>https://www.cpomagazine.com/cyber-security/approach-cybersecurity-awareness-training-by-engaging-people-at-all-levels/</link>
       <content:encoded>They are the ones that are in a prime position to provide evidence-based feedback, identify gaps in training, and promote and reward a culture of ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2302416483809159670</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>Microsoft Launches Defender Bug Bounty Program - Infosecurity Magazine</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-defender-bug-bounty/</link>
+      <content:encoded>Microsoft has launched another bug bounty program, this time with the goal of making its Microsoft Defender-branded products and services more nbsp ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16720330377679974296</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>Bug Bounty Platforms Market Size, Share, Trend   Growth Talks about Current ... - Digital Journal</title>
+      <link>https://www.digitaljournal.com/pr/news/prwirecenter/bug-bounty-platforms-market-size-share-trend-growth-talks-about-current-market-type-application-and-regional-forecast-research-report-with-segmentations-by-2031</link>
+      <content:encoded>Bug Bounty Platforms Market Size, Share, Trend   Growth Talks about Current Market Type, Application and Regional Forecast Research Report with nbsp ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12170919815088435294</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>10 Years On, Microsoft  39 s Bug Bounty Program Has Paid Out  60 Million - Security Boulevard</title>
+      <link>https://securityboulevard.com/2023/11/10-years-on-microsofts-bug-bounty-program-has-paid-out-60-million/</link>
+      <content:encoded>Microsoft celebrate the 10th anniversary of its bug bounty program, which has awarded  60 million. A day later, another program is rolled out.</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4116341766202488761</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>Organizations rethink cybersecurity investments to meet NIS Directive requirements</title>
+      <link>https://www.helpnetsecurity.com/2023/11/22/nis-directive-requirements-investments/</link>
+      <content:encoded>... responsible key actors on coordinated vulnerability disclosure for newly ... vulnerability disclosure ecosystem within the EU. Importantly, these ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4828811578873579238</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>Microsoft announces Defender bug bounty program - Help Net Security</title>
+      <link>https://www.helpnetsecurity.com/2023/11/22/microsoft-defender-bug-bounty/</link>
+      <content:encoded>Microsoft has announced a bug bounty program aimed at finding vulnerabilities in Defender-related products and services.</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15505708203906955944</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>GFANZ set to announce work on incorporating nature in transition plans</title>
+      <link>https://www.responsible-investor.com/gfanz-set-to-announce-work-on-incorporating-nature-in-transition-plans/</link>
+      <content:encoded>Data   Disclosure   Biodiversity   Emerging markets   Human Rights   ESG backlash ... Responsible Investor Europe 2023   Responsible Investor Asia 2023 ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7173250001438522051</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>Microsoft is launching a new bug bounty program - spot flaws in Windows Defender and win ...</title>
+      <link>https://www.techradar.com/pro/security/microsoft-is-launching-a-new-bug-bounty-program-spot-flaws-in-windows-defender-and-win-big-rewards</link>
+      <content:encoded>Microsoft  39 s bug bounty program will now cover Microsoft Defender, with top awards relating to the antivirus software reaching  20,000.</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8983109411586429572</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>Mexico National Guard Officers Capture Alleged   39 Chapitos  39  Security Chief El Nini   Latin Post</title>
+      <link>https://www.latinpost.com/articles/161549/20231122/mexico-national-guard-officers-capture-alleged-chapitos-security-chief-el.htm</link>
+      <content:encoded>The US Drug Enforcement Administration  DEA  issued a  3 million reward for the capture of Nestor Isidro Perez Salas, aka  El Nini,  in April, as he ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1956863012036039168</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>Global Organization Security Certification Service Software - openPR.com</title>
+      <link>https://www.openpr.com/news/3297052/global-organization-security-certification-service-software</link>
+      <content:encoded>... Monetary Policy, and Top Leading Player to 2028 - published on openPR ... Security Certification Service Software market report. It further sheds ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15232708360810116665</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>Physical Security Demand Surges as Global Data Center Investments Reach New Heights ...</title>
+      <link>http://www.itnewsonline.com/PRNewswire/Physical-Security-Demand-Surges-as-Global-Data-Center-Investments-Reach-New-Heights-the-Global-Data-Center-Physical-Security-Market-to-Worth-USD1.59-Billion-By-2028---Arizton/959192</link>
+      <content:encoded>Data Center Physical Security Market Report Scope. Report Attributes ... As demand grows, several leading financial, healthcare, and IT software service ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12223589187955494705</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>State Report: Risk as Well as Reward in GenAI - Industry Insider</title>
+      <link>https://insider.govtech.com/california/news/state-report-risk-as-well-as-reward-in-genai</link>
+      <content:encoded>A new examination of generative artificial intelligence identified significant areas of potential risk in the state use of such tools.</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15778860158709638360</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>Mexico arrests alleged security chief for the   39 Chapitos  39  wing of the Sinaloa drug cartel</title>
+      <link>https://abcnews.go.com/International/wireStory/mexico-arrests-alleged-security-chief-chapitos-wing-sinaloa-105112352</link>
+      <content:encoded>The U.S. Drug Enforcement Administration in April had posted a  3 million reward for his capture. P rez Salas is wanted on U.S. charges of ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3108943670215994345</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>2023 Enterprise Security Customer Survey Report: Disparities in Enterprise Cybersecurity ...</title>
+      <link>https://www.prnewswire.com/news-releases/2023-enterprise-security-customer-survey-report-disparities-in-enterprise-cybersecurity-technology-adoption-potentially-fragment-an-already-splintered-cloud-security-market-301995702.html</link>
+      <content:encoded>PRNewswire  -- The  quot 2023 Voice of the Enterprise Security Customer Survey Summary: Cloud Security Perceptions, Priorities, Challenges, Strategies, nbsp ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11052151324677823846</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>Meet the financial security analyst seeking to unseat Opoku Prempeh as MP - GhanaWeb</title>
+      <link>https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Meet-the-financial-security-analyst-seeking-to-unseat-Opoku-Prempeh-as-MP-1885583</link>
+      <content:encoded>Kwabena Addo Amankwah, a financial security analyst, has announced that he wants to contest and represent the people of Manhyia South, ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14517766683483583522</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>Industrial Control Security Market worth  25.1 billion by 2028 - PR Newswire</title>
+      <link>https://www.prnewswire.com/news-releases/industrial-control-security-market-worth-25-1-billion-by-2028---exclusive-report-by-marketsandmarkets-301995722.html</link>
+      <content:encoded>Close submenu  Business   Money Business   Money ... Industrial Control Security Market worth  25.1 billion by 2028 - Exclusive Report by ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:334957026735915706</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>Legacy Planning: Seniors' ambition to strengthen family financial security - NZ Seniors</title>
+      <link>https://www.voxy.co.nz/national/legacy-planning-seniors-ambition-to-strengthen-family-financial-security-nz-seniors/4447/</link>
+      <content:encoded>The Legacy Report 2023, commissioned by New Zealand Seniors in partnership with consumer research group, CoreData, surveyed more than 500 Kiwis over ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11323228361011575490</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>Blockchain Firm dWallet Uncovers Validator Security Flaw - Crypto News BTC</title>
+      <link>https://cryptonewsbtc.org/2023/11/22/blockchain-firm-dwallet-uncovers-validator-security-flaw/</link>
+      <content:encoded>InfStones carried out inside evaluations and sought audits from accredited safety corporations. In addition they initiated a bug bounty program to ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2881729915370888547</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>Blockchain Firm dWallet Uncovers Major Validator Security Flaw - The Crypto Times</title>
+      <link>https://www.cryptotimes.io/blockchain-firm-dwallet-uncovers-major-validator-security-flaw/</link>
+      <content:encoded>They also initiated a bug bounty program to encourage discovering and reporting potential security flaws. The revelation of this vulnerability by ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4113896801445262739</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>Building Security Culture Starts with Building Relationships</title>
+      <link>https://securityboulevard.com/2023/11/building-security-culture-starts-with-building-relationships/</link>
+      <content:encoded>10 Years On, Microsoft's Bug Bounty Program Has Paid Out  60 Million. We were unable to load Disqus Recommendations. If you are a moderator ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2285996034585439675</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>IT Security News Daily Summary 2023-11-22</title>
+      <link>https://www.itsecuritynews.info/it-security-news-daily-summary-2023-11-22/</link>
+      <content:encoded>Microsoft's bug bounty turns 10. Are these kinds of rewards making code more secure? Coincover collaborates with Utila to improve crypto asset ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2066810552818731857</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>CVE-2023-37924 - Vulnerability Report for Apache Submarine - Aves Netsec</title>
+      <link>https://www.avesnetsec.com/vulnerabilities/cve-2023-37924</link>
+      <content:encoded>Vulnerability Report for CVE ... One of their notable projects, Apache Submarine, has recently encountered a security vulnerability identified as CVE- ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11469642607322137465</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>TRON  TRX  and Zcash  ZEC  See Declines as VC Spectra  SPCT  Presale Attracts Attention</title>
+      <link>https://finbold.com/market-update-tron-trx-and-zcash-zec-see-declines-as-vc-spectra-spct-presale-attracts-attention/</link>
+      <content:encoded>If you encounter any issues, kindly report them to support finbold.com. ... Zcash  ZEC  Plummets Amid Security Vulnerability Concerns. Zcash  ZEC  has ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10070007113353349277</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>CISOs Beware of The Rising Risk of Supply Chain Attacks - Spiceworks</title>
+      <link>https://www.spiceworks.com/it-security/vulnerability-management/guest-article/cisos-beware-of-the-rising-risk-of-supply-chain-attacks/</link>
+      <content:encoded>Moreover, suppose a supplier or a third-party fails to secure your data promptly or adequately report a security incident. In that case, it can ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2316582587101819745</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>Microsoft  39 s Windows Hello fingerprint authentication has been bypassed - The Verge</title>
+      <link>https://www.theverge.com/2023/11/22/23972220/microsoft-windows-hello-fingerprint-authentication-bypass-security-vulnerability</link>
+      <content:encoded>... report on the flaws.  Additionally, SDCP only covers a very narrow scope of a typical device's operation, while most devices have a sizable attack ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4188607667299151621</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>New Report Confirms Gulf War Setting Along With Fresh Call of Duty 2024 Details</title>
+      <link>https://game-news24.com/2023/11/22/new-report-confirms-gulf-war-setting-along-with-fresh-call-of-duty-2024-details/</link>
+      <content:encoded>New Report Confirms Gulf War Setting Along ... A security vulnerability helps researchers bypass Microsofts Windows Hello by way of a security breach.</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 11:38:09 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11792724797571664853</guid>
+      <dc:creator />
+      <dc:date>2023-11-23T11:38:09Z</dc:date>
+    </item>
+    <item>
+      <title>After bomb threats at schools, Education Ministry urges strict adherence to security procedures</title>
+      <link>https://www.malaymail.com/news/money/2023/11/22/after-bomb-threats-at-schools-education-ministry-urges-strict-adherence-to-security-procedures/103530</link>
+      <content:encoded>In a statement, it emphasised the importance of promptly reporting any threat to security to both the police and the ministry. ... Money   Life   Eat  ...</content:encoded>
+      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16115118037114543476</guid>
       <dc:creator />
       <dc:date>2023-11-23T07:39:20Z</dc:date>
     </item>
@@ -95,137 +266,11 @@
       <dc:date>2023-11-23T07:39:20Z</dc:date>
     </item>
     <item>
-      <title>Mexico National Guard Officers Capture Alleged   39 Chapitos  39  Security Chief El Nini   Latin Post</title>
-      <link>https://www.latinpost.com/articles/161549/20231122/mexico-national-guard-officers-capture-alleged-chapitos-security-chief-el.htm</link>
-      <content:encoded>The US Drug Enforcement Administration  DEA  issued a  3 million reward for the capture of Nestor Isidro Perez Salas, aka  El Nini,  in April, as he ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1956863012036039168</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>Physical Security Demand Surges as Global Data Center Investments Reach New Heights ...</title>
-      <link>http://www.itnewsonline.com/PRNewswire/Physical-Security-Demand-Surges-as-Global-Data-Center-Investments-Reach-New-Heights-the-Global-Data-Center-Physical-Security-Market-to-Worth-USD1.59-Billion-By-2028---Arizton/959192</link>
-      <content:encoded>Data Center Physical Security Market Report Scope. Report Attributes ... As demand grows, several leading financial, healthcare, and IT software service ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12223589187955494705</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>Mexico arrests alleged security chief for the   39 Chapitos  39  wing of the Sinaloa drug cartel</title>
-      <link>https://abcnews.go.com/International/wireStory/mexico-arrests-alleged-security-chief-chapitos-wing-sinaloa-105112352</link>
-      <content:encoded>The U.S. Drug Enforcement Administration in April had posted a  3 million reward for his capture. P rez Salas is wanted on U.S. charges of ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3108943670215994345</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>After bomb threats at schools, Education Ministry urges strict adherence to security procedures</title>
-      <link>https://www.malaymail.com/news/money/2023/11/22/after-bomb-threats-at-schools-education-ministry-urges-strict-adherence-to-security-procedures/103530</link>
-      <content:encoded>In a statement, it emphasised the importance of promptly reporting any threat to security to both the police and the ministry. ... Money   Life   Eat  ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16115118037114543476</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
       <title>Museveni urges EOC to ensure peace and security in country - Daily Monitor</title>
       <link>https://www.monitor.co.ug/uganda/news/national/museveni-urges-eoc-to-ensure-peace-and-security-in-country-4441806</link>
       <content:encoded>... report on the state of equal opportunities in Uganda for the previous two financial years. The president extended his appreciation to the ...</content:encoded>
       <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9830016604251075964</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>Global Organization Security Certification Service Software - openPR.com</title>
-      <link>https://www.openpr.com/news/3297052/global-organization-security-certification-service-software</link>
-      <content:encoded>... Monetary Policy, and Top Leading Player to 2028 - published on openPR ... Security Certification Service Software market report. It further sheds ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15232708360810116665</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>UK Finance Reports Slight Decrease in FinTech Cyberattacks   Tripwire</title>
-      <link>https://www.tripwire.com/state-of-security/uk-finance-reports-slight-decrease-fintech-cyberattacks</link>
-      <content:encoded>In response to the persistent threat of financial fraud, UK banks and financial institutions have been intensifying their efforts to enhance security ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1065207460105581263</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>Industrial Control Security Market worth  25.1 billion by 2028 - PR Newswire</title>
-      <link>https://www.prnewswire.com/news-releases/industrial-control-security-market-worth-25-1-billion-by-2028---exclusive-report-by-marketsandmarkets-301995722.html</link>
-      <content:encoded>Close submenu  Business   Money Business   Money ... Industrial Control Security Market worth  25.1 billion by 2028 - Exclusive Report by ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:334957026735915706</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>Meet the financial security analyst seeking to unseat Opoku Prempeh as MP - GhanaWeb</title>
-      <link>https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Meet-the-financial-security-analyst-seeking-to-unseat-Opoku-Prempeh-as-MP-1885583</link>
-      <content:encoded>Kwabena Addo Amankwah, a financial security analyst, has announced that he wants to contest and represent the people of Manhyia South, ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14517766683483583522</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>2023 Enterprise Security Customer Survey Report: Disparities in Enterprise Cybersecurity ...</title>
-      <link>https://www.prnewswire.com/news-releases/2023-enterprise-security-customer-survey-report-disparities-in-enterprise-cybersecurity-technology-adoption-potentially-fragment-an-already-splintered-cloud-security-market-301995702.html</link>
-      <content:encoded>PRNewswire  -- The  quot 2023 Voice of the Enterprise Security Customer Survey Summary: Cloud Security Perceptions, Priorities, Challenges, Strategies, nbsp ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11052151324677823846</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>Legacy Planning: Seniors' ambition to strengthen family financial security - NZ Seniors</title>
-      <link>https://www.voxy.co.nz/national/legacy-planning-seniors-ambition-to-strengthen-family-financial-security-nz-seniors/4447/</link>
-      <content:encoded>The Legacy Report 2023, commissioned by New Zealand Seniors in partnership with consumer research group, CoreData, surveyed more than 500 Kiwis over ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11323228361011575490</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>Blockchain Firm dWallet Uncovers Major Validator Security Flaw - The Crypto Times</title>
-      <link>https://www.cryptotimes.io/blockchain-firm-dwallet-uncovers-major-validator-security-flaw/</link>
-      <content:encoded>They also initiated a bug bounty program to encourage discovering and reporting potential security flaws. The revelation of this vulnerability by ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4113896801445262739</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>Vulnerability Reporting Policy - corebapp.com</title>
-      <link>https://www.corebapp.com/responsabile-disclosure</link>
-      <content:encoded>Reporting a potential security vulnerability: . Privately share details ... . We encourage you to report any vulnerabilities you may discover ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14947816982222360157</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>Blockchain Firm dWallet Uncovers Validator Security Flaw - Crypto News BTC</title>
-      <link>https://cryptonewsbtc.org/2023/11/22/blockchain-firm-dwallet-uncovers-validator-security-flaw/</link>
-      <content:encoded>InfStones carried out inside evaluations and sought audits from accredited safety corporations. In addition they initiated a bug bounty program to ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2881729915370888547</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>Building Security Culture Starts with Building Relationships</title>
-      <link>https://securityboulevard.com/2023/11/building-security-culture-starts-with-building-relationships/</link>
-      <content:encoded>10 Years On, Microsoft's Bug Bounty Program Has Paid Out  60 Million. We were unable to load Disqus Recommendations. If you are a moderator ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2285996034585439675</guid>
       <dc:creator />
       <dc:date>2023-11-23T07:39:20Z</dc:date>
     </item>
@@ -239,47 +284,29 @@
       <dc:date>2023-11-23T07:39:20Z</dc:date>
     </item>
     <item>
-      <title>CVE-2023-37924 - Vulnerability Report for Apache Submarine - Aves Netsec</title>
-      <link>https://www.avesnetsec.com/vulnerabilities/cve-2023-37924</link>
-      <content:encoded>Vulnerability Report for CVE ... One of their notable projects, Apache Submarine, has recently encountered a security vulnerability identified as CVE- ...</content:encoded>
+      <title>Vulnerability Reporting Policy - corebapp.com</title>
+      <link>https://www.corebapp.com/responsabile-disclosure</link>
+      <content:encoded>Reporting a potential security vulnerability: . Privately share details ... . We encourage you to report any vulnerabilities you may discover ...</content:encoded>
       <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11469642607322137465</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14947816982222360157</guid>
       <dc:creator />
       <dc:date>2023-11-23T07:39:20Z</dc:date>
     </item>
     <item>
-      <title>TRON  TRX  and Zcash  ZEC  See Declines as VC Spectra  SPCT  Presale Attracts Attention</title>
-      <link>https://finbold.com/market-update-tron-trx-and-zcash-zec-see-declines-as-vc-spectra-spct-presale-attracts-attention/</link>
-      <content:encoded>If you encounter any issues, kindly report them to support finbold.com. ... Zcash  ZEC  Plummets Amid Security Vulnerability Concerns. Zcash  ZEC  has ...</content:encoded>
+      <title>UK Finance Reports Slight Decrease in FinTech Cyberattacks   Tripwire</title>
+      <link>https://www.tripwire.com/state-of-security/uk-finance-reports-slight-decrease-fintech-cyberattacks</link>
+      <content:encoded>In response to the persistent threat of financial fraud, UK banks and financial institutions have been intensifying their efforts to enhance security ...</content:encoded>
       <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10070007113353349277</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1065207460105581263</guid>
       <dc:creator />
       <dc:date>2023-11-23T07:39:20Z</dc:date>
     </item>
     <item>
-      <title>New Report Confirms Gulf War Setting Along With Fresh Call of Duty 2024 Details</title>
-      <link>https://game-news24.com/2023/11/22/new-report-confirms-gulf-war-setting-along-with-fresh-call-of-duty-2024-details/</link>
-      <content:encoded>New Report Confirms Gulf War Setting Along ... A security vulnerability helps researchers bypass Microsofts Windows Hello by way of a security breach.</content:encoded>
+      <title>Accelerating responsible investment ambition in China - UN PRI</title>
+      <link>https://www.unpri.org/pri-blog/accelerating-responsible-investment-ambition-in-china/11949.article</link>
+      <content:encoded>There is clearly growing understanding from regulators, associations and listed companies about the value and benefits of ESG disclosure. Further ...</content:encoded>
       <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11792724797571664853</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>Microsoft  39 s Windows Hello fingerprint authentication has been bypassed - The Verge</title>
-      <link>https://www.theverge.com/2023/11/22/23972220/microsoft-windows-hello-fingerprint-authentication-bypass-security-vulnerability</link>
-      <content:encoded>... report on the flaws.  Additionally, SDCP only covers a very narrow scope of a typical device's operation, while most devices have a sizable attack ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4188607667299151621</guid>
-      <dc:creator />
-      <dc:date>2023-11-23T07:39:20Z</dc:date>
-    </item>
-    <item>
-      <title>CISOs Beware of The Rising Risk of Supply Chain Attacks - Spiceworks</title>
-      <link>https://www.spiceworks.com/it-security/vulnerability-management/guest-article/cisos-beware-of-the-rising-risk-of-supply-chain-attacks/</link>
-      <content:encoded>Moreover, suppose a supplier or a third-party fails to secure your data promptly or adequately report a security incident. In that case, it can ...</content:encoded>
-      <pubDate>Thu, 23 Nov 2023 07:39:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2316582587101819745</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8445499239673487148</guid>
       <dc:creator />
       <dc:date>2023-11-23T07:39:20Z</dc:date>
     </item>
