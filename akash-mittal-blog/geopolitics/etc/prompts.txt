@@ -1,8 +1,0 @@
-From the following 
-INPUTSOURCE0
-write a 3000 Words news article in html5 format 
-In the end of the article please provide 
-Hashtags sorted in trending order 
-with SEO Keywords and 
-with article Category
-do not add any author info or copyright text.
