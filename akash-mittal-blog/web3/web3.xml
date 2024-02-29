@@ -5,65 +5,551 @@
     <link>https://www.TheAsiaHawk.com</link>
     <description>http://www.TheAsiaHawk.com</description>
     <item>
-      <title>AI Warfare Becomes Real for US Military With Project Maven - Bloomberg</title>
-      <link>https://www.bloomberg.com/features/2024-ai-warfare-project-maven/</link>
-      <content:encoded>US military operators started out skeptical about AI, but now they are the ones developing and using Project Maven to identify targets on the ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4975609494964508523</guid>
+      <title>Document AI adding folders - Google Cloud Community</title>
+      <link>https://www.googlecloudcommunity.com/gc/AI-ML/Document-AI-adding-folders/td-p/718011/jump-to/first-unread-message</link>
+      <content:encoded>I'm using Document AI to parse PDF files from one bucket and then save them as JSON in another bucket in GCS. However, Document AI creates a ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16685359443783588534</guid>
       <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
     </item>
     <item>
-      <title>Vertex AI Image - Training Failed  Internal Error  - Google Cloud Community</title>
-      <link>https://www.googlecloudcommunity.com/gc/AI-ML/Vertex-AI-Image-Training-Failed-Internal-Error/td-p/717946/jump-to/first-unread-message</link>
-      <content:encoded>Hi, I want to train a multi-label image classification model in Vertex AI but after several attempts, it keeps returning the same error message:</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:676288654921244269</guid>
+      <title>Is ChatGPT making scientists hyper-productive? The highs and lows of using AI - Nature</title>
+      <link>https://www.nature.com/articles/d41586-024-00592-w</link>
+      <content:encoded>The highs and lows of using AI. Large language models are transforming scientific writing and publishing. But the productivity boost that these tools ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15464770309809668164</guid>
       <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
     </item>
     <item>
-      <title>Amazon's Billion-Dollar Investment Arm Targets Generative AI in Robotics - Singularity Hub</title>
-      <link>https://singularityhub.com/2024/02/28/amazons-billion-dollar-investment-arm-targets-generative-ai-in-robotics/</link>
-      <content:encoded>The tech giant is now looking to a fund a new generation of robots by accelerating investments in startups combining AI and robotics.</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4324297748684678968</guid>
+      <title>Project Music GenAI Control   Adobe Research - YouTube</title>
+      <link>https://www.youtube.com/watch?v=J6jhWyU5lBY</link>
+      <content:encoded>17:57   Go to channel. Generative AI in a Nutshell - how to survive and thrive in the age of AI. Henrik Kniberg 464K views   8:22   Go to channel ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16693984635137335477</guid>
       <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
     </item>
     <item>
-      <title>Klarna says its AI assistant is doing the work of 700 people after putting the brakes on hiring</title>
-      <link>https://www.businessinsider.com/klarna-ai-chatbot-work-700-people-2024-2</link>
-      <content:encoded>Swedish fintech said its OpenAI-powered assistant was on par with human agents when it came to customer satisfaction.</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9846460630808281628</guid>
+      <title>Robot startup Figure valued at  2.6 billion by Bezos, Amazon, Nvidia - CNBC</title>
+      <link>https://www.cnbc.com/2024/02/29/robot-startup-figure-valued-at-2point6-billion-by-bezos-amazon-nvidia.html</link>
+      <content:encoded>Figure AI raised  675 million from investors including Jeff Bezos, Nvidia, Amazon, Microsoft and OpenAI. The startup says it will use the money to ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8748782976316415928</guid>
       <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
     </item>
     <item>
-      <title>C3.ai shares pop after company beats estimates, narrows annual revenue forecast - CNBC</title>
-      <link>https://www.cnbc.com/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html</link>
-      <content:encoded>C3.ai, which is an AI-based software maker, is also a popular name among retail traders.</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13347636106994757988</guid>
+      <title>Figure AI raises whopping  675M to commercialize humanoids - The Robot Report</title>
+      <link>https://www.therobotreport.com/figure-ai-raises-675m-to-commercialize-humanoids/</link>
+      <content:encoded>Figure raises  675M to accelerate humanoid development, AI training, manufacturing, and new hires. It is valued at  2.6B.</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17794833980134861293</guid>
       <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
     </item>
     <item>
-      <title>Artificial Intelligence - ThoughtSpot</title>
-      <link>https://www.thoughtspot.com/data-trends/topics/ai</link>
-      <content:encoded>ThoughtSpot is the Search   AI-driven Analytics platform for the enterprise. Anyone can use search to analyze company data in seconds and get ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1840831879741282950</guid>
+      <title>C3.AI Stock Soars As Results Top Estimates - Barron's</title>
+      <link>https://www.barrons.com/livecoverage/salesforce-snowflake-c3ai-earnings-stock-price/card/c3-ai-stock-soars-as-results-top-estimates-htiopWIpZmPJsNpO3Xmm</link>
+      <content:encoded>C3.ai shares jumped in late trading Wednesday after the artificial intelligence software company posted better-than-expected quarterly results.</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17777338367537188197</guid>
       <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
     </item>
     <item>
-      <title>Amazon to spend  1 billion on startups that combine AI with robots - Ars Technica</title>
-      <link>https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/</link>
-      <content:encoded>Amazon's  1 billion industrial innovation fund is to step up investments in companies that combine artificial intelligence and robotics, ...</content:encoded>
+      <title>Klarna Says Its AI Assistant Does the Work of 700 People   Entrepreneur</title>
+      <link>https://www.entrepreneur.com/business-news/klarna-says-its-ai-assistant-does-the-work-of-700-people/470405</link>
+      <content:encoded>Klarna's AI chatbot does the work of 700 people, the company said. The bot has taken on 75  of the company's customer service chats, ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15215101190553379387</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>What to know about Mistral AI: The company behind the latest GPT-4 rival   ZDNET</title>
+      <link>https://www.zdnet.com/article/what-to-know-about-mistral-ai-the-company-behind-the-latest-gpt-4-rival/</link>
+      <content:encoded>Mistral AI has been in the news constantly because of its latest models, partnerships, and more. Here's everything you need to know.</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11337919828384411783</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>C3.ai posts robust quarterly results, announces CFO change - Reuters</title>
+      <link>https://www.reuters.com/technology/c3ai-posts-robust-quarterly-results-narrows-annual-revenue-forecast-2024-02-28/</link>
+      <content:encoded>Software firm C3.ai on Wednesday posted better-than-expected quarterly results and narrowed its full-year revenue forecast range which was still ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12402269346622257785</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>AI's Silent Hill 1 Remake Proves Artificial Intelligence Has A Long Way To Go - Screen Rant</title>
+      <link>https://screenrant.com/silent-hill-remake-ai-changes-upscaling-mod/</link>
+      <content:encoded>As Silent Hill samples show, it's hard for AI upscaling to fully replicate the detail and artistry of games.   Handcrafted remasters or remakes provide ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13880590509062430871</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Marc Benioff's earnings call tirade on AI reverses stock dip   Fortune</title>
+      <link>https://fortune.com/2024/02/28/marc-benioff-salesforce-earnings-30-minute-ai-talk/</link>
+      <content:encoded>Marc Benioff unleashed a 30-minute tirade about AI's problems and 'stolen' data that made investors forget about Salesforce's weak sales forecast.</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3491673657277929147</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>The Perilous Coming Age of AI Warfare - Foreign Affairs</title>
+      <link>https://www.foreignaffairs.com/ukraine/perilous-coming-age-ai-warfare</link>
+      <content:encoded>Last year, the Ukrainian drone company Saker claimed it had fielded a fully autonomous weapon, the Saker Scout, which uses artificial intelligence ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3946901462271362467</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Malicious AI models on Hugging Face backdoor users' machines - Bleeping Computer</title>
+      <link>https://www.bleepingcomputer.com/news/security/malicious-ai-models-on-hugging-face-backdoor-users-machines/</link>
+      <content:encoded>At least 100 instances of malicious AI ML models were found on the Hugging Face platform, some of which can execute code on the victim's machine, ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1004987999899929977</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>InnovationRx: Exploring The Future Of Healthcare AI - Forbes</title>
+      <link>https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/</link>
+      <content:encoded>He describes AI scribes as sitting in the  high value, low risk  quadrant, during a conference presentation, since all of the output will be reviewed ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15210899200994675352</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Will AI replace Data Analyst jobs? - YouTube</title>
+      <link>https://www.youtube.com/watch?v=eMtmD9XTbv0</link>
+      <content:encoded>I hope you are tamilnadu and I  39 m also follow your YouTube channel can you make playlist and syllabus subtitles ad tamil here wait for your replies nbsp ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16838965572517435095</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Generative AI Is Challenging a 234-Year-Old Law - The Atlantic</title>
+      <link>https://www.theatlantic.com/technology/archive/2024/02/generative-ai-lawsuits-copyright-fair-use/677595/</link>
+      <content:encoded>Ross Intelligence, which concerns the use of legal documents to train an AI research tool. Bibas noted that each side has its own ideas about what ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6224670611897864865</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>2 Artificial Intelligence  AI  Stocks That Could Go Parabolic - Yahoo Finance</title>
+      <link>https://finance.yahoo.com/news/2-artificial-intelligence-ai-stocks-102000037.html</link>
+      <content:encoded>The growing adoption of artificial intelligence  AI  has sent shares of companies involved in the proliferation of this technology soaring over 16 ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16492599621209455925</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>A look at proposed US state private sector AI legislation</title>
+      <link>https://iapp.org/news/a/a-look-at-proposed-u-s-state-private-sector-ai-legislation/</link>
+      <content:encoded>Husch Blackwell's Owen Davis and David Stauss provide readers with a snapshot of emerging AI bill categories and discuss some of the bills that ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17781034121383529397</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Can AI mediate conflict better than humans?   Technology News - Al Jazeera</title>
+      <link>https://www.aljazeera.com/news/2024/2/29/can-ai-mediate-conflict-better-than-humans</link>
+      <content:encoded>For decades, humans skills alone enabled dispute resolution. Now, AI could help, say experts. But risks loom too. AI  Artificial Intelligence  letters ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13498495745958781942</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Metaverse 2.0 - Yahoo Finance</title>
+      <link>https://finance.yahoo.com/news/metaverse-2-0-065500544.html</link>
+      <content:encoded>... Web 3. More recently, however, the metaverse is showing signs of ...  It's like saying, 'I can call my company the internet and become the CEO of the ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:448052328801722048</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>A.I. Frenzy Complicates Efforts to Keep Power-Hungry Data Sites Green</title>
+      <link>https://www.nytimes.com/2024/02/29/business/artificial-intelligence-data-centers-green-power.html</link>
+      <content:encoded>Artificial intelligence's booming growth is radically reshaping an already red-hot data center market, raising questions about whether these sites ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:806382001283134072</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Validation Cloud Secures  5.8 Million in Inaugural Funding to Propel Web3 Infrastructure</title>
+      <link>https://www.prnewswire.com/in/news-releases/validation-cloud-secures-5-8-million-in-inaugural-funding-to-propel-web3-infrastructure-302074784.html</link>
+      <content:encoded>PRNewswire  -- In a significant stride towards revolutionizing Web3 infrastructure, Validation Cloud has proudly announced the successful closure ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14172447822062037390</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Discussing Curative Web3 Security With Bezalel Eithan Raviv - Lionsgate Network Founder   CEO</title>
+      <link>https://hackernoon.com/discussing-curative-web3-security-with-bezalel-eithan-raviv-lionsgate-network-founder-and-ceo</link>
+      <content:encoded>In our discussion, we delved into the evolving cybersecurity threats in Web3, addressed victim challenges in combating fraud, and explored the need ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17511001720054687402</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Why Underfunded Artists Are Turning to Tune.fm and Its Innovative Web3 Music Platform</title>
+      <link>https://edm.com/gear-tech/tune-fm-web3-music-platform</link>
+      <content:encoded>Using Web3 technology as the driver behind its innovative concept, Tune.fm is emerging as a trailblazer for the creator economy.</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13567308089894595327</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Ankr Expands Rollup-as-a-Service  RaaS  Solutions for Seamless Web 3.0 Scaling</title>
+      <link>https://www.cointrust.com/market-news/ankr-expands-rollup-as-a-service-raas-solutions-for-seamless-web-3-0-scaling</link>
+      <content:encoded>Ankr, a trailblazer in Web 3.0 infrastructure renowned for innovations like AppChains and liquid staking, has recently broadened the accessibility ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5084624763801092852</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Validation Cloud Secures  5.8 Million in Inaugural Funding to Propel Web3 Infrastructure</title>
+      <link>https://finance.yahoo.com/news/validation-cloud-secures-5-8-204600414.html</link>
+      <content:encoded>In a significant stride towards revolutionizing Web3 infrastructure, Validation Cloud has proudly announced the successful closure of its first ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1915386948569594977</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>A Malaysian Web3 pioneer defies downturn with 33x profit surge since 2019 - Tech in Asia</title>
+      <link>https://www.techinasia.com/etherscans-26m-revenue-advertising-ceo</link>
+      <content:encoded>The popular Web3 analytics tool for Ethereum helped push the net profit of its parent firm up 33x in just four years.</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11035229821848205913</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>How innovation can support customer service in retail - Konecta Group</title>
+      <link>https://www.konecta-group.com/blog/how-innovation-can-support-customer-service-in-retail</link>
+      <content:encoded>Web 3 and customer relations ... Technology is advancing at an incredibly fast pace   with developments like Web 3 and the metaverse presenting big ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2969305491090780674</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Reltime expands its Revolutionary Web3 Platform with four new services and user identity at its core</title>
+      <link>https://fox40.com/business/press-releases/cision/20240229IO49142/reltime-expands-its-revolutionary-web3-platform-with-four-new-services-and-user-identity-at-its-core</link>
+      <content:encoded>29, 2024  PRNewswire  -- Reltime has once again positioned itself at the forefront of innovation in the next-generation digital and financial services nbsp ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5252086365067755694</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Bemidji  39 s season ends at the hands of defending 4A state champ STMA</title>
+      <link>https://www.bemidjipioneer.com/sports/prep/bemidjis-season-ends-at-the-hands-of-defending-4a-state-champ-stma</link>
+      <content:encoded>BHS basketball web art. Bemidji Lumberjacks. By Pioneer Staff Report. February ... BEMIDJI   Bieber 11, LaZella 6, LaDuke 3, Thompson 3, Lish 2, Pink 2.</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8159923841558772949</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Bitget Announces Listing of Portal: Revolutionizing the Web3 Gaming Landscape</title>
+      <link>https://markets.businessinsider.com/news/currencies/bitget-announces-listing-of-portal-revolutionizing-the-web3-gaming-landscape-1033117601</link>
+      <content:encoded>Victoria, Seychelles, February 29th, 2024, ChainwireBitget, the leading cryptocurrency exchange and Web3 platform, is thrille...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11765889334826815922</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>The evolution of Web3 and Metaverse thanks to Telef nica</title>
+      <link>https://www.telefonica.com/en/communication-room/blog/evolution-metaverse-web3-telefonica/</link>
+      <content:encoded>Find out about all the Web3 and Metaverse innovations related to XR technologies, Web3, tokens and much by Telef nica at MWC24.</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5685759203806035457</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Over 36 mn AI, gaming credentials compromised by infostealers in 3 yrs: Report</title>
+      <link>https://telecom.economictimes.indiatimes.com/news/internet/over-36-mn-ai-gaming-credentials-compromised-by-infostealers-in-3-yrs-report/108098866</link>
+      <content:encoded>New Delhi: Investigating the dark web market for credential theft from popular AI and gaming websites, the researchers on Thursday said that more ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3822602543907503453</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>MixMob Secures Original Stormtrooper For Innovative Web3 Game - NFT Plazas</title>
+      <link>https://nftplazas.com/mixmob-original-stormtrooper/</link>
+      <content:encoded>Card-based racing game MixMob will be bringing the Original Stormtrooper, created by Andrew Ainsworth, into their Solana-based web3 title.</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8504166852722120702</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Fabulous Lives vs Bollywood Wives season 3: Riddhima Sahni joins the party   Web Series</title>
+      <link>https://www.hindustantimes.com/entertainment/web-series/fabulous-lives-vs-bollywood-wives-season-3-ranbir-kapoor-sister-riddhima-kapoor-sahni-joins-netflix-show-101709197692706.html</link>
+      <content:encoded>Fabulous Lives vs Bollywood Wives season 3: Riddhima Kapoor Sahni, Shalini Passi and Kalyani Saha have joined the Netflix show backed by Karan ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2527210847084030085</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Empowering Web Builders: Flux Launches Full Release of WordPress on Decentralized Platform</title>
+      <link>https://finance.yahoo.com/news/empowering-builders-flux-launches-full-130400966.html</link>
+      <content:encoded>InFlux Technologies Ltd. Thu, February 29, 2024 at 5:04 AM PST  3 min read. InFlux Technologies Ltd. A new era in web ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8720519084078816023</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Robot rivals: 3 teams of JU engineering students compete for spot in regionals - News4JAX</title>
+      <link>https://www.news4jax.com/features/2024/02/29/robot-rivals-3-teams-of-ju-engineering-students-compete-for-spot-in-regionals/</link>
+      <content:encoded>University can only send one team to represent JU in Atlanta competition. Brianna Andrews, Reporter, weekend anchor. Francine Frazier, Senior web ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2154339325629934419</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Madame Web: Dakota Johnson's take on Gen Z castmates sums up workplace divide</title>
+      <link>https://fortune.com/2024/02/29/dakota-johnsons-madame-web-gen-z-castmates/</link>
+      <content:encoded>Celeste O'Connor, Sydney Sweeney, Dakota Johnson and Isabela Merced attend the World. Dakota Johnson  third from right  said she had a  sisterly  bond ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14991075791375942883</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Taki Games   Two3 Labs To Launch 'Puzzle Smoofs' Web3 Game - NFT Plazas</title>
+      <link>https://nftplazas.com/taki-games-puzzle-smoofs/</link>
+      <content:encoded>Since their pivot to web3 gaming, Taki Games has grown to become a top 15 dApp on Polygon according to DappRadar, with  TAKI trading volume averaging ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15305184272484461755</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Immutable Games launches Gods Unchained Web3 game on mobile   VentureBeat</title>
+      <link>https://venturebeat.com/games/immutable-games-launches-gods-unchained-web3-game-on-mobile/</link>
+      <content:encoded>Immutable Games is launching its Web3 game Gods Unchained in early access on both Google Play and Apple's App Store today.</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11181266855439829656</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Popular social media platform to sell user data to the company behind ChatGPT - TheStreet</title>
+      <link>https://www.thestreet.com/technology/popular-social-media-platform-to-sell-user-data-to-the-company-behind-chatgpt</link>
+      <content:encoded>Popular social media platform to sell user data to the company behind ChatGPT. Automattic, the company behind WordPress.com and Tumblr, is looking ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15077354323030104225</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>Ola's Krutrim AI chatbot says built by ChatGPT maker Open AI, read company's response</title>
+      <link>https://timesofindia.indiatimes.com/gadgets-news/olas-krutrim-ai-chatbot-says-built-by-chatgpt-maker-open-ai-read-companys-response/articleshow/108110222.cms</link>
+      <content:encoded>Ola's Krutrim AI chatbot has been reported to be claiming that it was built by OpenAI, the company behind its rival ChatGPT.</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:46 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6361693733904756651</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:46Z</dc:date>
+    </item>
+    <item>
+      <title>I Asked ChatGPT and a Financial Planner for Retirement Advice - Business Insider</title>
+      <link>https://www.businessinsider.com/personal-finance/asked-chatgpt-financial-planner-retirement-advice-2024-2</link>
+      <content:encoded>I've used ChatGPT for everything from meal planning to generating trivia questions   so I tried asking it how I should plan for retirement.</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:45 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12590233059403250051</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:45Z</dc:date>
+    </item>
+    <item>
+      <title>Use ChatGPT for mock interviews if you want to land a job, says ex-Disney recruiter</title>
+      <link>https://www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2</link>
+      <content:encoded>HR executive Simon Taylor told CNBC that job seekers should use ChatGPT's voice feature to practice answering interview questions.</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:45 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14201055497760014894</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:45Z</dc:date>
+    </item>
+    <item>
+      <title>ChatGPT Predicts VeChain  VET  Price If Bitcoin Hits  200000 After Halving</title>
+      <link>https://timestabloid.com/chatgpt-predicts-vechain-vet-price-if-bitcoin-hits-200000-after-halving/</link>
+      <content:encoded>ChatGPT, a Large Language Model  LLM  chatbot developed by OpenAI, has offered its prediction on the potential price movement of VeChain  VET  ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:45 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16590726795248140231</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:45Z</dc:date>
+    </item>
+    <item>
+      <title>AI Meets Green: The Future of Environmental Protection with ChatGPT - Newswise</title>
+      <link>https://www.newswise.com/articles/ai-meets-green-the-future-of-environmental-protection-with-chatgpt</link>
+      <content:encoded>A recent study introduce a novel paradigm combining ChatGPT with machine learning  ML  to significantly ease the application of ML in ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:45 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10630397474445422122</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:45Z</dc:date>
+    </item>
+    <item>
+      <title>Mistral AI Introduces Competitor to GPT-4 and ChatGPT   - Contxto</title>
+      <link>https://contxto.com/en/artificial-intelligence/mistral-ai-introduces-competitor-to-gpt-4-and-chatgpt/</link>
+      <content:encoded>Alongside, the startup unveiled 'Le Chat', its alternative to ChatGPT, available in beta, marking a significant step in competing with leading AI ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:45 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4225942215324844283</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:45Z</dc:date>
+    </item>
+    <item>
+      <title>ChatGPT Tutorial - How to use OpenAI's AI Tool  with Images  - Tech.co</title>
+      <link>https://tech.co/news/chatgpt-tutorial-with-images</link>
+      <content:encoded>ChatGPT is an excellent tool with hundreds of uses, for work and play. We show you how to get started with the AI chatbot. Written by. Jack Turner.</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:45 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11449834934281641352</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:45Z</dc:date>
+    </item>
+    <item>
+      <title>What's ChatGPT good for inside of the classroom? - Hillsdale Collegian</title>
+      <link>https://hillsdalecollegian.com/2024/02/whats-chatgpt-good-for-inside-of-the-classroom/</link>
+      <content:encoded>My first significant interaction with ChatGPT occurred about two years ago, when I asked it to generate a modern worship song based on the first ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:45 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9872585825766350523</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:45Z</dc:date>
+    </item>
+    <item>
+      <title>Empirical assessment of ChatGPT's answering capabilities in natural science and engineering</title>
+      <link>https://www.nature.com/articles/s41598-024-54936-7</link>
+      <content:encoded>ChatGPT is a powerful language model from OpenAI that is arguably able to comprehend and generate text. ChatGPT is expected to greatly impact ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:45 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7656375318251973949</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:45Z</dc:date>
+    </item>
+    <item>
+      <title>ChatGPT creator signs deal to put AI into humanoid robots - Messenger Newspapers</title>
+      <link>https://www.messengernewspapers.co.uk/news/national/24153339.chatgpt-creator-signs-deal-put-ai-humanoid-robots/</link>
+      <content:encoded>ChatGPT creator OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:45 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3512204088764049809</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:45Z</dc:date>
+    </item>
+    <item>
+      <title>Navigating The Rising Challenges Of ChatGPT - Forbes</title>
+      <link>https://www.forbes.com/sites/forbestechcouncil/2024/02/29/navigating-the-rising-challenges-of-chatgpt/</link>
+      <content:encoded>Most people are familiar with the challenges of ChatGPT, like hallucinations, data privacy and contextual limitations, but there's another jaw- ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:45 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14009320457335591382</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:45Z</dc:date>
+    </item>
+    <item>
+      <title>Can AI And ChatGPT Reshape Academia: Arizona State Believes So - Forbes</title>
+      <link>https://www.forbes.com/sites/jefffromm/2024/02/29/can-ai-and-chatgpt-reshape-academia-arizona-state-believes-so/</link>
+      <content:encoded>... ChatGPT Enterprise for enhancing student success, forging new avenues for research, and streamlining organizational processes to support student ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:45 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5285471126379367743</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:45Z</dc:date>
+    </item>
+    <item>
+      <title>Ola's AI Chatbot Krutrim Giving Incorrect Replies On Prompts   Can It Rival ChatGPT   Gemini?</title>
+      <link>https://www.youtube.com/watch?v=THt-eFUD8xM</link>
+      <content:encoded>On February 26, Ola rolled out its AI chatbot in public beta, which works similar to OpenAI's ChatGPT and Google's Gemini. Since then, Krutrim ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:45 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14429235297417190259</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:45Z</dc:date>
+    </item>
+    <item>
+      <title>ChatGPT creator OpenAI to put AI into humanoid robots - The Independent</title>
+      <link>https://www.independent.co.uk/tech/chatgpt-creator-to-put-ai-into-humanoid-robots-b2504787.html</link>
+      <content:encoded>OpenAI, the creator of ChatGPT, is putting its artificial intelligence systems into humanoid robots. The deal, with robotics startup Figure, ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:45 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6309229003685851405</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:45Z</dc:date>
+    </item>
+    <item>
+      <title>ChatGPT Shines in the Scientific Arena: A Glimpse into AI's Role in Advancing Natural ...</title>
+      <link>https://medriva.com/health/health-technology/chatgpt-shines-in-the-scientific-arena-a-glimpse-into-ais-role-in-advancing-natural-sciences-and-engineering</link>
+      <content:encoded>The realm of natural sciences and engineering stands on the cusp of a revolution, courtesy of generative AI technologies like ChatGPT.</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:45 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11419632205622098782</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:45Z</dc:date>
+    </item>
+    <item>
+      <title>To ban or embrace ChatGPT? Local teachers fight AI with AI   or don't   HeraldNet.com</title>
+      <link>https://www.heraldnet.com/news/to-ban-or-embrace-chatgpt-local-teachers-fight-ai-with-ai-or-dont/</link>
+      <content:encoded>It has fundamentally changed my teaching in really stressful and exciting ways,  an EvCC teacher said. At all levels of education, ChatGPT poses a ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:45 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17028645002938203860</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:45Z</dc:date>
+    </item>
+    <item>
+      <title>ChatGPT  Supreme Court Verdicts Expose Police Officer Convictions in Shocking Cases ... - Tekedia</title>
+      <link>https://www.tekedia.com/forum/topic/chatgpt-supreme-court-verdicts-expose-police-officer-convictions-in-shocking-cases-of-unlawful-killings/?part=1</link>
+      <content:encoded>Invariably by the time the cases appeal processes come to an end, Police officers and members of the public would have forgotten the incidents.</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:45 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2098589215316987143</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:45Z</dc:date>
+    </item>
+    <item>
+      <title>The First Company Made by ChatGPT: A New Era in Business Innovation - Medium</title>
+      <link>https://medium.com/@abdibrokhim/the-first-company-made-by-chatgpt-a-new-era-in-business-innovation-93860142c3fd?responsesOpen=true&amp;sortBy=REVERSE_CHRON</link>
+      <content:encoded>... milestone has been achieved with the creation of the first company entirely made by ChatGPT. This</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:45 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15240604157358567187</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:45Z</dc:date>
+    </item>
+    <item>
+      <title>Savvy Seahorse Using Fake ChatGPT, Facebook Ads in DNS Investment Scam - Hackread</title>
+      <link>https://www.hackread.com/savvy-seahorse-fake-chatgpt-facebook-ads-dns-scam/</link>
+      <content:encoded>Savvy Seahorse employs advanced techniques like fake ChatGPT and WhatsApp bots to entice users into high-return investment scams.</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 18:55:45 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16912040303227724827</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T18:55:45Z</dc:date>
+    </item>
+    <item>
+      <title>The utility and accuracy of ChatGPT in providing post-operative instructions following tonsillectomy</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0165587624000557</link>
+      <content:encoded>If trained appropriately, ChatGPT could be an excellent resource for Otolaryngologists and patients to answer questions in the postoperative period.</content:encoded>
       <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16873233005591450990</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1778967498242871960</guid>
       <dc:creator />
       <dc:date>2024-02-29T17:40:56Z</dc:date>
     </item>
@@ -77,11 +563,29 @@
       <dc:date>2024-02-29T17:40:56Z</dc:date>
     </item>
     <item>
-      <title>Morph Studio lets you make flims using Stability AI generated clips   TechCrunch</title>
-      <link>https://techcrunch.com/2024/02/28/morph-studio-lets-you-make-flims-using-stability-ai-generated-clips/</link>
-      <content:encoded>Want to weave various Stability AI generated video clips into a movie? Now there's a tool for that. Morph Studio, which has its own text-to-video ...</content:encoded>
+      <title>FX Shogun hailed 'prestige TV': Here's when Episode 3 will come out - Hindustan Times</title>
+      <link>https://www.hindustantimes.com/entertainment/web-series/fx-shogun-hailed-prestige-tv-heres-when-the-new-episode-will-come-out-101709118553784.html</link>
+      <content:encoded>... 3 is anticipated to open the door to more feudal action.   Web Series. ... Web Stories   Tech   Business   Sports   Delhi News   Mumbai News   Bengaluru ...</content:encoded>
       <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8183586278856010169</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12156983771918146392</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T17:40:56Z</dc:date>
+    </item>
+    <item>
+      <title>Amazon's Billion-Dollar Investment Arm Targets Generative AI in Robotics - Singularity Hub</title>
+      <link>https://singularityhub.com/2024/02/28/amazons-billion-dollar-investment-arm-targets-generative-ai-in-robotics/</link>
+      <content:encoded>The tech giant is now looking to a fund a new generation of robots by accelerating investments in startups combining AI and robotics.</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4324297748684678968</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T17:40:56Z</dc:date>
+    </item>
+    <item>
+      <title>C3.ai shares pop after company beats estimates, narrows annual revenue forecast - CNBC</title>
+      <link>https://www.cnbc.com/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html</link>
+      <content:encoded>C3.ai, which is an AI-based software maker, is also a popular name among retail traders.</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13347636106994757988</guid>
       <dc:creator />
       <dc:date>2024-02-29T17:40:56Z</dc:date>
     </item>
@@ -95,11 +599,20 @@
       <dc:date>2024-02-29T17:40:56Z</dc:date>
     </item>
     <item>
-      <title>Baidu Slides Most Since 2022 After AI Spending Erodes Profit - Bloomberg</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-28/baidu-s-revenue-climbs-after-ai-helps-it-weather-china-downturn</link>
-      <content:encoded>It overshadowed a 6  rise in revenue after Baidu's ChatGPT-style service began to augment advertising sales, helping the Chinese AI leader weather a ...</content:encoded>
+      <title>AI Warfare Becomes Real for US Military With Project Maven - Bloomberg</title>
+      <link>https://www.bloomberg.com/features/2024-ai-warfare-project-maven/</link>
+      <content:encoded>US military operators started out skeptical about AI, but now they are the ones developing and using Project Maven to identify targets on the ...</content:encoded>
       <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:151373539358996623</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4975609494964508523</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T17:40:56Z</dc:date>
+    </item>
+    <item>
+      <title>Amazon to spend  1 billion on startups that combine AI with robots - Ars Technica</title>
+      <link>https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/</link>
+      <content:encoded>Amazon's  1 billion industrial innovation fund is to step up investments in companies that combine artificial intelligence and robotics, ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16873233005591450990</guid>
       <dc:creator />
       <dc:date>2024-02-29T17:40:56Z</dc:date>
     </item>
@@ -113,6 +626,42 @@
       <dc:date>2024-02-29T17:40:56Z</dc:date>
     </item>
     <item>
+      <title>Baidu Slides Most Since 2022 After AI Spending Erodes Profit - Bloomberg</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-28/baidu-s-revenue-climbs-after-ai-helps-it-weather-china-downturn</link>
+      <content:encoded>It overshadowed a 6  rise in revenue after Baidu's ChatGPT-style service began to augment advertising sales, helping the Chinese AI leader weather a ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:151373539358996623</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T17:40:56Z</dc:date>
+    </item>
+    <item>
+      <title>Klarna says its AI assistant is doing the work of 700 people after putting the brakes on hiring</title>
+      <link>https://www.businessinsider.com/klarna-ai-chatbot-work-700-people-2024-2</link>
+      <content:encoded>Swedish fintech said its OpenAI-powered assistant was on par with human agents when it came to customer satisfaction.</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9846460630808281628</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T17:40:56Z</dc:date>
+    </item>
+    <item>
+      <title>Morph Studio lets you make flims using Stability AI generated clips   TechCrunch</title>
+      <link>https://techcrunch.com/2024/02/28/morph-studio-lets-you-make-flims-using-stability-ai-generated-clips/</link>
+      <content:encoded>Want to weave various Stability AI generated video clips into a movie? Now there's a tool for that. Morph Studio, which has its own text-to-video ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8183586278856010169</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T17:40:56Z</dc:date>
+    </item>
+    <item>
+      <title>Artificial Intelligence - ThoughtSpot</title>
+      <link>https://www.thoughtspot.com/data-trends/topics/ai</link>
+      <content:encoded>ThoughtSpot is the Search   AI-driven Analytics platform for the enterprise. Anyone can use search to analyze company data in seconds and get ...</content:encoded>
+      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1840831879741282950</guid>
+      <dc:creator />
+      <dc:date>2024-02-29T17:40:56Z</dc:date>
+    </item>
+    <item>
       <title>How to Use AI Tools to Improve Quality of Internet Searches - VOA Learning English</title>
       <link>https://learningenglish.voanews.com/a/how-to-use-ai-tools-to-improve-quality-of-internet-searches/7505105.html</link>
       <content:encoded>Internet search companies have already built artificial intelligence  AI  tools into their systems. But are these tools truly improving the search ...</content:encoded>
@@ -122,245 +671,11 @@
       <dc:date>2024-02-29T17:40:56Z</dc:date>
     </item>
     <item>
-      <title>Document AI adding folders - Google Cloud Community</title>
-      <link>https://www.googlecloudcommunity.com/gc/AI-ML/Document-AI-adding-folders/td-p/718011/jump-to/first-unread-message</link>
-      <content:encoded>I'm using Document AI to parse PDF files from one bucket and then save them as JSON in another bucket in GCS. However, Document AI creates a ...</content:encoded>
+      <title>Vertex AI Image - Training Failed  Internal Error  - Google Cloud Community</title>
+      <link>https://www.googlecloudcommunity.com/gc/AI-ML/Vertex-AI-Image-Training-Failed-Internal-Error/td-p/717946/jump-to/first-unread-message</link>
+      <content:encoded>Hi, I want to train a multi-label image classification model in Vertex AI but after several attempts, it keeps returning the same error message:</content:encoded>
       <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16685359443783588534</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Project Music GenAI Control   Adobe Research - YouTube</title>
-      <link>https://www.youtube.com/watch?v=J6jhWyU5lBY</link>
-      <content:encoded>17:57   Go to channel. Generative AI in a Nutshell - how to survive and thrive in the age of AI. Henrik Kniberg 464K views   8:22   Go to channel ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16693984635137335477</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Robot startup Figure valued at  2.6 billion by Bezos, Amazon, Nvidia - CNBC</title>
-      <link>https://www.cnbc.com/2024/02/29/robot-startup-figure-valued-at-2point6-billion-by-bezos-amazon-nvidia.html</link>
-      <content:encoded>Figure AI raised  675 million from investors including Jeff Bezos, Nvidia, Amazon, Microsoft and OpenAI. The startup says it will use the money to ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8748782976316415928</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>C3.AI Stock Soars As Results Top Estimates - Barron's</title>
-      <link>https://www.barrons.com/livecoverage/salesforce-snowflake-c3ai-earnings-stock-price/card/c3-ai-stock-soars-as-results-top-estimates-htiopWIpZmPJsNpO3Xmm</link>
-      <content:encoded>C3.ai shares jumped in late trading Wednesday after the artificial intelligence software company posted better-than-expected quarterly results.</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17777338367537188197</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>C3.ai posts robust quarterly results, announces CFO change - Reuters</title>
-      <link>https://www.reuters.com/technology/c3ai-posts-robust-quarterly-results-narrows-annual-revenue-forecast-2024-02-28/</link>
-      <content:encoded>Software firm C3.ai on Wednesday posted better-than-expected quarterly results and narrowed its full-year revenue forecast range which was still ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12402269346622257785</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>What to know about Mistral AI: The company behind the latest GPT-4 rival   ZDNET</title>
-      <link>https://www.zdnet.com/article/what-to-know-about-mistral-ai-the-company-behind-the-latest-gpt-4-rival/</link>
-      <content:encoded>Mistral AI has been in the news constantly because of its latest models, partnerships, and more. Here's everything you need to know.</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11337919828384411783</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>InnovationRx: Exploring The Future Of Healthcare AI - Forbes</title>
-      <link>https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/</link>
-      <content:encoded>He describes AI scribes as sitting in the  high value, low risk  quadrant, during a conference presentation, since all of the output will be reviewed ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15210899200994675352</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>FX Shogun hailed 'prestige TV': Here's when Episode 3 will come out - Hindustan Times</title>
-      <link>https://www.hindustantimes.com/entertainment/web-series/fx-shogun-hailed-prestige-tv-heres-when-the-new-episode-will-come-out-101709118553784.html</link>
-      <content:encoded>... 3 is anticipated to open the door to more feudal action.   Web Series. ... Web Stories   Tech   Business   Sports   Delhi News   Mumbai News   Bengaluru ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12156983771918146392</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Metaverse 2.0 - Yahoo Finance</title>
-      <link>https://finance.yahoo.com/news/metaverse-2-0-065500544.html</link>
-      <content:encoded>... Web 3. More recently, however, the metaverse is showing signs of ...  It's like saying, 'I can call my company the internet and become the CEO of the ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:448052328801722048</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Validation Cloud Secures  5.8 Million in Inaugural Funding to Propel Web3 Infrastructure</title>
-      <link>https://www.prnewswire.com/in/news-releases/validation-cloud-secures-5-8-million-in-inaugural-funding-to-propel-web3-infrastructure-302074784.html</link>
-      <content:encoded>PRNewswire  -- In a significant stride towards revolutionizing Web3 infrastructure, Validation Cloud has proudly announced the successful closure ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14172447822062037390</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Discussing Curative Web3 Security With Bezalel Eithan Raviv - Lionsgate Network Founder   CEO</title>
-      <link>https://hackernoon.com/discussing-curative-web3-security-with-bezalel-eithan-raviv-lionsgate-network-founder-and-ceo</link>
-      <content:encoded>In our discussion, we delved into the evolving cybersecurity threats in Web3, addressed victim challenges in combating fraud, and explored the need ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17511001720054687402</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Why Underfunded Artists Are Turning to Tune.fm and Its Innovative Web3 Music Platform</title>
-      <link>https://edm.com/gear-tech/tune-fm-web3-music-platform</link>
-      <content:encoded>Using Web3 technology as the driver behind its innovative concept, Tune.fm is emerging as a trailblazer for the creator economy.</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13567308089894595327</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Ankr Expands Rollup-as-a-Service  RaaS  Solutions for Seamless Web 3.0 Scaling</title>
-      <link>https://www.cointrust.com/market-news/ankr-expands-rollup-as-a-service-raas-solutions-for-seamless-web-3-0-scaling</link>
-      <content:encoded>Ankr, a trailblazer in Web 3.0 infrastructure renowned for innovations like AppChains and liquid staking, has recently broadened the accessibility ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5084624763801092852</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Validation Cloud Secures  5.8 Million in Inaugural Funding to Propel Web3 Infrastructure</title>
-      <link>https://finance.yahoo.com/news/validation-cloud-secures-5-8-204600414.html</link>
-      <content:encoded>In a significant stride towards revolutionizing Web3 infrastructure, Validation Cloud has proudly announced the successful closure of its first ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1915386948569594977</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>A Malaysian Web3 pioneer defies downturn with 33x profit surge since 2019 - Tech in Asia</title>
-      <link>https://www.techinasia.com/etherscans-26m-revenue-advertising-ceo</link>
-      <content:encoded>The popular Web3 analytics tool for Ethereum helped push the net profit of its parent firm up 33x in just four years.</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11035229821848205913</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>How innovation can support customer service in retail - Konecta Group</title>
-      <link>https://www.konecta-group.com/blog/how-innovation-can-support-customer-service-in-retail</link>
-      <content:encoded>Web 3 and customer relations ... Technology is advancing at an incredibly fast pace   with developments like Web 3 and the metaverse presenting big ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2969305491090780674</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Reltime expands its Revolutionary Web3 Platform with four new services and user identity at its core</title>
-      <link>https://fox40.com/business/press-releases/cision/20240229IO49142/reltime-expands-its-revolutionary-web3-platform-with-four-new-services-and-user-identity-at-its-core</link>
-      <content:encoded>29, 2024  PRNewswire  -- Reltime has once again positioned itself at the forefront of innovation in the next-generation digital and financial services nbsp ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5252086365067755694</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Bitget Announces Listing of Portal: Revolutionizing the Web3 Gaming Landscape</title>
-      <link>https://markets.businessinsider.com/news/currencies/bitget-announces-listing-of-portal-revolutionizing-the-web3-gaming-landscape-1033117601</link>
-      <content:encoded>Victoria, Seychelles, February 29th, 2024, ChainwireBitget, the leading cryptocurrency exchange and Web3 platform, is thrille...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11765889334826815922</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Bemidji  39 s season ends at the hands of defending 4A state champ STMA</title>
-      <link>https://www.bemidjipioneer.com/sports/prep/bemidjis-season-ends-at-the-hands-of-defending-4a-state-champ-stma</link>
-      <content:encoded>BHS basketball web art. Bemidji Lumberjacks. By Pioneer Staff Report. February ... BEMIDJI   Bieber 11, LaZella 6, LaDuke 3, Thompson 3, Lish 2, Pink 2.</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8159923841558772949</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Over 36 mn AI, gaming credentials compromised by infostealers in 3 yrs: Report</title>
-      <link>https://telecom.economictimes.indiatimes.com/news/internet/over-36-mn-ai-gaming-credentials-compromised-by-infostealers-in-3-yrs-report/108098866</link>
-      <content:encoded>New Delhi: Investigating the dark web market for credential theft from popular AI and gaming websites, the researchers on Thursday said that more ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3822602543907503453</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>The evolution of Web3 and Metaverse thanks to Telef nica</title>
-      <link>https://www.telefonica.com/en/communication-room/blog/evolution-metaverse-web3-telefonica/</link>
-      <content:encoded>Find out about all the Web3 and Metaverse innovations related to XR technologies, Web3, tokens and much by Telef nica at MWC24.</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5685759203806035457</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>MixMob Secures Original Stormtrooper For Innovative Web3 Game - NFT Plazas</title>
-      <link>https://nftplazas.com/mixmob-original-stormtrooper/</link>
-      <content:encoded>Card-based racing game MixMob will be bringing the Original Stormtrooper, created by Andrew Ainsworth, into their Solana-based web3 title.</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8504166852722120702</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Fabulous Lives vs Bollywood Wives season 3: Riddhima Sahni joins the party   Web Series</title>
-      <link>https://www.hindustantimes.com/entertainment/web-series/fabulous-lives-vs-bollywood-wives-season-3-ranbir-kapoor-sister-riddhima-kapoor-sahni-joins-netflix-show-101709197692706.html</link>
-      <content:encoded>Fabulous Lives vs Bollywood Wives season 3: Riddhima Kapoor Sahni, Shalini Passi and Kalyani Saha have joined the Netflix show backed by Karan ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2527210847084030085</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Empowering Web Builders: Flux Launches Full Release of WordPress on Decentralized Platform</title>
-      <link>https://finance.yahoo.com/news/empowering-builders-flux-launches-full-130400966.html</link>
-      <content:encoded>InFlux Technologies Ltd. Thu, February 29, 2024 at 5:04 AM PST  3 min read. InFlux Technologies Ltd. A new era in web ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8720519084078816023</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Robot rivals: 3 teams of JU engineering students compete for spot in regionals - News4JAX</title>
-      <link>https://www.news4jax.com/features/2024/02/29/robot-rivals-3-teams-of-ju-engineering-students-compete-for-spot-in-regionals/</link>
-      <content:encoded>University can only send one team to represent JU in Atlanta competition. Brianna Andrews, Reporter, weekend anchor. Francine Frazier, Senior web ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2154339325629934419</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Madame Web: Dakota Johnson's take on Gen Z castmates sums up workplace divide</title>
-      <link>https://fortune.com/2024/02/29/dakota-johnsons-madame-web-gen-z-castmates/</link>
-      <content:encoded>Celeste O'Connor, Sydney Sweeney, Dakota Johnson and Isabela Merced attend the World. Dakota Johnson  third from right  said she had a  sisterly  bond ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14991075791375942883</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Taki Games   Two3 Labs To Launch 'Puzzle Smoofs' Web3 Game - NFT Plazas</title>
-      <link>https://nftplazas.com/taki-games-puzzle-smoofs/</link>
-      <content:encoded>Since their pivot to web3 gaming, Taki Games has grown to become a top 15 dApp on Polygon according to DappRadar, with  TAKI trading volume averaging ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15305184272484461755</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:676288654921244269</guid>
       <dc:creator />
       <dc:date>2024-02-29T17:40:56Z</dc:date>
     </item>
@@ -370,177 +685,6 @@
       <content:encoded>In today  39 s fast-paced digital landscape, professionals are constantly seeking innovative tools to enhance productivity and creativity.</content:encoded>
       <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17137394375513943827</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>The utility and accuracy of ChatGPT in providing post-operative instructions following tonsillectomy</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0165587624000557</link>
-      <content:encoded>If trained appropriately, ChatGPT could be an excellent resource for Otolaryngologists and patients to answer questions in the postoperative period.</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1778967498242871960</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Popular social media platform to sell user data to the company behind ChatGPT - TheStreet</title>
-      <link>https://www.thestreet.com/technology/popular-social-media-platform-to-sell-user-data-to-the-company-behind-chatgpt</link>
-      <content:encoded>Popular social media platform to sell user data to the company behind ChatGPT. Automattic, the company behind WordPress.com and Tumblr, is looking ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15077354323030104225</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Ola's Krutrim AI chatbot says built by ChatGPT maker Open AI, read company's response</title>
-      <link>https://timesofindia.indiatimes.com/gadgets-news/olas-krutrim-ai-chatbot-says-built-by-chatgpt-maker-open-ai-read-companys-response/articleshow/108110222.cms</link>
-      <content:encoded>Ola's Krutrim AI chatbot has been reported to be claiming that it was built by OpenAI, the company behind its rival ChatGPT.</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6361693733904756651</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>I Asked ChatGPT and a Financial Planner for Retirement Advice - Business Insider</title>
-      <link>https://www.businessinsider.com/personal-finance/asked-chatgpt-financial-planner-retirement-advice-2024-2</link>
-      <content:encoded>I've used ChatGPT for everything from meal planning to generating trivia questions   so I tried asking it how I should plan for retirement.</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12590233059403250051</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Use ChatGPT for mock interviews if you want to land a job, says ex-Disney recruiter</title>
-      <link>https://www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2</link>
-      <content:encoded>HR executive Simon Taylor told CNBC that job seekers should use ChatGPT's voice feature to practice answering interview questions.</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14201055497760014894</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>ChatGPT Predicts VeChain  VET  Price If Bitcoin Hits  200000 After Halving</title>
-      <link>https://timestabloid.com/chatgpt-predicts-vechain-vet-price-if-bitcoin-hits-200000-after-halving/</link>
-      <content:encoded>ChatGPT, a Large Language Model  LLM  chatbot developed by OpenAI, has offered its prediction on the potential price movement of VeChain  VET  ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16590726795248140231</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>ChatGPT Tutorial - How to use OpenAI's AI Tool  with Images  - Tech.co</title>
-      <link>https://tech.co/news/chatgpt-tutorial-with-images</link>
-      <content:encoded>ChatGPT is an excellent tool with hundreds of uses, for work and play. We show you how to get started with the AI chatbot. Written by. Jack Turner.</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11449834934281641352</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>What's ChatGPT good for inside of the classroom? - Hillsdale Collegian</title>
-      <link>https://hillsdalecollegian.com/2024/02/whats-chatgpt-good-for-inside-of-the-classroom/</link>
-      <content:encoded>My first significant interaction with ChatGPT occurred about two years ago, when I asked it to generate a modern worship song based on the first ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9872585825766350523</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>AI Meets Green: The Future of Environmental Protection with ChatGPT - Newswise</title>
-      <link>https://www.newswise.com/articles/ai-meets-green-the-future-of-environmental-protection-with-chatgpt</link>
-      <content:encoded>A recent study introduce a novel paradigm combining ChatGPT with machine learning  ML  to significantly ease the application of ML in ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10630397474445422122</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Mistral AI Introduces Competitor to GPT-4 and ChatGPT   - Contxto</title>
-      <link>https://contxto.com/en/artificial-intelligence/mistral-ai-introduces-competitor-to-gpt-4-and-chatgpt/</link>
-      <content:encoded>Alongside, the startup unveiled 'Le Chat', its alternative to ChatGPT, available in beta, marking a significant step in competing with leading AI ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4225942215324844283</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>To ban or embrace ChatGPT? Local teachers fight AI with AI   or don't   HeraldNet.com</title>
-      <link>https://www.heraldnet.com/news/to-ban-or-embrace-chatgpt-local-teachers-fight-ai-with-ai-or-dont/</link>
-      <content:encoded>It has fundamentally changed my teaching in really stressful and exciting ways,  an EvCC teacher said. At all levels of education, ChatGPT poses a ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17028645002938203860</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Can AI And ChatGPT Reshape Academia: Arizona State Believes So - Forbes</title>
-      <link>https://www.forbes.com/sites/jefffromm/2024/02/29/can-ai-and-chatgpt-reshape-academia-arizona-state-believes-so/</link>
-      <content:encoded>... ChatGPT Enterprise for enhancing student success, forging new avenues for research, and streamlining organizational processes to support student ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5285471126379367743</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>ChatGPT creator signs deal to put AI into humanoid robots - Messenger Newspapers</title>
-      <link>https://www.messengernewspapers.co.uk/news/national/24153339.chatgpt-creator-signs-deal-put-ai-humanoid-robots/</link>
-      <content:encoded>ChatGPT creator OpenAI is looking to fuse its artificial intelligence systems into the bodies of humanoid robots as part of a new deal with ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3512204088764049809</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Empirical assessment of ChatGPT's answering capabilities in natural science and engineering</title>
-      <link>https://www.nature.com/articles/s41598-024-54936-7</link>
-      <content:encoded>ChatGPT is a powerful language model from OpenAI that is arguably able to comprehend and generate text. ChatGPT is expected to greatly impact ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7656375318251973949</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>ChatGPT Shines in the Scientific Arena: A Glimpse into AI's Role in Advancing Natural ...</title>
-      <link>https://medriva.com/health/health-technology/chatgpt-shines-in-the-scientific-arena-a-glimpse-into-ais-role-in-advancing-natural-sciences-and-engineering</link>
-      <content:encoded>The realm of natural sciences and engineering stands on the cusp of a revolution, courtesy of generative AI technologies like ChatGPT.</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11419632205622098782</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>ChatGPT creator OpenAI to put AI into humanoid robots - The Independent</title>
-      <link>https://www.independent.co.uk/tech/chatgpt-creator-to-put-ai-into-humanoid-robots-b2504787.html</link>
-      <content:encoded>OpenAI, the creator of ChatGPT, is putting its artificial intelligence systems into humanoid robots. The deal, with robotics startup Figure, ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6309229003685851405</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Navigating The Rising Challenges Of ChatGPT - Forbes</title>
-      <link>https://www.forbes.com/sites/forbestechcouncil/2024/02/29/navigating-the-rising-challenges-of-chatgpt/</link>
-      <content:encoded>Most people are familiar with the challenges of ChatGPT, like hallucinations, data privacy and contextual limitations, but there's another jaw- ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14009320457335591382</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Ola's AI Chatbot Krutrim Giving Incorrect Replies On Prompts   Can It Rival ChatGPT   Gemini?</title>
-      <link>https://www.youtube.com/watch?v=THt-eFUD8xM</link>
-      <content:encoded>On February 26, Ola rolled out its AI chatbot in public beta, which works similar to OpenAI's ChatGPT and Google's Gemini. Since then, Krutrim ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14429235297417190259</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T17:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>ChatGPT  Supreme Court Verdicts Expose Police Officer Convictions in Shocking Cases ... - Tekedia</title>
-      <link>https://www.tekedia.com/forum/topic/chatgpt-supreme-court-verdicts-expose-police-officer-convictions-in-shocking-cases-of-unlawful-killings/?part=1</link>
-      <content:encoded>Invariably by the time the cases appeal processes come to an end, Police officers and members of the public would have forgotten the incidents.</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 17:40:56 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2098589215316987143</guid>
       <dc:creator />
       <dc:date>2024-02-29T17:40:56Z</dc:date>
     </item>
@@ -1387,15 +1531,6 @@
       <content:encoded>The UB lecturers Oliver D az and Mireia Ribera, from the Faculty of Mathematics and Computer Science have coordinated the book ChatGPT y educaci n ...</content:encoded>
       <pubDate>Thu, 29 Feb 2024 00:16:20 GMT</pubDate>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8487157413385641488</guid>
-      <dc:creator />
-      <dc:date>2024-02-29T00:16:20Z</dc:date>
-    </item>
-    <item>
-      <title>Is ChatGPT making scientists hyper-productive? The highs and lows of using AI - Nature</title>
-      <link>https://www.nature.com/articles/d41586-024-00592-w</link>
-      <content:encoded>ChatGPT continues to steal the spotlight, more than a year after its public debut. The artificial intelligence  AI  chatbot was released as a free-to- ...</content:encoded>
-      <pubDate>Thu, 29 Feb 2024 00:16:20 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11587427328020531904</guid>
       <dc:creator />
       <dc:date>2024-02-29T00:16:20Z</dc:date>
     </item>
