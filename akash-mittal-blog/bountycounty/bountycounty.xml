@@ -5,67 +5,382 @@
     <link>https://www.TheAsiaHawk.com</link>
     <description>http://www.TheAsiaHawk.com</description>
     <item>
-      <title>Hackers with good intentions: white hats vs. black hats - IO - Innovation Origins</title>
-      <link>https://innovationorigins.com/en/hackers-with-good-intentions-white-hats-vs-black-hats/</link>
-      <content:encoded>In this column, expert Patrick Jordens zooms in on ethical hacking, in which a hacker with good intentions looks for vulnerabilities in software and ...</content:encoded>
-      <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5747556531187523805</guid>
-      <dc:creator />
-      <dc:date>2024-05-31T15:26:34Z</dc:date>
-    </item>
-    <item>
       <title>Securing The Bounty: Bug Bounties Take Center Stage In Uber CISO  39 s Criminal Appeal</title>
       <link>https://abovethelaw.com/2024/05/securing-the-bounty-bug-bounties-take-center-stage-in-uber-cisos-criminal-appeal/</link>
       <content:encoded>Bug bounty programs have been prized as a cybersecurity tool by tech giants and small startups for years, but effective bug bounty programs must nbsp ...</content:encoded>
-      <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3925182544704780277</guid>
       <dc:creator />
-      <dc:date>2024-05-31T15:26:34Z</dc:date>
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
     </item>
     <item>
       <title>chess.com bug bounty program is a scam</title>
       <link>https://www.chess.com/blog/basedygtcgl/chess-com-bug-bounty-program-is-a-scam</link>
       <content:encoded>Today i found a firebase api key on chessdotcom which basically allowed me to create short links using it  39 s subdomains this could obviously poses nbsp ...</content:encoded>
-      <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14123616090499547347</guid>
       <dc:creator />
-      <dc:date>2024-05-31T15:26:34Z</dc:date>
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
     </item>
     <item>
       <title>AMD Launches Public Bug Bounty Program with Intigriti to Enhance Product Security</title>
       <link>https://technosports.co.in/amd-launches-public-bug-bounty-program/</link>
       <content:encoded>Building on its private Bug Bounty initiative, AMD has announced the launch of a new public Bug Bounty Program in collaboration with Intigriti.</content:encoded>
-      <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7066647642791692486</guid>
       <dc:creator />
-      <dc:date>2024-05-31T15:26:34Z</dc:date>
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Russians increasingly caught sabotaging across Europe: also civilians are targeted - MSN</title>
+      <link>https://www.msn.com/en-za/news/other/russians-increasingly-caught-sabotaging-across-europe-also-civilians-are-targeted/ar-BB1noLiq</link>
+      <content:encoded>Fortinet reaffirms its commitment to secure product development processes, responsible vulnerability disclosure policiesAs one of the first cyber ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12578429592076307762</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>AMD  39 s new bug bounty program announced in association with Intigriti - Gadget Bridge</title>
+      <link>https://www.gadgetbridge.com/news/amds-new-bug-bounty-program-announced-in-association-with-intigriti/</link>
+      <content:encoded>With the introduction of AMD  39 s new bug bounty program with Intigriti, security researchers and ethical hackers can now report bugs.</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:563734763643494668</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
     </item>
     <item>
       <title>AMD willing to pay you up to  30k via its new bug bounty program   Tom  39 s Hardware</title>
       <link>https://www.tomshardware.com/tech-industry/amd-willing-to-pay-you-up-to-dollar30k-via-its-new-bug-bounty-program</link>
       <content:encoded>AMD expands its private bug bounty program to the general public, allowing anyone who signs up for an Intigriti account to submit bugs and get nbsp ...</content:encoded>
-      <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:14851305052910217723</guid>
       <dc:creator />
-      <dc:date>2024-05-31T15:26:34Z</dc:date>
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>AMD  39 s New Bug Bounty Program Offers a  30K Top Prize - ExtremeTech</title>
+      <link>https://www.extremetech.com/computing/amds-new-bug-bounty-program-offers-a-30k-top-prize</link>
+      <content:encoded>AMD has announced a new bug bounty program that  39 s available to the general public. The top prize is a decent  30,000 USD.</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:39201125174568572</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>AMD launches bug bounty program with some seriously big rewards - TechRadar</title>
+      <link>https://www.techradar.com/pro/security/amd-launches-bug-bounty-program-with-some-seriously-big-rewards</link>
+      <content:encoded>Until now, the popular chipmaker only had a private bug bounty programs, inviting a handful of security researchers to participate. Now, with the nbsp ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:16308280610885208661</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
     </item>
     <item>
       <title>AMD  39 s new bug bounty program could allow you to earn up to  30,000 - PC Guide</title>
       <link>https://www.pcguide.com/news/amds-new-bug-bounty-program-could-allow-you-earn-up-to-30000/</link>
       <content:encoded>A new program offered by AMD allows security researchers, ethical hackers, and experts within the public to submit bugs in AMD  39 s hardware, nbsp ...</content:encoded>
-      <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11566681256327221796</guid>
       <dc:creator />
-      <dc:date>2024-05-31T15:26:34Z</dc:date>
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
     </item>
     <item>
-      <title>Six-week old infant in critical condition, parents charged with attempted murder: Houma Police</title>
-      <link>https://www.houmatoday.com/story/news/crime/2024/05/30/infant-in-critical-condition-parents-charged-with-attempted-murder-hpuma-police-report/73906396007/</link>
-      <content:encoded>Police say the couple is responsible for the abuse that placed a six ... Responsible Disclosure Subscription Terms   Conditions Terms of Service ...</content:encoded>
-      <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1733321789655243929</guid>
+      <title>Hungary  39 s   39 green supporting factor  39  programme raises  2.4bn in green loans</title>
+      <link>https://www.responsible-investor.com/hungarys-green-supporting-factor-programme-raises-2-4bn-in-green-loans/</link>
+      <content:encoded>Responsible Investor Europe   Responsible ... Download Responsible Investor's 2024 Data   Disclosure report ... Responsible Investor Data   Disclosure ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3834591083534852775</guid>
       <dc:creator />
-      <dc:date>2024-05-31T15:26:34Z</dc:date>
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>RUMOUR OF SECURITY BREACH IN KOGI STATE POLYTECHNIC IS FAKE, MALICIOUS</title>
+      <link>https://thenigerianpost.com.ng/rumour-of-security-breach-in-kogi-state-polytechnic-is-fake-malicious/</link>
+      <content:encoded>Post navigation. Previous: Selection of New Elulu Mopa Transparent, Fair, Credible   Kingmakers   Next: Obaseki Doles Out Cash Reward To Victorious ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9403110400475138047</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Budget 2024: More money for new doctors, increased breast screening access and security in ED</title>
+      <link>https://www.rnz.co.nz/news/political/518247/budget-2024-more-money-for-new-doctors-increased-breast-screening-access-and-security-in-ed</link>
+      <content:encoded>The Finance Minister says she  quot regrets quot  funding for extra cancer drugs was not possible in Budget 2024, despite it being promised during the nbsp ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17545630049672291774</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Responsible Disclosure Policy - Bynder</title>
+      <link>https://www.bynder.com/en/legal/responsible-disclosure-policy/</link>
+      <content:encoded>Under Bynder  39 s Responsible Disclosure Policy, you are allowed to search for vulnerabilities, so long as you don  39 t : execute or attempt to execute a nbsp ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9842825945555912448</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Plurilock Security Inc. Reports Record First Quarter Fiscal 2024 Financial Results</title>
+      <link>https://finance.yahoo.com/news/plurilock-security-inc-reports-record-035500345.html</link>
+      <content:encoded>Gross Margin  2.5 million, 21.9  of sales in Q1 2024 vs.  2.1 million, 13.6  in Q1 2023.Plurilock Critical Services growth of 66  to  1.0 million nbsp ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2908701770547348605</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>DiNapoli: Greenburgh-Graham Union Free School District Superintendent and ... - NYS Comptroller</title>
+      <link>https://www.osc.ny.gov/press/releases/2024/05/dinapoli-greenburgh-graham-union-free-school-district-superintendent-and-former-security-system</link>
+      <content:encoded>New York State Comptroller Thomas P. DiNapoli and Westchester County District Attorney Miriam E. Rocah announced that the former superintendent of nbsp ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15738683972525339832</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Chart a path to financial security in your senior years with Retirement digiPortfolio - CNA</title>
+      <link>https://www.channelnewsasia.com/advertorial/chart-path-financial-security-your-senior-years-retirement-digiportfolio-4350936</link>
+      <content:encoded>DBS, in collaboration with J.P. Morgan Asset Management, introduces Asia  39 s first age-adaptive retirement investment portfolio designed to nbsp ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3469009590157468667</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Financial security heading into retirement hampered by student loan debt: report</title>
+      <link>https://www.mcknightsseniorliving.com/news/financial-security-heading-into-retirement-hampered-by-student-loan-debt-report/</link>
+      <content:encoded>Older workers often are saddled with student loan debt that hampers their ability to be financially secure in retirements.</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3638419673124012415</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>39  .48m spent on security, utilities  39  for another empty building   Local News - Trinidad Express</title>
+      <link>https://trinidadexpress.com/news/local/48m-spent-on-security-utilities-for-another-empty-building/article_57dc24fa-1f01-11ef-8e89-1b6a7d0e2462.html</link>
+      <content:encoded>The Auditor General said for the financial year 2023, expenditure of  485,346.73 was incurred for security services and public utilities. The report ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15324275021408059124</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Hylox Security Enhances Blockchain Safety with Comprehensive Audit Services</title>
+      <link>https://boroktimes.com/hylox-security-enhances-blockchain-safety-with-comprehensive-audit-services/</link>
+      <content:encoded>... Bounty Scammer detection, bug bounty KYC badge issuance, and comprehensive blockchain audits. ... Bug Bounty KYC Badge: Issuance of KYC badges for bug ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15955694127201258146</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Balancing Innovation with Privacy and Security in CX Technology - The Financial Express</title>
+      <link>https://www.financialexpress.com/business/industry-balancing-innovation-with-privacy-and-security-in-cx-technology-3508430/</link>
+      <content:encoded>According to the Hacker-Powered Security Report 2023, 61  of hackers plan to use GenAI for hacking tools and to find more vulnerabilities. GenAi ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17571218177548949336</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Hylox Security Enhances Blockchain Safety with Comprehensive Solutions - CoinTrust</title>
+      <link>https://www.cointrust.com/news/hylox-security-enhances-blockchain-safety-with-comprehensive-solutions</link>
+      <content:encoded>Bounty Scammer Detection: This service identifies and mitigates scammer activities within bounty programs. Bug Bounty KYC Badge: Issuance of KYC ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3479462275030276902</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Minimum wage: Focus on job security, NECA begs - Vanguard News</title>
+      <link>https://www.vanguardngr.com/2024/05/minimum-wage-focus-on-job-security-neca-begs/</link>
+      <content:encoded>more top stories. Supreme Court ruling: Otti hails Tinubu's non-interference in judicial process. Breaking: Otti places N25m bounty on killers of 5 ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3051360582090437057</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Progress Telerik Report Server Receives Security Update for Critical Auth Bypass ... - SOCRadar</title>
+      <link>https://socradar.io/progress-telerik-report-server-receives-security-update-for-critical-auth-bypass-vulnerability-cve-2024-4358/</link>
+      <content:encoded>Progress did not provide any workarounds for Telerik Report Server's security vulnerability, CVE-2024-4358  the company stated that the only way to ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1918560197182598001</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Crypto losses from fraud and hacks declined 12  in May   Immunefi - TradingView</title>
+      <link>https://www.tradingview.com/news/cointelegraph:2fd820fd0094b:0-crypto-losses-from-fraud-and-hacks-declined-12-in-may-immunefi/</link>
+      <content:encoded>Crypto losses from fraud and hacks declined by 12  year-over-year, according to a May 30 report from blockchain security firm Immunefi.</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7169830967737972628</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>OpenAI has stopped five attempts to misuse its AI for   39 deceptive activity  39  - TradingView</title>
+      <link>https://www.tradingview.com/news/reuters.com,2024:newsml_L4N3HX3SR:0-openai-has-stopped-five-attempts-to-misuse-its-ai-for-deceptive-activity/</link>
+      <content:encoded>The San Francisco-based firm's report is the ... Separately, Meta Platforms META, in its quarterly security report ... Security vulnerability   Status ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:864801484578783884</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Hundreds Of Blockchain Projects Threatened With Vulnerabilities Except For Dogecoin ...</title>
+      <link>https://voi.id/kr/teknologi/263485</link>
+      <content:encoded>... report from blockchain security firm Halborn on March 13. Halborn ... Security vulnerability on blockchain is not new, however, as technology ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3033687094107083252</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Report a Vulnerability or Bug - Rizkly</title>
+      <link>https://www.rizkly.com/report-a-vulnerability-or-bug/</link>
+      <content:encoded>To report a security vulnerability or bug, please submit a support request. We will assess, work out a solution as soon as possible, ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13821204785392651258</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Impala Bidco Ltd - Q1 2024 Report   TradingView News</title>
+      <link>https://www.tradingview.com/news/reuters.com,2024-05-31:newsml_Wkr28TvbR:0-impala-bidco-ltd-q1-2024-report/</link>
+      <content:encoded>Impero Solutions LtdImpero publishes its interim report ... Impero publishes its interim report for Q1 2024. ... Security vulnerability   Status page ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:473560744460783609</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Darktrace Appoints Jill Popelka as Chief Operating Officer - Global Security Mag Online</title>
+      <link>https://www.globalsecuritymag.fr/darktrace-appoints-jill-popelka-as-chief-operating-officer.html</link>
+      <content:encoded>Jill will join the executive management team and will report to Poppy Gustafsson, Chief Executive Officer. ... Security Vulnerability ... News Files Cyber ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:7402829571753402938</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Arcario announces publication of Q1 2024 interim report on 31 May 2024. - TradingView</title>
+      <link>https://www.tradingview.com/news/reuters.com,2024-05-31:newsml_MFN8CcjnV:0-arcario-announces-publication-of-q1-2024-interim-report-on-31-may-2024/</link>
+      <content:encoded>... report originally scheduled for publication on ... report. These matters w ... Security vulnerability   Status page   Terms of ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:11148944447974362902</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Rapid digitalization of agriculture sector increasing cybersecurity risks, says GlobalData</title>
+      <link>https://www.globalsecuritymag.fr/rapid-digitalization-of-agriculture-sector-increasing-cybersecurity-risks-says.html</link>
+      <content:encoded>GlobalData's latest thematic intelligence report ... Security Vulnerability   Vigilance Vulnerability ... News Files Cyber Security Security Vulnerability ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17625379011351933395</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Zscaler  ZS : New Buy Recommendation for This Technology Giant   Markets Insider</title>
+      <link>https://markets.businessinsider.com/news/stocks/zscaler-zs-new-buy-recommendation-for-this-technology-giant-1033440287</link>
+      <content:encoded>In a report released today, Trevor J. Walsh from JMP Securities maintained a Buy rating on Zscaler  ZS   Research Report , with a price ta...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10292101788281503874</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Global Market Share and Ranking, Overall Sales and Demand Forecast 2024 - 2031 - LinkedIn</title>
+      <link>https://www.linkedin.com/pulse/security-vulnerability-management-system-market-global-x1wne?trk=organization_guest_main-feed-card_feed-article-content</link>
+      <content:encoded>Download Free Sample Report: https:  www.reliableresearchreports.com enquiry request-sample 919982. Analyzing Security and Vulnerability Management ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15631402475427648826</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Zscaler  ZS : New Buy Recommendation for This Technology Giant   Markets Insider</title>
+      <link>https://markets.businessinsider.com/news/stocks/zscaler-zs-new-buy-recommendation-for-this-technology-giant-1033440720</link>
+      <content:encoded>In a report released today, Saket Kalia from Barclays maintained a Buy rating on Zscaler  ZS   Research Report , with a price target of  2...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5249189274054843655</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>IT Security: Threats to Windows - Warning about new IT safety hole in Trend Micro Apex One</title>
+      <link>https://www.breakinglatest.news/technology/it-security-threats-to-windows-warning-about-new-it-safety-hole-in-trend-micro-apex-one/</link>
+      <content:encoded>... Report  Stop: 30.05.2024 . Many vulnerabilities have been reported for Trend Micro Apex One   Risk: average. Risk degree: 5  average  CVSS Base ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10714437161277722817</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Is time  and third-party support  the key to surviving a VMware decision? - SDxCentral</title>
+      <link>https://www.sdxcentral.com/articles/interview/is-time-and-third-party-support-the-key-to-surviving-a-vmware-decision/2024/05/</link>
+      <content:encoded>We also have security vulnerability assessment reports for any vulnerability that's reported. We create this report that has the mitigation ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3929973550403211071</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Report a Security Issue - WP Manage Ninja</title>
+      <link>https://wpmanageninja.com/report-a-security-issue/</link>
+      <content:encoded>Report a Security Issue. At WPManageNinja, the security of our users is our top priority. If you have discovered a security vulnerability of any of ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17372903065414984324</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Zscaler  39 s Strong Performance Tempered by Growth Challenges and Valuation Concerns</title>
+      <link>https://markets.businessinsider.com/news/stocks/zscaler-s-strong-performance-tempered-by-growth-challenges-and-valuation-concerns-1033441108</link>
+      <content:encoded>In a report released today, Brian Essex from J.P. Morgan maintained a Hold rating on Zscaler  ZS   Research Report , with a price target o...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12799712586656390924</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Zscaler  ZS  Receives a Rating Update from a Top Analyst   Markets Insider</title>
+      <link>https://markets.businessinsider.com/news/stocks/zscaler-zs-receives-a-rating-update-from-a-top-analyst-1033441182</link>
+      <content:encoded>TD Cowen analyst Shaul Eyal reiterated a Buy rating on Zscaler  ZS   Research Report  today. The company's shares closed yesterday a...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:10407971702299893799</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>East Stroudsburg University making arrangements for Innovation Center staff after fire</title>
+      <link>https://www.poconorecord.com/story/news/fire/2024/05/30/east-stroudsburg-university-innovation-center-staff-fire/73897616007/</link>
+      <content:encoded>... Responsible Disclosure Subscription Terms   Conditions Terms of Service Privacy Policy Your Privacy Choices Staff Directory   Contact Us Support ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:243674722903328572</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Fortinet reaffirms its commitment to secure product development processes, responsible ... - ITWeb</title>
+      <link>https://www.itweb.co.za/article/fortinet-reaffirms-its-commitment-to-secure-product-development-processes-responsible-vulnerability-disclosure-policies/KWEBb7yLQjOvmRjO</link>
+      <content:encoded>Advancing Fortinet's commitment to Secure by Design principles and responsible disclosure processes ... Central University of Technology triumphs at ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:4314153992420427735</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>This is how much AMD will pay public testers to discover bugs in its products - Times of India</title>
+      <link>https://timesofindia.indiatimes.com/technology/tech-news/this-is-how-much-amd-will-pay-public-testers-to-discover-bugs-in-its-products/articleshow/110599983.cms</link>
+      <content:encoded>TECH NEWS : AMD partners with Intigriti to launch a bug bounty program, offering monetary rewards for security researchers who find bugs in AMD's ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 19:46:59 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6558172869075205975</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T19:46:59Z</dc:date>
     </item>
     <item>
       <title>Responsible Investor Data   Disclosure Special Report</title>
@@ -73,105 +388,6 @@
       <content:encoded>As companies gear up to report in line with the EU's Corporate Sustainability Reporting Directive  CSRD  and policymakers eye alignment with the ...</content:encoded>
       <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:12015785171848416091</guid>
-      <dc:creator />
-      <dc:date>2024-05-31T15:26:34Z</dc:date>
-    </item>
-    <item>
-      <title>Bitget Wallet Tops CertiK Crypto Wallet Security Leaderboard - Markets Insider</title>
-      <link>https://markets.businessinsider.com/news/currencies/bitget-wallet-tops-certik-crypto-wallet-security-leaderboard-1033435461</link>
-      <content:encoded>Victoria, Seychelles, May 30th, 2024, ChainwireBitget Wallet secured the top position on CertiK  39 s Security Wallet Leade...</content:encoded>
-      <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8522838175658745311</guid>
-      <dc:creator />
-      <dc:date>2024-05-31T15:26:34Z</dc:date>
-    </item>
-    <item>
-      <title>Responsible Disclosure Policy - Bynder</title>
-      <link>https://www.bynder.com/en/legal/responsible-disclosure-policy/</link>
-      <content:encoded>Under Bynder  39 s Responsible Disclosure Policy, you are allowed to search for vulnerabilities, so long as you don  39 t : execute or attempt to execute a nbsp ...</content:encoded>
-      <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:9842825945555912448</guid>
-      <dc:creator />
-      <dc:date>2024-05-31T15:26:34Z</dc:date>
-    </item>
-    <item>
-      <title>As Zimbabwe nears IMF deal, food security, social protection top priority list</title>
-      <link>https://www.theafricareport.com/350336/as-zimbabwe-nears-imf-deal-food-security-social-protection-top-priority-list/</link>
-      <content:encoded>Zimbabwe will prioritise funding social protection programmes and food security once it enters an agreement with the IMF in October 2024.</content:encoded>
-      <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13878115694299360490</guid>
-      <dc:creator />
-      <dc:date>2024-05-31T15:26:34Z</dc:date>
-    </item>
-    <item>
-      <title>90  of LGBTQIA  individuals in India prefer to save over spending for financial security: Survey</title>
-      <link>https://www.businesstoday.in/personal-finance/investment/story/90-of-lgbtqia-individuals-in-india-prefer-to-save-over-spending-for-financial-security-survey-431485-2024-05-30</link>
-      <content:encoded>The survey noted that LGBTQIA  individuals showed commendable level of awareness, understanding, and proactive engagement in financial planning, ...</content:encoded>
-      <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5843335942444331132</guid>
-      <dc:creator />
-      <dc:date>2024-05-31T15:26:34Z</dc:date>
-    </item>
-    <item>
-      <title>Financial Security Among Workers Eligible for Automated Savings Programs</title>
-      <link>https://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2024/05/financial-security-among-workers-eligible-for-automated-savings-programs</link>
-      <content:encoded>Illinois launched an automated savings program, Illinois Secure Choice  ILSC , in 2018 to help workers in the state save for retirement.</content:encoded>
-      <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:18278889676972660178</guid>
-      <dc:creator />
-      <dc:date>2024-05-31T15:26:34Z</dc:date>
-    </item>
-    <item>
-      <title>Budget 2024: More money for new doctors, increased breast screening access and security in ED</title>
-      <link>https://www.rnz.co.nz/news/political/518247/budget-2024-more-money-for-new-doctors-increased-breast-screening-access-and-security-in-ed</link>
-      <content:encoded>The Finance Minister says she  quot regrets quot  funding for extra cancer drugs was not possible in Budget 2024, despite it being promised during the nbsp ...</content:encoded>
-      <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:17545630049672291774</guid>
-      <dc:creator />
-      <dc:date>2024-05-31T15:26:34Z</dc:date>
-    </item>
-    <item>
-      <title>DiNapoli: Greenburgh-Graham Union Free School District Superintendent and ... - NYS Comptroller</title>
-      <link>https://www.osc.ny.gov/press/releases/2024/05/dinapoli-greenburgh-graham-union-free-school-district-superintendent-and-former-security-system</link>
-      <content:encoded>New York State Comptroller Thomas P. DiNapoli and Westchester County District Attorney Miriam E. Rocah announced that the former superintendent of nbsp ...</content:encoded>
-      <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:15738683972525339832</guid>
-      <dc:creator />
-      <dc:date>2024-05-31T15:26:34Z</dc:date>
-    </item>
-    <item>
-      <title>Chart a path to financial security in your senior years with Retirement digiPortfolio - CNA</title>
-      <link>https://www.channelnewsasia.com/advertorial/chart-path-financial-security-your-senior-years-retirement-digiportfolio-4350936</link>
-      <content:encoded>DBS, in collaboration with J.P. Morgan Asset Management, introduces Asia  39 s first age-adaptive retirement investment portfolio designed to nbsp ...</content:encoded>
-      <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3469009590157468667</guid>
-      <dc:creator />
-      <dc:date>2024-05-31T15:26:34Z</dc:date>
-    </item>
-    <item>
-      <title>Plurilock Security Inc. Reports Record First Quarter Fiscal 2024 Financial Results</title>
-      <link>https://finance.yahoo.com/news/plurilock-security-inc-reports-record-035500345.html</link>
-      <content:encoded>Gross Margin  2.5 million, 21.9  of sales in Q1 2024 vs.  2.1 million, 13.6  in Q1 2023.Plurilock Critical Services growth of 66  to  1.0 million nbsp ...</content:encoded>
-      <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:2908701770547348605</guid>
-      <dc:creator />
-      <dc:date>2024-05-31T15:26:34Z</dc:date>
-    </item>
-    <item>
-      <title>Financial security heading into retirement hampered by student loan debt: report</title>
-      <link>https://www.mcknightsseniorliving.com/news/financial-security-heading-into-retirement-hampered-by-student-loan-debt-report/</link>
-      <content:encoded>Older workers often are saddled with student loan debt that hampers their ability to be financially secure in retirements.</content:encoded>
-      <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3638419673124012415</guid>
-      <dc:creator />
-      <dc:date>2024-05-31T15:26:34Z</dc:date>
-    </item>
-    <item>
-      <title>Hundreds Of Blockchain Projects Threatened With Vulnerabilities Except For Dogecoin ...</title>
-      <link>https://voi.id/kr/teknologi/263485</link>
-      <content:encoded>... report from blockchain security firm Halborn on March 13. Halborn ... Security vulnerability on blockchain is not new, however, as technology ...</content:encoded>
-      <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:3033687094107083252</guid>
       <dc:creator />
       <dc:date>2024-05-31T15:26:34Z</dc:date>
     </item>
@@ -185,11 +401,38 @@
       <dc:date>2024-05-31T15:26:34Z</dc:date>
     </item>
     <item>
+      <title>Bitget Wallet Tops CertiK Crypto Wallet Security Leaderboard - Markets Insider</title>
+      <link>https://markets.businessinsider.com/news/currencies/bitget-wallet-tops-certik-crypto-wallet-security-leaderboard-1033435461</link>
+      <content:encoded>Victoria, Seychelles, May 30th, 2024, ChainwireBitget Wallet secured the top position on CertiK  39 s Security Wallet Leade...</content:encoded>
+      <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:8522838175658745311</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T15:26:34Z</dc:date>
+    </item>
+    <item>
       <title>Modern apps and APIs rise in a multicloud world - Global Security Mag Online</title>
       <link>https://www.globalsecuritymag.fr/modern-apps-and-apis-rise-in-a-multicloud-world.html</link>
       <content:encoded>The SOAS report found that, at each successive ... Security Vulnerability   Vigilance Vulnerability ... News Files Cyber Security Security Vulnerability ...</content:encoded>
       <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
       <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5418025007073257927</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T15:26:34Z</dc:date>
+    </item>
+    <item>
+      <title>Six-week old infant in critical condition, parents charged with attempted murder: Houma Police</title>
+      <link>https://www.houmatoday.com/story/news/crime/2024/05/30/infant-in-critical-condition-parents-charged-with-attempted-murder-hpuma-police-report/73906396007/</link>
+      <content:encoded>Police say the couple is responsible for the abuse that placed a six ... Responsible Disclosure Subscription Terms   Conditions Terms of Service ...</content:encoded>
+      <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:1733321789655243929</guid>
+      <dc:creator />
+      <dc:date>2024-05-31T15:26:34Z</dc:date>
+    </item>
+    <item>
+      <title>Financial Security Among Workers Eligible for Automated Savings Programs</title>
+      <link>https://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2024/05/financial-security-among-workers-eligible-for-automated-savings-programs</link>
+      <content:encoded>Illinois launched an automated savings program, Illinois Secure Choice  ILSC , in 2018 to help workers in the state save for retirement.</content:encoded>
+      <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:18278889676972660178</guid>
       <dc:creator />
       <dc:date>2024-05-31T15:26:34Z</dc:date>
     </item>
@@ -203,20 +446,20 @@
       <dc:date>2024-05-31T15:26:34Z</dc:date>
     </item>
     <item>
-      <title>This is how much AMD will pay public testers to discover bugs in its products - Times of India</title>
-      <link>https://timesofindia.indiatimes.com/technology/tech-news/this-is-how-much-amd-will-pay-public-testers-to-discover-bugs-in-its-products/articleshow/110599983.cms</link>
-      <content:encoded>TECH NEWS : AMD partners with Intigriti to launch a bug bounty program, offering monetary rewards for security researchers who find bugs in AMD's ...</content:encoded>
+      <title>Hackers with good intentions: white hats vs. black hats - IO - Innovation Origins</title>
+      <link>https://innovationorigins.com/en/hackers-with-good-intentions-white-hats-vs-black-hats/</link>
+      <content:encoded>In this column, expert Patrick Jordens zooms in on ethical hacking, in which a hacker with good intentions looks for vulnerabilities in software and ...</content:encoded>
       <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:6558172869075205975</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5747556531187523805</guid>
       <dc:creator />
       <dc:date>2024-05-31T15:26:34Z</dc:date>
     </item>
     <item>
-      <title>OpenAI has stopped five attempts to misuse its AI for   39 deceptive activity  39  - TradingView</title>
-      <link>https://www.tradingview.com/news/reuters.com,2024:newsml_L4N3HX3SR:0-openai-has-stopped-five-attempts-to-misuse-its-ai-for-deceptive-activity/</link>
-      <content:encoded>The San Francisco-based firm's report is the ... Separately, Meta Platforms META, in its quarterly security report ... Security vulnerability   Status ...</content:encoded>
+      <title>As Zimbabwe nears IMF deal, food security, social protection top priority list</title>
+      <link>https://www.theafricareport.com/350336/as-zimbabwe-nears-imf-deal-food-security-social-protection-top-priority-list/</link>
+      <content:encoded>Zimbabwe will prioritise funding social protection programmes and food security once it enters an agreement with the IMF in October 2024.</content:encoded>
       <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:864801484578783884</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:13878115694299360490</guid>
       <dc:creator />
       <dc:date>2024-05-31T15:26:34Z</dc:date>
     </item>
@@ -230,11 +473,11 @@
       <dc:date>2024-05-31T15:26:34Z</dc:date>
     </item>
     <item>
-      <title>East Stroudsburg University making arrangements for Innovation Center staff after fire</title>
-      <link>https://www.poconorecord.com/story/news/fire/2024/05/30/east-stroudsburg-university-innovation-center-staff-fire/73897616007/</link>
-      <content:encoded>... Responsible Disclosure Subscription Terms   Conditions Terms of Service Privacy Policy Your Privacy Choices Staff Directory   Contact Us Support ...</content:encoded>
+      <title>90  of LGBTQIA  individuals in India prefer to save over spending for financial security: Survey</title>
+      <link>https://www.businesstoday.in/personal-finance/investment/story/90-of-lgbtqia-individuals-in-india-prefer-to-save-over-spending-for-financial-security-survey-431485-2024-05-30</link>
+      <content:encoded>The survey noted that LGBTQIA  individuals showed commendable level of awareness, understanding, and proactive engagement in financial planning, ...</content:encoded>
       <pubDate>Fri, 31 May 2024 15:26:34 GMT</pubDate>
-      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:243674722903328572</guid>
+      <guid isPermaLink="false">tag:google.com,2013:googlealerts/feed:5843335942444331132</guid>
       <dc:creator />
       <dc:date>2024-05-31T15:26:34Z</dc:date>
     </item>
